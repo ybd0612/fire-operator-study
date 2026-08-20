@@ -1,0 +1,15 @@
+{
+  "name": "fire-operator-study-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "消防设施操作员（四级/中级工）线下常规考核零基础学习站点",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
