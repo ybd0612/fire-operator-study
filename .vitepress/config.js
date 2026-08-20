@@ -32,7 +32,8 @@ const skillSidebar = [
       { text: '4. 设施维修', link: '/skill/04-repair' },
       { text: '5. 设施检测', link: '/skill/05-detection' },
       { text: '火灾自动报警系统项目卡', link: '/skill/alarm-system' },
-      { text: '水系统设备项目卡', link: '/skill/water-system' }
+      { text: '水系统设备项目卡', link: '/skill/water-system' },
+      { text: '其他消防设施项目卡', link: '/skill/other-facilities' }
     ]
   }
 ]
@@ -84,7 +85,8 @@ const homeSidebar = [
       { text: '4. 设施维修', link: '/skill/04-repair' },
       { text: '5. 设施检测', link: '/skill/05-detection' },
       { text: '火灾自动报警系统项目卡', link: '/skill/alarm-system' },
-      { text: '水系统设备项目卡', link: '/skill/water-system' }
+      { text: '水系统设备项目卡', link: '/skill/water-system' },
+      { text: '其他消防设施项目卡', link: '/skill/other-facilities' }
     ]
   }
 ]
