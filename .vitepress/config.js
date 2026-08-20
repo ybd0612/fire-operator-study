@@ -48,7 +48,8 @@ const homeSidebar = [
       { text: '零基础导学', link: '/beginner-guide' },
       { text: '核心术语表', link: '/glossary' },
       { text: '权威依据与版本边界', link: '/sources' },
-      { text: '技能考核路线图', link: '/skill-roadmap' }
+      { text: '技能考核路线图', link: '/skill-roadmap' },
+      { text: '标准逐条映射', link: '/standard-mapping' }
     ]
   },
   {
