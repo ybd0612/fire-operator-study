@@ -17,6 +17,8 @@
 
 ## 每道训练卡应保留的字段
 
+以下字段是首批 Markdown 题卡的治理清单，也是后续迁移 JSON/组件时的最小 schema。当前项目先以 Markdown 直接呈现，避免在题源尚未稳定前引入动态题库复杂度。
+
 ```yaml
 id: theory-03-001
 type: single # single / multiple / judge / scenario / procedure
@@ -34,19 +36,25 @@ keyPoints:
   - 火灾类别
 safety: 现场安全提示（如适用）
 difficulty: L1 # L1 / L2 / L3
-sourceType: original
+sourceType: original # official-real / official-public-sample / original / adapted
 sourceRef: 编辑组依据《消防设施操作员国家职业技能标准（2019年版）》原创训练题
 sourceDate: null
 standardRefs:
   - GB/T 4968
 verifiedAt: 2026-08-20
 version: 课程 v1
+status: verified # draft / verified / retired
+provenance: 编辑、依据、改编说明和审核记录
+region: null
+examYear: null
+tags:
+  - 火灾分类
 related:
-  - theory/03-combustion-fire
-  - glossary
+  - /theory/03-combustion-fire
+  - /glossary
 ```
 
-技能卡还应增加：操作前确认、步骤、预期动作、反馈信号、恢复状态、记录字段和安全边界。
+技能卡还应增加：`skillDirection`、操作前确认、步骤、预期动作、反馈信号、恢复状态、记录字段和安全边界。若未来迁移为 JSON 或 Vue 组件，必须保留这些字段，不能只保留题干和答案。
 
 ## 版本和核验规则
 
