@@ -49,6 +49,16 @@ const homeSidebar = [
     ]
   },
   {
+    text: '只读训练',
+    collapsed: false,
+    items: [
+      { text: '训练总览', link: '/training' },
+      { text: '理论训练', link: '/training-theory' },
+      { text: '技能训练', link: '/training-skill' },
+      { text: '题源与标记说明', link: '/training-labels' }
+    ]
+  },
+  {
     text: '理论考试',
     items: [
       { text: '1. 职业道德', link: '/theory/01-professional-ethics' },
@@ -87,6 +97,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '考核说明', link: '/exam-guide' },
       { text: '零基础导学', link: '/beginner-guide' },
+      { text: '只读训练', link: '/training' },
       { text: '理论考试', link: '/theory/01-professional-ethics' },
       { text: '技能操作', link: '/skill/01-monitoring' }
     ],

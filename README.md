@@ -16,6 +16,10 @@ fire-operator-site/
 ├── exam-guide.md                 # 考核说明（报名、考试边界、合格线、流程）
 ├── beginner-guide.md             # 零基础导学（学习顺序 / 方法 / 安全边界）
 ├── glossary.md                   # 核心术语表
+├── training.md                   # 只读训练总览
+├── training-theory.md            # 理论题目、答案与解析
+├── training-skill.md             # 技能场景、步骤与判定要点
+├── training-labels.md            # 题源、难度与版本标记
 ├── sources.md                    # 权威依据、版本边界与链接
 ├── theory/                       # 理论考试知识点（10 个模块）
 │   ├── 01-professional-ethics.md
