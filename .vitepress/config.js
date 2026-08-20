@@ -89,7 +89,8 @@ export default defineConfig({
   title: '消防设施操作员（四级）学习站',
   description: '面向零基础学员的四级/中级工线下常规考核（理论+技能）系统学习站点',
   lang: 'zh-CN',
-  base: '/fire-operator-study/',
+  // 使用自定义域名部署，静态资源和站内链接从域名根路径加载
+  base: '/',
   cleanUrls: true,
   ignoreDeadLinks: false,
   themeConfig: {
