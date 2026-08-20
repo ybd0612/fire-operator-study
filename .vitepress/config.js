@@ -42,6 +42,8 @@ const homeSidebar = [
     items: [
       { text: '首页', link: '/' },
       { text: '考核说明', link: '/exam-guide' },
+      { text: '零基础导学', link: '/beginner-guide' },
+      { text: '核心术语表', link: '/glossary' },
       { text: '权威依据与版本边界', link: '/sources' },
       { text: '技能考核路线图', link: '/skill-roadmap' }
     ]
@@ -84,6 +86,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '考核说明', link: '/exam-guide' },
+      { text: '零基础导学', link: '/beginner-guide' },
       { text: '理论考试', link: '/theory/01-professional-ethics' },
       { text: '技能操作', link: '/skill/01-monitoring' }
     ],

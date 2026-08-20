@@ -14,6 +14,8 @@ fire-operator-site/
 ├── .vitepress/config.js          # 站点导航与侧边栏配置
 ├── index.md                      # 首页（学习路径 / 模块总览）
 ├── exam-guide.md                 # 考核说明（报名、考试边界、合格线、流程）
+├── beginner-guide.md             # 零基础导学（学习顺序 / 方法 / 安全边界）
+├── glossary.md                   # 核心术语表
 ├── sources.md                    # 权威依据、版本边界与链接
 ├── theory/                       # 理论考试知识点（10 个模块）
 │   ├── 01-professional-ethics.md
