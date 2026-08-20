@@ -41,7 +41,9 @@ const homeSidebar = [
     text: '开始学习',
     items: [
       { text: '首页', link: '/' },
-      { text: '考核说明', link: '/exam-guide' }
+      { text: '考核说明', link: '/exam-guide' },
+      { text: '权威依据与版本边界', link: '/sources' },
+      { text: '技能考核路线图', link: '/skill-roadmap' }
     ]
   },
   {
