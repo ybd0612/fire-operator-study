@@ -49,6 +49,7 @@ const homeSidebar = [
       { text: '核心术语表', link: '/glossary' },
       { text: '权威依据与版本边界', link: '/sources' },
       { text: '技能考核路线图', link: '/skill-roadmap' },
+      { text: '综合学习课', link: '/course-companion' },
       { text: '标准逐条映射', link: '/standard-mapping' }
     ]
   },

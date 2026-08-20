@@ -133,6 +133,7 @@ fire-operator-site/
 ├── beginner-guide.md              # 零基础导学与完整学习路线
 ├── glossary.md                    # 核心术语表
 ├── training.md                    # 只读训练总览
+├── course-companion.md            # 综合学习课：原理、设备、仪器、故障与技能对应
 ├── training-theory.md             # 理论题目、答案与解析
 ├── training-skill.md              # 技能场景、步骤与判定要点
 ├── training-labels.md             # 题源、难度与版本标记
