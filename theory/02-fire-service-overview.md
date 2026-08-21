@@ -89,4 +89,4 @@
 3. 建筑消防设施全面检测和消防控制室日常监控有什么区别？
 4. 为什么重大停用、改造和联动逻辑变更不能由值班员自行决定？
 
-> 参考：[《中华人民共和国消防法》](https://www.npc.gov.cn/npc/c30834/201904/1c3d6f2d5c8e4f5a8b6c7d8e9f0a1b2c.shtml) 第十六条；[《消防设施操作员国家职业技能标准（2019年版）》](https://xfhyjd.119.gov.cn/zwossread/open1File/FirefightingSkillsAssessmentSystem/2025-11-13/4f0f6d863cf843228b5ce52030b59bb7/16193156145476990d82b-cb9d-43a7-a5f0-522abe3d1f8c%E5%9B%BD%E5%AE%B6%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E6%A0%87%E5%87%86%E2%80%94%E2%80%94%E6%B6%88%E9%98%B2%E8%AE%BE%E6%96%BD%E6%93%8D%E4%BD%9C%E5%91%98.pdf) 2.2.1。
+> 参考：[《中华人民共和国消防法》](https://flk.npc.gov.cn/) 第十六条；[《消防设施操作员国家职业技能标准（2019年版）》](https://xfhyjd.119.gov.cn/zwossread/open1File/FirefightingSkillsAssessmentSystem/2025-11-13/4f0f6d863cf843228b5ce52030b59bb7/16193156145476990d82b-cb9d-43a7-a5f0-522abe3d1f8c%E5%9B%BD%E5%AE%B6%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E6%A0%87%E5%87%86%E2%80%94%E2%80%94%E6%B6%88%E9%98%B2%E8%AE%BE%E6%96%BD%E6%93%8D%E4%BD%9C%E5%91%98.pdf) 2.2.1。

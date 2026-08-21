@@ -89,3 +89,4 @@
 - 本轮继续从零基础阅读路径检查报警与水系统：为报警信号链增加“感知器官—判断中心—传令接口—执行者—回报消息”比喻；为水系统设备识别卡增加“水流链路—状态变化—反馈结果”的识别方法；修正报警系统和水系统的重复章节编号，并修正技能题卡 S02 的重复步骤编号。
 - 本轮完成水系统设备级第二批：`skill/water-system.md` 新增水池/水箱、主备泵与稳压泵、报警阀组/控制阀、水流指示器/压力开关、末端试水/排水、接合器/消火栓/喷头六类零基础学习卡；`training-skill.md` 增加水系统复述清单；同步 `standard-mapping.md` 与 `knowledge-coverage-matrix.md`，明确水力、机械、控制三类证据及越权操作边界。
 - 本轮完成其他消防设施设备级第三批：`skill/other-facilities.md` 新增防烟排烟、三类防火分隔构件、应急照明/疏散指示、消防电话/应急广播、消防电梯、灭火器、室内消火栓七类零基础学习卡；`training-skill.md` 增加其他设施复述清单；同步 `standard-mapping.md` 与 `knowledge-coverage-matrix.md`，明确人员安全、专业协同、动作/反馈和恢复记录边界。
+- 2026-08-21 全站静态终审：题号、站内绝对链接、Markdown 基本结构和版本口径检查通过；修正 S02 重复步骤编号及两篇理论页疑似失效法律详情链接。VitePress `resolvePageImports` 构建错误仍待隔离定位，未宣称构建通过；详见 `outputs/overview-2026-08-21-final-static-audit.md`。
