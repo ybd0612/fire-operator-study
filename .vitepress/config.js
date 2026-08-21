@@ -3,6 +3,17 @@ import { defineConfig } from 'vitepress'
 // 侧边栏：理论考试模块
 const theorySidebar = [
   {
+    text: '学习导航',
+    collapsed: false,
+    items: [
+      { text: '首页', link: '/' },
+      { text: '零基础导学', link: '/beginner-guide' },
+      { text: '核心术语表', link: '/glossary' },
+      { text: '技能考核路线图', link: '/skill-roadmap' },
+      { text: '训练总览', link: '/training' }
+    ]
+  },
+  {
     text: '理论考试 · 知识点',
     collapsed: false,
     items: [
@@ -22,6 +33,17 @@ const theorySidebar = [
 
 // 侧边栏：技能操作考核模块
 const skillSidebar = [
+  {
+    text: '学习导航',
+    collapsed: false,
+    items: [
+      { text: '首页', link: '/' },
+      { text: '零基础导学', link: '/beginner-guide' },
+      { text: '核心术语表', link: '/glossary' },
+      { text: '技能考核路线图', link: '/skill-roadmap' },
+      { text: '训练总览', link: '/training' }
+    ]
+  },
   {
     text: '技能操作考核 · 职业功能',
     collapsed: false,
@@ -107,8 +129,9 @@ export default defineConfig({
       { text: '考核说明', link: '/exam-guide' },
       { text: '零基础导学', link: '/beginner-guide' },
       { text: '只读训练', link: '/training' },
-      { text: '理论考试', link: '/theory/01-professional-ethics' },
-      { text: '技能操作', link: '/skill/01-monitoring' }
+      { text: '核心术语', link: '/glossary' },
+      { text: '理论课程', link: '/training-theory' },
+      { text: '技能路线', link: '/skill-roadmap' }
     ],
     sidebar: {
       '/theory/': theorySidebar,
