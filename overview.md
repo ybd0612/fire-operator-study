@@ -79,3 +79,4 @@
 - 第八批来源与考试口径审查：`sources.md` 将 2024-11-19 技能考核公告改为官方详情入口，并明确新报名考生、历史报名和补考过渡安排不能混为全国统一规则；`exam-guide.md` 为四项中级申报条件补充标准基线和当批次资格审核边界；`knowledge-coverage-matrix.md` 更新检测仪器、S01-S49 技能题卡和考试流程缺口状态。
 - 第九批前置同步审查：修正 `skill/other-facilities.md` 重复章节编号；将水系统 S32-S37、其他设施检测/维修场景同步到 `standard-mapping.md`；同步更新检测覆盖矩阵，避免把已建立的仪器与检测闭环继续列为“无内容”。
 - 建筑防火概念深学补强：`theory/04-building-fire.md` 将防火分区、防烟分区、防火间距、耐火极限和耐火等级扩展为对象、作用、组成、四级框架、生活化比喻、判断顺序和易错点；`glossary.md`、`course-companion.md`、`training.md`、`standard-mapping.md`、`knowledge-coverage-matrix.md` 同步；理论训练新增 T38-T39，题卡总数更新为 T01-T39。
+- 全站小知识点第一轮补强：按“是什么—解决什么问题—由什么组成—怎样工作—适用场景—如何证明正常—异常怎样处理—如何恢复记录”统一审查。已补强 `theory/01/02/03/06/07/08/09`、`skill/02/03/04/05`、`skill/alarm-system.md`、`skill/water-system.md`、`course-companion.md` 和 `glossary.md`；新增职业责任链、信息输入处理存储输出链、燃烧三要素/四面体关系、设施四层/五层结构、控制方式差异、水力基础、检测术语、保养/检测/维修边界和故障/缺陷/误操作/停用辨析。同步更新 `knowledge-coverage-matrix.md`，未写死未经依据核验的统一阈值或品牌步骤。
