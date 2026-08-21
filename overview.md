@@ -78,3 +78,4 @@
 - 第二批完善火灾自动报警系统课程：`skill/alarm-system.md` 在保留原有内容基础上新增零基础设备差异表、检测前置与分设备检测记录、8类常见故障诊断卡、理论章节关联；`training-skill.md` 新增 S26-S31 六张报警系统设备专项原创只读场景题；`standard-mapping.md`、`knowledge-coverage-matrix.md` 和本概览同步到 S01-S31 与报警项目卡口径。新增内容不写死未核验阈值、不冒充官方真题，未引入依赖且本轮不运行构建。
 - 第八批来源与考试口径审查：`sources.md` 将 2024-11-19 技能考核公告改为官方详情入口，并明确新报名考生、历史报名和补考过渡安排不能混为全国统一规则；`exam-guide.md` 为四项中级申报条件补充标准基线和当批次资格审核边界；`knowledge-coverage-matrix.md` 更新检测仪器、S01-S49 技能题卡和考试流程缺口状态。
 - 第九批前置同步审查：修正 `skill/other-facilities.md` 重复章节编号；将水系统 S32-S37、其他设施检测/维修场景同步到 `standard-mapping.md`；同步更新检测覆盖矩阵，避免把已建立的仪器与检测闭环继续列为“无内容”。
+- 建筑防火概念深学补强：`theory/04-building-fire.md` 将防火分区、防烟分区、防火间距、耐火极限和耐火等级扩展为对象、作用、组成、四级框架、生活化比喻、判断顺序和易错点；`glossary.md`、`course-companion.md`、`training.md`、`standard-mapping.md`、`knowledge-coverage-matrix.md` 同步；理论训练新增 T38-T39，题卡总数更新为 T01-T39。
