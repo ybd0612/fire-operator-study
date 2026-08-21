@@ -83,3 +83,4 @@
 - 根据零基础阅读反馈，进一步补齐设施操作的隐藏前置知识：把“确认任务和对象”展开为任务类型、输入/控制/执行/反馈四层对象、区域定位、操作目的、完成标准和“五问确认法”；同步 `course-companion.md`、`glossary.md`、`training.md`、`standard-mapping.md` 和 `knowledge-coverage-matrix.md`。后续其他“确认/核对/观察/恢复”短语均按同一标准继续排查。
 - 本轮继续按零基础“前置知识不能默认已知”原则补强：`skill/01-monitoring.md` 新增控制器、输入/控制/执行/反馈四类角色和“正常监视”识别；`skill/03-maintenance.md` 解释“规定状态”；`skill/04-repair.md` 增加“什么时候不能继续排查”的停止与升级条件；`skill/05-detection.md` 解释仪器功能/档位、量程、分辨力、校准/检定；`skill/other-facilities.md` 补充门/卷帘/阀、照明/指示、电话/广播、电梯迫降的零基础差异；`course-companion.md` 同步控制链前置课。并修正保养、维修页面重复章节编号。
 - 本轮继续补齐报警与水系统的隐藏前置：`skill/alarm-system.md` 新增建筑位置与系统定位的区别，解释回路、地址、区域和模块；`skill/water-system.md` 新增水流方向、控制阀/水流指示器/压力开关及水力、机械、反馈三类证据；`theory/06-fire-facilities.md` 补充探测器为何是“火灾特征到控制器输入”的转换设备；同步 `course-companion.md`、`glossary.md` 和 `training.md`。
+- 本轮继续细化“按方案、核对条件、观察反馈、恢复状态”等隐藏前置：报警检测新增对象—依据—证据—影响—停止条件和五项结果对照；水系统新增检测前中后解释及末端试水零基础记录示例；理论设施页补充水泵/风机从触发、控制、动作、反馈到恢复的五问判断；同步 `standard-mapping.md` 与 `knowledge-coverage-matrix.md`。
