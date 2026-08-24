@@ -19,6 +19,7 @@ const siteSidebar = [
     collapsed: false,
     items: [
       { text: '训练总览', link: '/training' },
+      { text: '考前模拟题', link: '/mock-exam' },
       { text: '理论训练', link: '/training-theory' },
       { text: '技能训练', link: '/training-skill' },
       { text: '题源与标记说明', link: '/training-labels' }
@@ -80,6 +81,7 @@ export default defineConfig({
       { text: '考核说明', link: '/exam-guide' },
       { text: '零基础导学', link: '/beginner-guide' },
       { text: '只读训练', link: '/training' },
+      { text: '考前模拟题', link: '/mock-exam' },
       { text: '核心术语', link: '/glossary' },
       { text: '理论课程', link: '/training-theory' },
       { text: '技能路线', link: '/skill-roadmap' }

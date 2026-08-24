@@ -1,0 +1,13291 @@
+# 消防设施操作员中级监控模拟题（四套整理版）
+
+> 题型顺序：单选题 → 多选题 → 判断题。各题型合并后分别从第 1 题开始连续编号。
+
+## 目录
+
+- [一、单选题](#一单选题)
+- [二、多选题](#二多选题)
+- [三、判断题](#三判断题)
+
+## 一、单选题
+
+#### 单选题 1
+
+电气火灾监控设备接收到探测器发送来的监控报警信号，监控报警信号具有()显示级别。
+
+<ul class="question-options">
+<li><strong>A.</strong> 一般</li>
+<li class="correct-option"><strong>B.</strong> 最高 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 高</li>
+<li><strong>D.</strong> 最低</li>
+</ul>
+
+**解析(*)：** 监控报警信号属于电气火灾监控设备的最高显示级别，因此正确答案为 B。
+
+---
+
+
+
+#### 单选题 2
+
+下列场所或部位应采取排烟等烟气控制措施的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 建筑高度为36m的厂房内长度为24m的疏散走道 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 占地面积为900㎡的木器仓库</li>
+<li><strong>C.</strong> 建筑面积为3000㎡的陶瓷烘干车间</li>
+<li><strong>D.</strong> 建筑面积50㎡的地下或半地下丙类生产场所</li>
+</ul>
+
+**解析：** 厂房或仓库的下列场所或部位应设置排烟设施：人员或可燃物较多的丙类生产场所，丙类厂房内建筑面积大于300m²且经常有人停留或可燃物较多的地上房间； 2 建筑面积大于5000m²的丁类生产车间；占地面积大于1000m²的丙类仓库；高度大于32m的高层厂房（仓库）内长度大于20m的疏散走道，其他厂房（仓库）内长度大于40m的疏散走道。
+
+---
+
+
+
+#### 单选题 3
+
+关于可燃气体报警系统下列说法正确的是 （）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 可燃气体报警控制器必须具有低限、高限两段报警</li>
+<li class="correct-option"><strong>B.</strong> 可燃气体报警系统具有屏蔽状态 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 可燃气体报警控制器高限报警时，故障报警指示灯亮</li>
+<li><strong>D.</strong> 可燃气体报警体统处于多种报警并存状态时，可燃气体报警控制器发出的是故障报警声</li>
+</ul>
+
+**解析：** （1）对具有低限、高限两段报警的可燃气体报警控制器，当可燃气体报警控制器发出报警声，报警指示灯亮，液晶显示器显示低限或高限报警相关信息，可判定可燃气体探测报警系统处于可燃气体低限或高限报警状态。A、C选项错误；（2）对只有低限报警的可燃气体报警控制器，当可燃气体报警控制器发出报警声，报警指示灯亮，液晶显示器显示报警相关信息，可判定可燃气体探测报警系统处于可燃气体报警状态。所以可燃气体报警控制器可以只有低限报警；当可燃气体报警控制器发出故障报警声，故障指示灯亮。当可燃气体报警控制器发出报警声，报警指示灯和故障指示灯都亮，液晶显示器显示可燃气体报警信息和故障报警信息，可判定可燃气体探测报警系统处于多种报警并存状态。当可燃气体报警控制器面板界面上单独的“系统故障”指示灯点亮, 则应判断可燃气体报警控制器处于系统故障状态。如果可燃气体报警控制器的专用屏蔽总指示灯点亮且显示器显示屏蔽时间、部位等信息，则判断可燃气体报警控制器处于屏蔽状态。故D错误，B正确。
+
+---
+
+
+
+#### 单选题 4
+
+工业及商业用途点型可燃气体探测器的分类有几种划分方式 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 2</li>
+<li><strong>B.</strong> 3</li>
+<li class="correct-option"><strong>C.</strong> 4 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 5</li>
+</ul>
+
+**解析：** 工业及商业用途点型可燃气体探测器按工作方式分为系统式探测器和独立式探测器，按采样方式分为自由扩散式探测器、吸气 式探测器、光纤传感式探测器，按测量范围分为测量范围为3%LEL~100%LEL的探 测器、测量范围在3%LEL以下的探测器（包括探测一氧化碳的探测器）、测量范围 在100%LEL以上的探测器，按使用环境条件分为室内使用型探测器、室外使用型探测器。
+
+---
+
+
+
+#### 单选题 5
+
+保养报警阀组时，应检查延迟器的 ()，防止异物堵塞影响功能。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 漏水接头 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 阀门</li>
+<li><strong>C.</strong> 过滤器</li>
+<li><strong>D.</strong> 管路</li>
+</ul>
+
+**解析：** 检查湿式系统延迟器的漏水接头，必要时进行清洗，防止异物堵塞，保证其畅通。
+
+---
+
+
+
+#### 单选题 6
+
+火灾光警报器应设置在每个楼层的楼梯口、消防电梯前室、建筑内部拐角等处的明显部位，且不宜与()设置在同一面墙上。
+
+<ul class="question-options">
+<li><strong>A.</strong> 区域显示器</li>
+<li><strong>B.</strong> 消防应急广播扬声器</li>
+<li><strong>C.</strong> 消防电话分机</li>
+<li class="correct-option"><strong>D.</strong> 安全出口指示标志灯具 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾光警报器应设置在每个楼层的楼梯口、消防电梯前室、建筑内部拐角等处的明显部位，且不宜与安全出口指示标志灯具设置在同一面墙上。
+
+---
+
+
+
+#### 单选题 7
+
+()是指响应异常温度、温升速率和温差变化等参数的探测器。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火焰探测器</li>
+<li class="correct-option"><strong>B.</strong> 感温火灾探测器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 感烟火灾探测器</li>
+<li><strong>D.</strong> 气体火灾探测器</li>
+</ul>
+
+**解析：** 感温火灾探测器：响应异常温度、温升速率和温差变化等参数的探测器。
+
+---
+
+
+
+#### 单选题 8
+
+当有某类报警信号输入时，在消防控制室图形显示装置上直接査看状态的专用总指示、总平面布局图中的建筑位置、建筑平面图上指示相应部位的物理位置显示情况，确定()等信息。
+
+<ul class="question-options">
+<li><strong>A.</strong> 时间和编号</li>
+<li><strong>B.</strong> 编号</li>
+<li><strong>C.</strong> 部位和编号</li>
+<li class="correct-option"><strong>D.</strong> 时间和部位 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 1.通过消防控制室图形显示装置查看报警信息和确定报警部位(1)直接查看对应总平面布局图和建筑平面图信息当有某类报警信号输入时，在消防控制室图形显示装置上直接査看状态的专用 总指示、总平面布局图中的建筑位置、建筑平面图上指示相应部位的物理位置显示 情况，确定时间和部位等信息。
+
+---
+
+
+
+#### 单选题 9
+
+承担火灾探测报警产品保养的企业应制订保养作业()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 指导书 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 说明书</li>
+<li><strong>C.</strong> 申请书</li>
+<li><strong>D.</strong> 任务书</li>
+</ul>
+
+**解析：** 承担保养的企业应制订保养作业指导书，对保养人员进行相关培训，确保各项保养操作符合产品使用说明书和作业指导书的要求。
+
+---
+
+
+
+#### 单选题 10
+
+挡烟垂壁采用()材料制成，垂直安装在建筑顶棚、梁或吊顶下，能在火灾时形成一定烟空间的挡烟分隔设施。
+
+<ul class="question-options">
+<li><strong>A.</strong> 易燃</li>
+<li><strong>B.</strong> 可燃</li>
+<li><strong>C.</strong> 难燃</li>
+<li class="correct-option"><strong>D.</strong> 不燃 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 挡烟垂壁是釆用不燃材料制成，垂直安装在建筑顶棚、梁或吊顶下，能在火灾 时形成一定蓄烟空间的挡烟分隔设施，按安装方式可分为固定式挡烟垂壁和活动式 挡烟垂壁。
+
+---
+
+
+
+#### 单选题 11
+
+排烟风机应能满足在 ()高温环境连续工作30min的要求。
+
+<ul class="question-options">
+<li><strong>A.</strong> 68°C</li>
+<li><strong>B.</strong> 70°C</li>
+<li><strong>C.</strong> 150°C</li>
+<li class="correct-option"><strong>D.</strong> 280℃ <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 排烟风机应能满足在280℃高温环境中连续工作30 min的要求，并应与风机入口处的排烟 防火阀联锁。当排烟防火阀关闭时，排烟风机应能联锁停止运转。
+
+---
+
+
+
+#### 单选题 12
+
+环境温度不低于4°C且不高于70°C的场所，应采用()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 干式系统</li>
+<li class="correct-option"><strong>B.</strong> 湿式系统 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 预作用系统</li>
+<li><strong>D.</strong> 重复启闭预作用系统</li>
+</ul>
+
+**解析：** 湿式系统适用于环境温度不低于4℃且不高于70℃的场所。
+
+---
+
+
+
+#### 单选题 13
+
+查看可燃气体报警控制器的报警信息有几种方式 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 1</li>
+<li class="correct-option"><strong>B.</strong> 2 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 3</li>
+<li><strong>D.</strong> 4</li>
+</ul>
+
+**解析：** 第一种通过查看可燃气体报警控制器液晶显示器显示内容，确定当前类别报警信息的数量、 发生报警的时间、设备类型、报警部位相关信息；第二种：可燃气体报警控制器液晶显示器不能全部显示当前状态的报警信息时，可通过 键盘区相关按键(一般为方向按键)的手动操作查询未显示的报警信息
+
+---
+
+
+
+#### 单选题 14
+
+当有火警、启动、反馈事件同时发生时，可以通过显示器的不同分区显示查看启动(反馈)信息和报警信息，找到并点击() 分区的图标按扭，即可查看对应的报警编号回路地址码和位置名称。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火警报警</li>
+<li><strong>B.</strong> 火警联动</li>
+<li class="correct-option"><strong>C.</strong> 火警监管 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 系统故障</li>
+</ul>
+
+**解析：** 査看报警信息的分区显示确定报警部位当有火警、启动、反馈事件同时发生时，可以通过显示器的不同分区显示查看 启动（反馈）信息和报警信息，找到并点击“火警监管”分区的图标或按钮，即可 查看对应的报警编号、回路地址码和位置名称。
+
+---
+
+
+
+#### 单选题 15
+
+在消防控制室，可通过设备()关键特征结合产品标志区分火灾报警控制、消防联动控制和消防控制室图形显示装置。
+
+<ul class="question-options">
+<li><strong>A.</strong> 按键</li>
+<li class="correct-option"><strong>B.</strong> 面板 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 外壳</li>
+<li><strong>D.</strong> 指示灯</li>
+</ul>
+
+**解析：** 在消防控制室，可通过设备面板关键特征结合产品标志区分火灾报警控制器、消 防联动控制器和消防控制室图形显示装置。若设备面板设置有显示屏、开关、操作按 钮、打印机等，则可判断其属于集中控制器；如设备面板无显示屏，仅有总线控制盘、 多线控制盘等按钮，则可判断其属于消防联动控制器；如设备面板主体为液晶显示器, 无打印机、总线控制盘、多线控制盘等，则可判断其属于消防控制室图形显示装置。
+
+---
+
+
+
+#### 单选题 16
+
+集中型火灾报警控制器兼有对 ()和控制模块直接监控的功能。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 报警触发装置 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 手动火灾报警按钮</li>
+<li><strong>C.</strong> 压力开关</li>
+<li><strong>D.</strong> 消火栓按钮</li>
+</ul>
+
+**解析：** 集中控制器是火灾自动报警系统中用于接收、集中显示其他控制器的信息，发 岀控制信号，并兼有对报警触发装置和控制模块直接监控功能的控制指示设备。
+
+---
+
+
+
+#### 单选题 17
+
+高倍泡沫灭火剂是指发泡倍数为()以上的泡沫灭火剂。
+
+<ul class="question-options">
+<li><strong>A.</strong> 100</li>
+<li><strong>B.</strong> 101</li>
+<li><strong>C.</strong> 200</li>
+<li class="correct-option"><strong>D.</strong> 201 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 高倍泡沫灭火剂是指发泡倍数为201以上的泡沫灭火剂。
+
+---
+
+
+
+#### 单选题 18
+
+()的作用是通过探测保护现场的火焰、热量和烟雾等相关参数发出报警信号，显示火灾发生的部位，发出声、光报警信号以通知相关人员进行疏散和实施火灾扑救。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自动灭火系统</li>
+<li><strong>B.</strong> 消防联动控制系统</li>
+<li><strong>C.</strong> 火灾自动报警系统</li>
+<li class="correct-option"><strong>D.</strong> 火灾探测报警系统 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 怎样理解火灾探测报警系统的工作原理火灾发生时，安装在保护区域现场的火灾探测器，将火灾产生的烟雾、热量和 光辐射等火灾特征参数信息转变为电信号，经数据处理后传输至火灾报警控制器; 或直接由火灾探测器做出火灾报警判断，将报警信息传输到火灾报警控制器。火灾 报警控制器在接收到火灾探测器的火灾特征参数信息或报警信息后，经报警确认判 断，显示火灾探测器的位置，记录火灾探测器的火灾报警时间。故选择D
+
+
+
+---
+
+
+
+#### 单选题 19
+
+二极管的特性是()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 放大特性</li>
+<li><strong>B.</strong> 稳压特性</li>
+<li><strong>C.</strong> 双向导电性</li>
+<li class="correct-option"><strong>D.</strong> 单向导电性 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 二极管具有单向导电性。
+
+---
+
+
+
+#### 单选题 20
+
+下列说法正确的是 （ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 湿式系统在准工作状态下，报警阀后的管道中充满有压气体</li>
+<li><strong>B.</strong> 干式系统在准工作状态下，报警阀前后的管道中都充满水</li>
+<li><strong>C.</strong> 预作用系统在准工作状态下，报警阀前后的管道中都充满有压气体</li>
+<li class="correct-option"><strong>D.</strong> 干式系统的启动原理与湿式系统相似，只是将传输喷头开放信号的介质由有压水改为有压气体 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 同湿式系统相比, 干式系统传输喷头开放信号的介质由有压水改为有压气体，干式系统中干式报警阀 组替代了湿式系统中的湿式报警阀组，同时还增设了充气和气压维持装置。
+
+---
+
+
+
+#### 单选题 21
+
+在消防控制室将 ()从消防电话总机的支架上摘下，系统自动进入呼叫准备。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 话筒 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 电话分机</li>
+<li><strong>C.</strong> 电话插孔</li>
+<li><strong>D.</strong> 电话手柄</li>
+</ul>
+
+**解析：** 在消防控制室将话筒从总机的话筒支架上摘下，系统自动进入呼叫准备。
+
+---
+
+
+
+#### 单选题 22
+
+消防水泵接合器应设置 ()标志铭牌
+
+<ul class="question-options">
+<li><strong>A.</strong> 活动式</li>
+<li><strong>B.</strong> 固定式</li>
+<li class="correct-option"><strong>C.</strong> 永久性 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 临时性</li>
+</ul>
+
+**解析：** 消防水泵接合器处应设置永久性铭牌，并应标明供水系统、供水范围和额定压力。地下消防水泵接合器应采用铸有“消防水泵接合器”标 识的铸铁井盖，并应在其附近设置指示其位置的永久性固定标识。
+
+---
+
+
+
+#### 单选题 23
+
+手动停止送风机时，应先将送风机电气控制柜置于 ()运行模式，再按下()按钮，使送风机停止运行。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自动，启动</li>
+<li><strong>B.</strong> 自动，停止</li>
+<li><strong>C.</strong> 手动，启动</li>
+<li class="correct-option"><strong>D.</strong> 手动，停止 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 停止送风机时，先将送风机电气控制柜置于“手动”运行模式，再按下停止按 钮，使送风机停止运行
+
+---
+
+
+
+#### 单选题 24
+
+劳动法是 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 《中华人民共和国劳动法》</li>
+<li class="correct-option"><strong>B.</strong> 调整劳动关系以及与劳动关系密切联系的一些关系的法律 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 调整劳动人事法律规范的总称</li>
+<li><strong>D.</strong> 调整管理劳动力方面社会关系的法律规范的总称</li>
+</ul>
+
+**解析：** 劳动法是调整劳动关系以及与劳动关系有密切联系的其他社会关系的法律规范的总称
+
+---
+
+
+
+#### 单选题 25
+
+线型感温火灾探测器在发生故障时，应在 ()s内输出故障报警信号，点亮故障指示灯。
+
+<ul class="question-options">
+<li><strong>A.</strong> 60</li>
+<li><strong>B.</strong> 80</li>
+<li class="correct-option"><strong>C.</strong> 100 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 120</li>
+</ul>
+
+**解析：** 线型感温火灾探测器在发生故障时，应在100S内输出故障报警信号，点亮故障指示灯。
+
+---
+
+
+
+#### 单选题 26
+
+在消防水泵启停泵操作前，应打开试水管路阀门或利用相应用水设备形成()，切忌野蛮操作。
+
+<ul class="question-options">
+<li><strong>A.</strong> 泄水通道</li>
+<li><strong>B.</strong> 排水通道</li>
+<li><strong>C.</strong> 排气通道</li>
+<li class="correct-option"><strong>D.</strong> 泄压通道 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 在消防水泵启停泵操作前，应打开试水管路阀门或利用相应用水设备形成泄压通道，严守操作规程。
+
+---
+
+
+
+#### 单选题 27
+
+通过手动开启排烟阀(排烟口)联动启动排烟风机，应先确认排烟风机电气控制柜处于()运行模式，同时进入消防联动控制器的 ()操作权限。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 自动，自动允许 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 自动，自动禁止</li>
+<li><strong>C.</strong> 手动，手动允许</li>
+<li><strong>D.</strong> 手动，手动禁止</li>
+</ul>
+
+**解析：** 1.手动开启排烟阀（排烟口）联动启动排烟风机（1）设置排烟风机电气控制柜和消防联动控制器控制状态确认排烟风机电气控制柜处于“自动”运行模式，同时进入消防联动控制器的“自动允许”操作权限。
+
+---
+
+
+
+#### 单选题 28
+
+风机正常启动时()应点亮
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 运行指示灯 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 电源指示灯</li>
+<li><strong>C.</strong> 故障指示灯</li>
+<li><strong>D.</strong> 巡检指示灯</li>
+</ul>
+
+**解析：** 风机电气控制柜具有下列功能。1.指示功能风机电气控制柜面板共设有三处指示信息:（1） 电源指示灯，控制柜通电时点亮。（2）运行指示灯，风机运转时点亮。（3）手动/自动转换开关，通过开关指向 指示当前风机处于手动或自动控制状态。
+
+---
+
+
+
+#### 单选题 29
+
+()是用来进行系统设置和设备管理的一个工作集。
+
+<ul class="question-options">
+<li><strong>A.</strong> 桌面</li>
+<li class="correct-option"><strong>B.</strong> 控制面板 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 任务栏</li>
+<li><strong>D.</strong> 开始菜单</li>
+</ul>
+
+**解析：** 控制面板是用来进行系统设置和设备管理的一个工作集。
+
+---
+
+
+
+#### 单选题 30
+
+消防电话系统保养后，系统功能接入复检不包括 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 声、光报警功能 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 通话功能</li>
+<li><strong>C.</strong> 显示功能</li>
+<li><strong>D.</strong> 录音功能</li>
+</ul>
+
+**解析：** 系统功能接入复检包含（1）通话功能；（2）显示功能；（3）录音功能
+
+---
+
+
+
+#### 单选题 31
+
+下列哪项不属于线型光束感烟火灾探测器底座的保养检查内容 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 与墙体安装是否稳定</li>
+<li><strong>B.</strong> 接线端子是否松动</li>
+<li><strong>C.</strong> 接线是否有锈蚀</li>
+<li class="correct-option"><strong>D.</strong> 是否有划痕 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 检查线型光束感烟火灾探测器底座或线型感温火灾探测器终端盒外壳与墙体安装 是否稳定，接线端子是否松动，接线是否有锈蚀。
+
+---
+
+
+
+#### 单选题 32
+
+进入应急广播状态后，消防应急广播在 ()内发出广播信息。
+
+<ul class="question-options">
+<li><strong>A.</strong> 3s</li>
+<li><strong>B.</strong> 5s</li>
+<li class="correct-option"><strong>C.</strong> 10s <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 15s</li>
+</ul>
+
+**解析：** 在消防控制室应能手动或按预设控制逻辑联动控制选择广播分区、启动或停止应急广播系统，并应能监听消防应急广播。在通过传声器进行应急广播时，应自动对广播内容进行录音。消防控制室内应能显示消防应急广播的广播分区的工作状态。消防应急广播与普通广播或背景音乐广播合用时，应具有强制切入消防应急广播的功能。消防应急广播设备进入应急广播状态后，应在10s内发出广播信息，且声频功率放大器的输出功率应不能被改变。结合题意，本题应选择“10”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 33
+
+当采用与火灾自动报警系统联动启动时，自动排烟窗应在()内或小于烟气充满储烟仓时间内开启完毕。
+
+<ul class="question-options">
+<li><strong>A.</strong> 10s</li>
+<li><strong>B.</strong> 15s</li>
+<li><strong>C.</strong> 30s</li>
+<li class="correct-option"><strong>D.</strong> 60s <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 机械排烟系统应与火灾自动报警系统联动，自动排烟窗可采用与火灾自动报警系统联动和温度释放装置联动的控制方式。当采用与火灾自动报警系统自动启动时，自动排烟窗应在60s内或小于烟气充满储烟仓时间内开启完毕。在大空间场所的自然排烟窗设置位置通常较高且区域较广，为了将烟气层控制在设计清晰高度以上，确保人员安全疏散，所以要求排烟窗应在烟气层未充满储烟仓前及时开启。带有温控功能自动排烟窗，其温控释放温度应大于环境温度30℃且小于100℃。结合题意，本题应选择“60s内”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 34
+
+公民道德建设要做到（ ）个坚持。
+
+<ul class="question-options">
+<li><strong>A.</strong> 5</li>
+<li><strong>B.</strong> 4</li>
+<li><strong>C.</strong> 3</li>
+<li class="correct-option"><strong>D.</strong> 6 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** （1）坚持马克思主义道德观、社会主义道德观，倡导共产主义道德，以为人民 服务为核心，以集体主义为原则，以爱祖国、爱人民、爱劳动、爱科学、爱社会主 义为基本要求，始终保持公民道德建设的社会主义方向。（2） 坚持以社会主义核心价值观为引领，将国家、社会、个人层面的价值要求 贯穿于道德建设各方面，以主流价值建构道德规范、强化道德认同、指引道德实践, 引导人们明大德、守公德、严私德。（3） 坚持在继承传统中创新发展，自觉传承中华传统美德，继承我们党领导人 民在长期实践中形成的优良传统和革命道德，适应新时代改革开放和社会主义市场 经济发展要求，积极推动创造性转化、创新性发展，不断增强道德建设的时代性实 效性。（4） 坚持提升道德认知与推动道德实践相结合，尊重人民群众的主体地位，激发人们形成善良的道德意愿、道德情感，培育正确的道德判断和道德责任，提高道 德实践能力尤其是自觉实践能力，引导人们向往和追求讲道德、尊道德、守道德的 生活。（5） 坚持发挥社会主义法治的促进和保障作用，以法治承载道德理念、鲜明道 德导向、弘扬美德义行，把社会主义道德要求体现在立法、执法、司法、守法之中, 以法治的力量引导人们向上向善。（6）坚持积极倡导与有效治理并举，遵循道德建设规律，把先进性要求与广泛 性要求结合起来，坚持重在建设、立破并举，发挥榜样示范引领作用，加大突出问 题整治力度，树立新风正气，祛除歪风邪气。
+
+---
+
+
+
+#### 单选题 35
+
+泡沫灭火剂是指泡沫液与水混溶，并通过（ ）或化学反应产生灭火泡沫， 用于扑救可燃易燃液体的有效灭火剂。
+
+<ul class="question-options">
+<li><strong>A.</strong> 化合作用</li>
+<li><strong>B.</strong> 物理方法</li>
+<li class="correct-option"><strong>C.</strong> 机械方法 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 皂化作用</li>
+</ul>
+
+**解析：** 泡沫灭火剂是指泡沫液与水混溶，并通过机械方法或化学反应产生灭火泡沫， 用于扑救可燃易燃液体的有效灭火剂。
+
+---
+
+
+
+#### 单选题 36
+
+对于预作用自动喷水灭火系统来说，在选择洒水喷头时应选择（ ）洒水喷头。
+
+<ul class="question-options">
+<li><strong>A.</strong> 下垂型</li>
+<li><strong>B.</strong> 边墙型</li>
+<li><strong>C.</strong> 吊顶型</li>
+<li class="correct-option"><strong>D.</strong> 直立型 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 对于预作用自动喷水灭火系统来说，在选择洒水喷头时应选择直立型洒水喷头。
+
+---
+
+
+
+#### 单选题 37
+
+可燃物的自燃点越低，发生火灾的危险性（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 越小</li>
+<li class="correct-option"><strong>B.</strong> 越大 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 不变</li>
+<li><strong>D.</strong> 不能判断</li>
+</ul>
+
+**解析：** 可燃物的自燃点越低，发生火灾的危险性越大。
+
+---
+
+
+
+#### 单选题 38
+
+凡与可燃物质相结合能导致燃烧的物质称为（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 可燃物</li>
+<li class="correct-option"><strong>B.</strong> 助燃物 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 氧化物</li>
+<li><strong>D.</strong> 导热体</li>
+</ul>
+
+**解析：** 助燃物也称氧化剂，是指能与可燃物质发生燃烧反应的物质，通常燃烧过程中的助燃物主要是氧。
+
+---
+
+
+
+#### 单选题 39
+
+扑救水溶性B类火灾不得选用（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 水系灭火剂</li>
+<li><strong>B.</strong> 气体灭火剂</li>
+<li><strong>C.</strong> 干粉灭火剂</li>
+<li class="correct-option"><strong>D.</strong> 化学泡沫灭火剂 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** (1) A类火灾是指固体物质火灾，这种物质通常具有有机物的性质，一般在燃烧时能产生灼热的余烬。例如，木材、煤、棉、毛、麻、纸张等物质火灾。扑救A类火灾应选用水系、泡沫、干粉等灭火剂。(2) B类火灾是指液体或可熔化的固体物质火灾。例如，煤油、柴油、原油、甲醇、乙醇、沥青、石蜡等物质火灾。扑救B类火灾应选用干粉、泡沫、卤代烷、二氧化碳等灭火剂，扑救水溶性B类火灾不得选用化学泡沫灭火剂。(3) C类火灾是指气体火灾。例如，煤气、天然气、甲烷、乙烷、丙烷、氢气等气体火灾。扑救C类火灾应选用干粉、二氧化碳等灭火剂。(4) D类火灾是指金属火灾。例如，钾、钠、镁、铝镁合金等金属火灾。扑救D类火灾应选用专用干粉灭火剂。(5) E类火灾是指带电火灾，即物体带电燃烧的火灾。扑救带电设备火灾应选用卤代烷、二氧化碳、干粉等灭火剂，慎用水扑救。(6) F类火灾是指烹饪器具内的烹饪物(如动植物油脂)火灾。扑救F类火灾应采用空气隔离法，用锅盖等物体立即将燃烧物体盖住，起到隔离空气的作用。如引起大面积火灾，则用泡沫灭火剂灭火。
+
+---
+
+
+
+#### 单选题 40
+
+扑救F类火灾应选用（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 空气隔离法 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 自行熄灭</li>
+<li><strong>C.</strong> 用水扑灭</li>
+<li><strong>D.</strong> 干粉灭火剂</li>
+</ul>
+
+**解析：** (1) A类火灾是指固体物质火灾，这种物质通常具有有机物的性质，一般在燃烧时能产生灼热的余烬。例如，木材、煤、棉、毛、麻、纸张等物质火灾。扑救A类火灾应选用水系、泡沫、干粉等灭火剂。(2) B类火灾是指液体或可熔化的固体物质火灾。例如，煤油、柴油、原油、甲醇、乙醇、沥青、石蜡等物质火灾。扑救B类火灾应选用干粉、泡沫、卤代烷、二氧化碳等灭火剂，扑救水溶性B类火灾不得选用化学泡沫灭火剂。(3) C类火灾是指气体火灾。例如，煤气、天然气、甲烷、乙烷、丙烷、氢气等气体火灾。扑救C类火灾应选用干粉、二氧化碳等灭火剂。(4) D类火灾是指金属火灾。例如，钾、钠、镁、铝镁合金等金属火灾。扑救D类火灾应选用专用干粉灭火剂。(5) E类火灾是指带电火灾，即物体带电燃烧的火灾。扑救带电设备火灾应选用卤代烷、二氧化碳、干粉等灭火剂，慎用水扑救。(6) F类火灾是指烹饪器具内的烹饪物(如动植物油脂)火灾。扑救F类火灾应采用空气隔离法，用锅盖等物体立即将燃烧物体盖住，起到隔离空气的作用。如引起大面积火灾，则用泡沫灭火剂灭火。
+
+---
+
+
+
+#### 单选题 41
+
+防火卷帘控制器及手动按钮盒的安装应牢固可靠，其底边距地面高度宜为（ ）安装。
+
+<ul class="question-options">
+<li><strong>A.</strong> 1.1~1.3m</li>
+<li><strong>B.</strong> 1.0~1.5m</li>
+<li><strong>C.</strong> 1.0~1.2m</li>
+<li class="correct-option"><strong>D.</strong> 1.3~1.5m <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 防火卷帘控制器及手动按钮盒的安装应牢固可靠，其底边距地面高度宜为1.3~~1.5m安装。1.3~~1.5m
+
+---
+
+
+
+#### 单选题 42
+
+消防水泵接合器距室外消火栓或消防水池的距离宜为（ ）m。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 15~40 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 15~45</li>
+<li><strong>C.</strong> 25~40</li>
+<li><strong>D.</strong> 20~45</li>
+</ul>
+
+**解析：** 消防水泵接合器距室外消火栓或消防水池的距离宜为15~40m。
+
+---
+
+
+
+#### 单选题 43
+
+由供水装置、过滤装置、控制阀、细水雾喷头等组件和供水管道组成，能自动和人工启动并喷放细水雾进行灭火或控火的自动灭火系统是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 细水雾灭火系统 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 水喷雾灭火系统</li>
+<li><strong>C.</strong> 雨淋系统</li>
+<li><strong>D.</strong> 泡沫—水喷淋灭火系统</li>
+</ul>
+
+**解析：** 由供水装置、过滤装置、控制阀、细水雾喷头等组件和供水管道组成，能自动和人工启动并喷放细水雾进行灭火或控火的自动灭火系统是细水雾灭火系统。
+
+---
+
+
+
+#### 单选题 44
+
+单独建造的消防水泵房，耐火等级不应低于（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 一级</li>
+<li class="correct-option"><strong>B.</strong> 二级 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 三级</li>
+<li><strong>D.</strong> 四级</li>
+</ul>
+
+**解析：** 单独建造的消防水泵房，耐火等级不应低于二级。
+
+---
+
+
+
+#### 单选题 45
+
+在空气中遇明火或高温作用时立即起火、微燃或炭化，火源移走后燃烧或微燃仍继续的建筑材料属于（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 不燃材料</li>
+<li><strong>B.</strong> 难燃材料</li>
+<li><strong>C.</strong> 易燃材料</li>
+<li class="correct-option"><strong>D.</strong> 可燃材料 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 在空气中遇明火或高温作用时立即起火、微燃或炭化，火源移走后燃烧或微燃仍继续的建筑材料属于可燃材料。
+
+---
+
+
+
+#### 单选题 46
+
+计算机是由（ ）和软件系统（software system）两部分组成的。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 硬件系统 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 网络系统</li>
+<li><strong>C.</strong> 服务系统</li>
+<li><strong>D.</strong> 监控系统</li>
+</ul>
+
+**解析：** 计算机是由硬件系统和软件系统（software system）两部分组成的。
+
+---
+
+
+
+#### 单选题 47
+
+“预防为主”就是在消防工作的指导思想上，要立足于防患于未然，把（ ）的工作作为重点，放在首位。
+
+<ul class="question-options">
+<li><strong>A.</strong> 灭火救援</li>
+<li class="correct-option"><strong>B.</strong> 火灾预防 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 防火检查</li>
+<li><strong>D.</strong> 火灾扑救</li>
+</ul>
+
+**解析：** “预防为主”就是在消防工作的指导思想上，要立足于防患于未然，把火灾预防的工作作为重点，放在首位，积极贯彻落实各项防火措施，力求做到不发生火灾。
+
+---
+
+
+
+#### 单选题 48
+
+（ ）是用于监视防火门的开闭状态，并能将其状态信息反馈至防火门监控器的装置。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 防火门门磁开关 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 防火门电动闭门器</li>
+<li><strong>C.</strong> 防火门电磁释放器</li>
+<li><strong>D.</strong> 防火门监控器</li>
+</ul>
+
+**解析：** 防火门门磁开关是用于监视防火门的开闭状态，并能将其状态信息反馈至防火门监控器的装置。
+
+---
+
+
+
+#### 单选题 49
+
+（ ）是使常开防火门保持打开状态，在收到指令后释放防火门使其关闭，并将本身的状态信息反馈至防火门监控器的电动装置。
+
+<ul class="question-options">
+<li><strong>A.</strong> 防火门门磁开关</li>
+<li><strong>B.</strong> 防火门电动闭门器</li>
+<li class="correct-option"><strong>C.</strong> 防火门电磁释放器 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 防火门监控器</li>
+</ul>
+
+**解析：** 防火门电磁释放器是使常开防火门保持打开状态，在收到指令后释放防火门使其关闭，并将本身的状态信息反馈至防火门监控器的电动装置。
+
+---
+
+
+
+#### 单选题 50
+
+电气火灾监控设备应能接收来自电气火灾监控探测器的监控报警信号，并在（ ）内发出声、光报警信号，指示报警部位，显示报警时间。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 10s <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 30s</li>
+<li><strong>C.</strong> 15s</li>
+<li><strong>D.</strong> 20s</li>
+</ul>
+
+**解析：** 电气火灾监控设备应能接收来自电气火灾监控探测器的监控报警信号，并在10s内发出声、光报警信号，指示报警部位，显示报警时间。
+
+---
+
+
+
+#### 单选题 51
+
+总线控制盘操作面板上设有多个手动控制单元，每个单元包括（ ）个操作按钮和（ ）个状态指示灯，每个操作按钮均可通过逻辑编程实现对各类、各分区、各具体设备的控制。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 一、两 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 两、两</li>
+<li><strong>C.</strong> 两、一</li>
+<li><strong>D.</strong> 一、一</li>
+</ul>
+
+**解析：** 火灾报警控制器（联动型）总线控制盘操作面板上设有多个手动控制单元，每个单元包括一个操作按钮和两个状态指示灯，每个操作按钮分别对应一个启动指示灯和一个反馈指示灯，分别用于提示按钮状态、显示设备运行状态
+
+---
+
+
+
+#### 单选题 52
+
+乙类仓库与高层民用建筑和设置人员密集场所的其他民用建筑的防火间距不应小于（ ）m。
+
+<ul class="question-options">
+<li><strong>A.</strong> 20</li>
+<li><strong>B.</strong> 30</li>
+<li><strong>C.</strong> 40</li>
+<li class="correct-option"><strong>D.</strong> 50 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 工业建筑的防火间距有什么要求工业建筑应根据建筑使用性质、建筑高度、耐火等级及火灾危险性等合理确定 防火间距。工业建筑的防火间距应符合下列要求。（1）甲类厂房与人员密集场所的防火间距不应小于50 m,与明火或散发火花地 点的防火间距不应小于30 m。（2 ）甲类仓库与高层民用建筑和设置人员密集场所的民用建筑的防火间距不应 小于50 m,甲类仓库之间的防火间距不应小于20 mo（3） 除乙类第5项、第6项物品仓库外，乙类仓库与高层民用建筑和设置人员 密集场所的其他民用建筑的防火间距不应小于50 mo（4） 飞机库与甲类仓库的防火间距不应小于20 m0飞机库与喷漆机库贴邻建造 时，应采用防火墙分隔。
+
+---
+
+
+
+#### 单选题 53
+
+（ ）是指流体中质点发生相对位移而引起的、由空间的一处向另一处传播热能的现象。
+
+<ul class="question-options">
+<li><strong>A.</strong> 热传导</li>
+<li><strong>B.</strong> 热辐射</li>
+<li class="correct-option"><strong>C.</strong> 热对流 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 散热</li>
+</ul>
+
+**解析：** 热对流是指流体中质点发生相对位移而引起的、由空间的一处向另一处传播热能的现象。
+
+---
+
+
+
+#### 单选题 54
+
+消防泵串联，在流量不变的情况下，可增大（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 扬程 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 轴功率</li>
+<li><strong>C.</strong> 效率</li>
+<li><strong>D.</strong> 转速</li>
+</ul>
+
+**解析：** 消防泵串联，在流量不变的情况下，可增大扬程。
+
+---
+
+
+
+#### 单选题 55
+
+职业责任有差异性、（ ）和强制性等特点。
+
+<ul class="question-options">
+<li><strong>A.</strong> 独特性</li>
+<li class="correct-option"><strong>B.</strong> 独立性 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 关联性</li>
+<li><strong>D.</strong> 相关性</li>
+</ul>
+
+**解析：** 职业责任的特点及其与职业道德的关系是什么职业责任有差异性、独立性和强制性等特点。职业道德和职业责任在人们的职业生活中是相互联系、相互作用的，以什么样的思想、感情、态度、作风、行为来对待本职工作，既是职业责任的问题，也是职业道德的问题。事实证明：职业道德水平高的人，都具有强烈的职业责任感；反之，缺乏职业道德的人，必然是个缺乏职业责任感的人。
+
+---
+
+
+
+#### 单选题 56
+
+（ ）是道德体系中一个重要的组成部分，它是指从事一定职业劳动的人们，在特定的工作和劳动中以其内心信念和特殊社会手段来维系的，以善恶进行评价的心理意识、行为原则和行为规范的总和。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 职业道德 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 职业作风</li>
+<li><strong>C.</strong> 职业资格</li>
+<li><strong>D.</strong> 职业荣誉</li>
+</ul>
+
+**解析：** 职业道德是道德体系中一个重要的组成部分，它是指从事一定职业劳动的人们，在特定的工作和劳动中以其内心信念和特殊社会手段来维系的，以善恶进行评价的心理意识、行为原则和行为规范的总和。
+
+---
+
+
+
+#### 单选题 57
+
+使物质开始燃烧的外部热源，统称为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 引火源 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 助燃物</li>
+<li><strong>C.</strong> 点火能</li>
+<li><strong>D.</strong> 火源</li>
+</ul>
+
+**解析：** 引火源也称点火源，是使物质开始燃烧的外部热源(能源) ，常见的引火源主要有明火、电弧、电火花、雷击、高温以及自燃引火源。
+
+---
+
+
+
+#### 单选题 58
+
+我国消防工作是一项由政府统一领导、部门依法监管、单位全面负责、公民积极参与、专业队伍与社会各方面协同、群防群治地预防和减少火灾危害，开展应急救援的公共消防安全的（ ）工作。
+
+<ul class="question-options">
+<li><strong>A.</strong> 专业性</li>
+<li><strong>B.</strong> 特殊性</li>
+<li class="correct-option"><strong>C.</strong> 专门性 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 独立性</li>
+</ul>
+
+**解析：** 我国消防工作是一项由政府统一领导、部门依法监管、单位全面负责、公民积极参与、专业队伍与社会各方面协同、群防群治地预防和减少火灾危害，开展应急救援的公共消防安全的专门性工作。
+
+---
+
+
+
+#### 单选题 59
+
+消防设施操作员职业一共设（ ）个职业技能等级。
+
+<ul class="question-options">
+<li><strong>A.</strong> 4</li>
+<li class="correct-option"><strong>B.</strong> 5 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 6</li>
+<li><strong>D.</strong> 8</li>
+</ul>
+
+**解析：** 消防设施操作员职业一共设五个等级。
+
+---
+
+
+
+#### 单选题 60
+
+组装式水泵接合器的安装，应按（ ）的顺序进行。①控制阀②止回阀③安全阀④放空管⑤连接管⑥本体⑦接口。
+
+<ul class="question-options">
+<li><strong>A.</strong> ⑦⑥④②③⑤①</li>
+<li><strong>B.</strong> ⑦⑥③②⑤④①</li>
+<li><strong>C.</strong> ⑦⑥⑤①②③④</li>
+<li class="correct-option"><strong>D.</strong> ⑦⑥⑤②③④① <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 组装式消防水泵接合器的安装，应按接口、本体、联接管、止回阀、安全阀、放空管、控制阀的顺序进行，止回阀的安装方向应使消防用水能从消防水泵接合器进入系统；整体式消防水泵接合器的安装，按其使用安装说明书进行。
+
+---
+
+
+
+#### 单选题 61
+
+设置在避难层内的可燃液体管道、可燃或助燃气体管道应集中布置，设备管道区应采用耐火极限不低于（ ）的防火隔墙与避难区及其他公共区分隔。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 3.00h <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 2.50h</li>
+<li><strong>C.</strong> 2.00h</li>
+<li><strong>D.</strong> 1.50h</li>
+</ul>
+
+**解析：** 除可布置设备用房外，避难层不应用于其他用途。设置在避难层内的可燃液体管道、可燃或助燃气体管道应集中布置，设备管道区应采用耐火极限不低于3.00h 的防火隔墙与避难区及其他公共区分隔。管道井和设备间应采用耐火极限不低2.00 的防火隔墙与避难区及其他公共区分隔。设备管道区、管道井和设备间与避难区或疏散走道连通时，应设置防火隔间，防火隔间的门应为甲级防火门。
+
+---
+
+
+
+#### 单选题 62
+
+对集中火灾报警控制器、消防联动控制器、消防控制室图形显示装置的打印机的保养方法中正确是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 打印机走纸不正常或者打印文字不清晰应及时修复 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 打印机不宜长时间通电</li>
+<li><strong>C.</strong> 打印纸无备量</li>
+<li><strong>D.</strong> 打印机不应设置为即时打印</li>
+</ul>
+
+**解析：** 打印机保养打印纸有备量，打印机走纸正常，打印文字清晰(1)打印纸缺失应补足(2)打印机走纸不正常或者打印文字不清晰应及时修复
+
+---
+
+
+
+#### 单选题 63
+
+消防设备末端配电装置的清扫和检修一般每年至少（ ）次，其内容除清扫和摇测绝缘外，还应检查各部连接点和接地处的紧固状况。
+
+<ul class="question-options">
+<li><strong>A.</strong> 四</li>
+<li><strong>B.</strong> 两</li>
+<li><strong>C.</strong> 三</li>
+<li class="correct-option"><strong>D.</strong> 一 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防设备末端配电装置的清扫和检修一般每年至少一次，其内容除清扫和摇测绝缘外，还应检查各部连接点和接地处的紧固状况。
+
+---
+
+
+
+#### 单选题 64
+
+室内消防给水系统按（ ）分为湿式消火栓系统和干式消火栓系统。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 管网状态 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 给水范围</li>
+<li><strong>C.</strong> 用途</li>
+<li><strong>D.</strong> 水压</li>
+</ul>
+
+**解析：** 室内消防给水系统按管网状态分为湿式消火栓系统和干式消火栓系统。
+
+---
+
+
+
+#### 单选题 65
+
+按下控制地下室发电机房排烟机的启动操作按钮，如果（ ）指示灯处于（ ）状态，表示多线控制盘手动控制单元已发出启动指令，等待反馈。
+
+<ul class="question-options">
+<li><strong>A.</strong> “反馈”，常亮</li>
+<li><strong>B.</strong> “启动”，熄灭</li>
+<li><strong>C.</strong> “反馈”，闪烁</li>
+<li class="correct-option"><strong>D.</strong> “启动”，闪烁 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 如果“启动”指示灯处于闪烁状态，表示多线控制盘手动控制单元已发出启动指令，等待反馈；如果“启动”指示灯处于常亮状态，表示现场设备已启动成功。
+
+---
+
+
+
+#### 单选题 66
+
+低倍泡沫灭火剂是指发泡倍数为 （ ）的泡沫灭火剂。
+
+<ul class="question-options">
+<li><strong>A.</strong> 1~10</li>
+<li class="correct-option"><strong>B.</strong> 1~20 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 1~30</li>
+<li><strong>D.</strong> 1~40</li>
+</ul>
+
+**解析：** 泡沫灭火系统的分类方法：①按结构形式：分为固定式系统、半固定系统、移动式系统。②按发泡倍数：分为低倍数泡沫灭火系统、中倍数泡沫灭火系统、高倍数泡沫灭火系统。③按系统形式：分为全淹没泡沫灭火系统、局部应用泡沫灭火系统、移动式泡沫灭火系统、泡沫-水喷淋系统、泡沫喷雾系统、压缩空气泡沫灭火系统。泡沫灭火系统按发泡倍数分为低倍数泡沫灭火系统、中倍数泡沫灭火系统、高倍数泡沫灭火系统，其中，低倍数泡沫灭火系统是指发泡倍数低于 20的泡沫灭火系统，中倍数泡沫灭火系统是指发泡倍数为21~~200的泡沫灭火系统，高倍数泡沫灭火系统是指发泡倍数为201~~1000的泡沫灭火系统。
+
+---
+
+
+
+#### 单选题 67
+
+发生火灾时，湿式自动喷水灭火系统是由（ ）探测火灾。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火灾探测器</li>
+<li class="correct-option"><strong>B.</strong> 闭式喷头 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 压力开关</li>
+<li><strong>D.</strong> 水流指示器</li>
+</ul>
+
+**解析：** 在湿式和干式自动喷水灭火系统中，闭式喷头担负着探测火灾、启动系统和喷水灭火的任务，其喷水口平时由热敏感元件组成的释放机构封闭，火灾发生时受热开启。
+
+---
+
+
+
+#### 单选题 68
+
+有大量粉尘、水雾滞留的场所不宜选择（ ）火灾探测器。
+
+<ul class="question-options">
+<li><strong>A.</strong> 线型缆式感温</li>
+<li><strong>B.</strong> 线型光纤感温</li>
+<li class="correct-option"><strong>C.</strong> 线型光束感烟 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 线型定温</li>
+</ul>
+
+**解析：** 符合下列条件之一的场所，不宜选择线型光束感烟火灾探测器：1)有大量粉尘、水雾滞留的场所。2)可能产生蒸气和油雾的场所。3)在正常情况下有烟滞留的场所。4)固定探测器的建筑结构由于振动等原因会产生较大位移的场所。
+
+---
+
+
+
+#### 单选题 69
+
+电缆隧道、电缆竖井、电缆夹层等场所或部位，宜选择（ ）火灾探测器。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 线型缆式感温 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 线型光纤感温</li>
+<li><strong>C.</strong> 线型定温</li>
+<li><strong>D.</strong> 线型光束感烟</li>
+</ul>
+
+**解析：** 下列场所或部位，宜选择线型缆式感温火灾探测器：（1）电缆隧道、电缆竖井、电缆夹层、电缆桥架。（2）不易安装点型探测器的夹层、闷顶。（3）各种皮带输送装置。（4）其他因环境恶劣不适合点型探测器安装的场所。
+
+---
+
+
+
+#### 单选题 70
+
+收到消防电话分机呼叫时，消防电话总机在（ ）s内发出声、光呼叫指示信号，指示该消防电话分机为呼叫状态，声指示信号能手动消除。
+
+<ul class="question-options">
+<li><strong>A.</strong> 5</li>
+<li><strong>B.</strong> 10</li>
+<li class="correct-option"><strong>C.</strong> 3 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 6</li>
+</ul>
+
+**解析：** 收到消防电话分机呼叫时，消防电话总机在3s内发出声、光呼叫指示信号指示该消防电话分机为呼叫状态，声指示信号能手动消除。
+
+---
+
+
+
+#### 单选题 71
+
+消防泵组电气控制柜机械应急启动时，应确保消防水泵在报警（ ） min内正常工作。
+
+<ul class="question-options">
+<li><strong>A.</strong> 3</li>
+<li><strong>B.</strong> 2</li>
+<li class="correct-option"><strong>C.</strong> 5 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 0.5</li>
+</ul>
+
+**解析：** 消防泵组电气控制柜机械应急启动时，应确保消防水泵在报警5.0 min内正常工作。
+
+---
+
+
+
+#### 单选题 72
+
+防火卷帘手动按钮盒底边距地高度宜为（ ）m。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 1.3~1.5 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 1.1~1.5</li>
+<li><strong>C.</strong> 1.2~1.5</li>
+<li><strong>D.</strong> 1.0~1.3</li>
+</ul>
+
+**解析：** 防火卷帘手动按钮盒底边距地高度宜为1.3~1.5m。
+
+---
+
+
+
+#### 单选题 73
+
+厂房的火灾危险性根据其生产中使用或产生的物质的性质及其数量等因素，划分为（ ）类。
+
+<ul class="question-options">
+<li><strong>A.</strong> 4</li>
+<li class="correct-option"><strong>B.</strong> 5 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 6</li>
+<li><strong>D.</strong> 8</li>
+</ul>
+
+**解析：** 厂房的火灾危险性根据其生产中使用或产生的物质的性质及其数量等因素，划分为甲、乙、丙、丁、戊类。
+
+---
+
+
+
+#### 单选题 74
+
+建筑的耐火等级分为（ ）级。
+
+<ul class="question-options">
+<li><strong>A.</strong> 3</li>
+<li class="correct-option"><strong>B.</strong> 4 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 5</li>
+<li><strong>D.</strong> 6</li>
+</ul>
+
+**解析：** 建筑的耐火等级是由组成建筑物的墙、柱、楼板、屋顶承重构件和吊顶等主要构件的燃烧性能和耐火极限决定的，分为一、二、三、四级。
+
+---
+
+
+
+#### 单选题 75
+
+消防电话总机可呼叫任意一部消防电话分机, 并能同时呼叫至少( )部消防电话分机。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 两 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 三</li>
+<li><strong>C.</strong> 四</li>
+<li><strong>D.</strong> 五</li>
+</ul>
+
+**解析：** 消防电话总机可呼叫任意一部消防电话分机, 并能同时呼叫至少两部消防电话分机。故而本题选A。
+
+---
+
+
+
+#### 单选题 76
+
+仅需要报警，不需要联动自动消防设备的保护对象宜采用 （ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 独立型报警系统</li>
+<li><strong>B.</strong> 控制中心报警系统</li>
+<li><strong>C.</strong> 集中报警系统</li>
+<li class="correct-option"><strong>D.</strong> 区域报警系统 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾自动报警系统的基本形式有区域报警系统、集中报警系统和控制中心报警系统三种类型。其中，仅需要报警，不需要联动自动消防设备的保护对象宜采用区域报警系统。结合题意，本题应选“区域报警系统”，其他项均可排除。
+
+---
+
+
+
+#### 单选题 77
+
+二氧化碳灭火剂的灭火作用主要在于（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 窒息 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 冷却</li>
+<li><strong>C.</strong> 乳化</li>
+<li><strong>D.</strong> 稀释</li>
+</ul>
+
+**解析：** 二氧化碳灭火剂的灭火作用主要在于窒息 。
+
+---
+
+
+
+#### 单选题 78
+
+电阻的单位是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 安培</li>
+<li class="correct-option"><strong>B.</strong> 欧姆 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 伏特</li>
+<li><strong>D.</strong> 焦耳</li>
+</ul>
+
+**解析：** 电阻的单位是欧姆。
+
+---
+
+
+
+#### 单选题 79
+
+难燃材料(制品)的燃烧等级为 （ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> A级</li>
+<li class="correct-option"><strong>B.</strong> B1级 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> B2级</li>
+<li><strong>D.</strong> B3级</li>
+</ul>
+
+**解析：** 难燃材料(制品)的燃烧等级为B1级.
+
+---
+
+
+
+#### 单选题 80
+
+文字处理软件属于（ ）的一种，一般用于文字的格式化和排版。
+
+<ul class="question-options">
+<li><strong>A.</strong> 系统软件</li>
+<li class="correct-option"><strong>B.</strong> 办公软件 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 编译软件</li>
+<li><strong>D.</strong> 基础软件</li>
+</ul>
+
+**解析：** 文字处理软件属于办公软件的一种，一般用于文字的编辑和排版。文字处理软件属于办公软件的一种，一般用于文字的格式化和排版。
+
+---
+
+
+
+#### 单选题 81
+
+要求灭火后必须及时停止喷水，减少不必要水渍损失的场所宜设置（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 干式系统</li>
+<li><strong>B.</strong> 湿式系统</li>
+<li><strong>C.</strong> 预作用系统</li>
+<li class="correct-option"><strong>D.</strong> 重复启闭预作用 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 要求灭火后必须及时停止喷水，减少不必要水渍损失的场所宜设置重复启闭预作用系统。
+
+---
+
+
+
+#### 单选题 82
+
+准工作状态时配水管道内充满用于启动系统的有压气体的自动喷水灭火系统是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 干式系统 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 湿式系统</li>
+<li><strong>C.</strong> 水幕系统</li>
+<li><strong>D.</strong> 雨淋系统</li>
+</ul>
+
+**解析：** 准工作状态时配水管道内充满用于启动系统的有压气体的自动喷水灭火系统是干式系统。
+
+---
+
+
+
+#### 单选题 83
+
+在串联电路中，各电阻分得的电压与其阻值（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 相等</li>
+<li class="correct-option"><strong>B.</strong> 成正比 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 成反比</li>
+<li><strong>D.</strong> 之和</li>
+</ul>
+
+**解析：** 电阻串联电路有什么特点?(1)流过每个电阻的电流相等。(2)总电压(串联电路两端的电压)等于分电压(每个电阻两端的电压)之和。(3)总电阻等于分电阻之和。(4)各个电阻两端的电压与其阻值成正比。(5)各个电阻消耗的功率与其阻值成正。
+
+---
+
+
+
+#### 单选题 84
+
+“部门依法监管”是做好消防工作的（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 核心</li>
+<li class="correct-option"><strong>B.</strong> 关键 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 根本</li>
+<li><strong>D.</strong> 基础</li>
+</ul>
+
+**解析：** “部门依法监管”是做好消防工作的关键，要求政府有关部门对消防工作齐抓共 管，政府各部门在各自的职责范围内切实加大执法力度，依法加强监管。
+
+---
+
+
+
+#### 单选题 85
+
+应急照明控制器设置在消防控制室墙面上时，设备正面操作距离不应小于（ ）m。
+
+<ul class="question-options">
+<li><strong>A.</strong> 1</li>
+<li><strong>B.</strong> 1.1</li>
+<li><strong>C.</strong> 1.3</li>
+<li class="correct-option"><strong>D.</strong> 1.2 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 应急照明控制器在消防控制室墙面上设置时，应符合下列规定：(1 )设备主显示屏高度宜为1.5 ~ 1.8 m(2 )设备靠近门轴的侧面距墙不应小于0.5 m(3 )设备正面操作距离不应小于1.2 m
+
+---
+
+
+
+#### 单选题 86
+
+焦炭的燃烧属于（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 蒸发燃烧</li>
+<li><strong>B.</strong> 分解燃烧</li>
+<li class="correct-option"><strong>C.</strong> 表面燃烧 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 沸溢燃烧</li>
+</ul>
+
+**解析：** 可燃固体经火源加热，在被加热的表面上吸附氧气与可燃物质直接作用发生的 燃烧，称为表面燃烧。表面燃烧是一种无焰的燃烧。表面燃烧在这个过程中可燃物 受热不发生热分解和相变，如木炭、焦炭、铁、铜等的燃烧，均为表面燃烧。
+
+---
+
+
+
+#### 单选题 87
+
+（ ）是对从事某一职业所具备的学识、技术、能力的基本要求。
+
+<ul class="question-options">
+<li><strong>A.</strong> 职业水平</li>
+<li><strong>B.</strong> 职业能力</li>
+<li><strong>C.</strong> 职业素养</li>
+<li class="correct-option"><strong>D.</strong> 职业资格 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 职业资格是对从事某一职业所具备的学识、技术、能力的基本要求。我国职业资格包括专业技术人员职业资格和技能人员职业资格两类，按照资格性质又分为准入类职业资格和水平评价类职业资格。
+
+---
+
+
+
+#### 单选题 88
+
+下列不属于线型感烟、感温火灾探测器保养步骤的是（）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 稳定性检查时，线型光束感烟火灾探测器应紧紧固定在墙壁或其他固定位置上，探测位置不发生偏移。</li>
+<li><strong>B.</strong> 外观保养时，使用清洁的干软布和酒精轻轻擦拭线型光束感烟火灾探测器的发射和接收窗口、反射器、指示灯表面的污染物。</li>
+<li><strong>C.</strong> 接线检直时，检查线型烟感温火灾探测器的接线端子，将连接松动的端子重新紧固连接，换掉有锈蚀痕迹的螺钉、端子垫片等接线部件。</li>
+<li class="correct-option"><strong>D.</strong> 保养结束后填写《建筑消防设施巡查记录表》 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 保养结束后应填写《建筑消防设施维护保养记录表》
+
+---
+
+
+
+#### 单选题 89
+
+低倍数泡沫灭火系统是指发泡倍数为（ ）的泡沫灭火系统。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 小于20 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 21～200</li>
+<li><strong>C.</strong> 201～1000</li>
+<li><strong>D.</strong> 大于1000</li>
+</ul>
+
+**解析：** 泡沫灭火系统的分类，低倍数泡沫灭火系统是指发泡倍数小于20的泡沫灭火系统。
+
+---
+
+
+
+#### 单选题 90
+
+室内净空高度超过闭式系统最大允许净空高度，且必须迅速扑救初期火灾的场所宜设置（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 干式系统</li>
+<li><strong>B.</strong> 湿式系统</li>
+<li><strong>C.</strong> 预作用系统</li>
+<li class="correct-option"><strong>D.</strong> 雨淋系统 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 雨淋灭火系统适用范围：1.火灾的水平蔓延速度快、闭式喷头的开放不能及时使喷水有效覆盖着火区域的场所；2.室内净空高度超过闭式系统最大允许净空高度，且必须迅速扑救初期火灾的场所；3.严重危险级II级场所。
+
+---
+
+
+
+#### 单选题 91
+
+下列属于高层建筑的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 建筑高度为50m的办公楼 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 建筑高度为26m的单层厂房</li>
+<li><strong>C.</strong> 建筑高度为20m的门诊楼</li>
+<li><strong>D.</strong> 建筑高度为21m的住宅楼</li>
+</ul>
+
+**解析：** 高层建筑是指建筑高度大于27m的住宅建筑和建筑高度大于24m的非单层厂房、仓库和其他民用建筑。对于有些单层建筑，如体育馆、高大的单层厂房等，因为具有相对便利的疏散和扑救条件，虽然建筑高度大于24m，但不划分为高层建筑。
+
+---
+
+
+
+#### 单选题 92
+
+不用安装，下载解压后可以直接使用的软件又称（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 绿色软件 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> OFFICE系列软</li>
+<li><strong>C.</strong> 系统软件</li>
+<li><strong>D.</strong> 应用软件</li>
+</ul>
+
+**解析：** 软件的安装分为两种：一种是不用安装的绿色软件，下载解压后可以直接使 用；另一种是需要安装的软件，如Microsoft Office,双击setup.exe (有的软件双击 install.exe )就可以安装。
+
+---
+
+
+
+#### 单选题 93
+
+（ ）是在职业分类的基础上，根据职业活动内容，对从业人员的理论知识和技能要求提出的综合性水平规定。
+
+<ul class="question-options">
+<li><strong>A.</strong> 职业分类</li>
+<li><strong>B.</strong> 职业道德</li>
+<li><strong>C.</strong> 行业规范</li>
+<li class="correct-option"><strong>D.</strong> 国家职业技能标准 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析(*)：** 国家职业技能标准是对从业人员理论知识和技能要求提出的综合性水平规定，因此选 D。
+
+---
+
+
+
+#### 单选题 94
+
+（ ）应当组织有关部门针对本行政区域内的火灾特点制定应急预案，建立应急反应和处置机制，为火灾扑救和应急救援工作提供人员、装备等保障。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 县级以上地方人民政府 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 乡级以上地方人民政府</li>
+<li><strong>C.</strong> 市级以上地方人民政府</li>
+<li><strong>D.</strong> 省级以上地方人民政府</li>
+</ul>
+
+**解析：** 县级以上地方人民政府应当组织有关部门针对本行政区域内的火灾特点制定应急预案，建立应急反应和处置机制，为火灾扑救和应急救援工作提供人员、装备等保障。
+
+---
+
+
+
+#### 单选题 95
+
+木材火灾属于（ ）火灾。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> A类 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> B类</li>
+<li><strong>C.</strong> C类</li>
+<li><strong>D.</strong> D类</li>
+</ul>
+
+**解析：** （1） 按照可燃物的类型和燃烧特性，火灾分为A、B、C、D、E、F6类。A类火灾：固体物质火灾，如木材、棉、毛、麻、纸张等。B类火灾：液体或可熔化固体物质火灾，如汽油、煤油、原油、甲醇、乙醇、 沥青、石蜡等。C类火灾：气体火灾，如煤气、天然气、甲烷、乙烷、氢气、乙焕等。D类火灾：金属火灾，如钾、钠、镁、钛、锗、锂等。E类火灾：带电火灾，物体带电燃烧的火灾，如变压器等设备的电气火灾等。F类火灾：烹饪器具内的烹饪物（如动植物油脂）火灾。
+
+---
+
+
+
+#### 单选题 96
+
+（）是在较短时间和较小空间内，能量从一种形式向另一种或几种形式转化并伴有强烈机械效应的过程。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 爆炸 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 闪燃</li>
+<li><strong>C.</strong> 自燃</li>
+<li><strong>D.</strong> 着火</li>
+</ul>
+
+**解析：** 爆炸是一种极为迅速的物理或化学的能量释放过程，是在较短的时间和较小空间内，能量从一种形式向另一种或几种形式转化并伴有强烈机械效应的过程。
+
+---
+
+
+
+#### 单选题 97
+
+消防水箱设置在建筑物高处，是保证扑救（ ）用水量的可靠供水设施。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 初期火灾 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 重大火灾</li>
+<li><strong>C.</strong> 特别重大火灾</li>
+<li><strong>D.</strong> 全面燃烧火灾</li>
+</ul>
+
+**解析(*)：** 消防水箱储存并提供初期火灾扑救所需用水，因此选 A。
+
+---
+
+
+
+#### 单选题 98
+
+防火门监控器应在电动闭门器、电磁释放器或门磁开关动作后（ ）s内收到反馈信号，并由反馈光指示，指示其名称或部位，反馈光指示应保持至受控设备恢复。
+
+<ul class="question-options">
+<li><strong>A.</strong> 15</li>
+<li><strong>B.</strong> 30</li>
+<li class="correct-option"><strong>C.</strong> 10 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 60</li>
+</ul>
+
+**解析：** 防火门监控器应在电动闭门器、电磁释放器或门磁开关动作后10s内收到反馈信号,并有反馈光指示,指示其名称或部位,反馈光指示应保持至受控设备恢复。
+
+---
+
+
+
+#### 单选题 99
+
+通过操作防火门监控器远程关闭常开式防火门，应将防火门监控器的联动模式设置为（）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 全部自动</li>
+<li><strong>B.</strong> 部分自动</li>
+<li class="correct-option"><strong>C.</strong> 全部手动 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 部分手动</li>
+</ul>
+
+**解析：** 通过操作防火门监控器远程关闭常开式防火门，应将防火门监控器的联动模式设置为全部手动。
+
+---
+
+
+
+#### 单选题 100
+
+电流的单位是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 安培 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 欧姆</li>
+<li><strong>C.</strong> 伏特</li>
+<li><strong>D.</strong> 焦耳</li>
+</ul>
+
+**解析：** 电流大小以安培为单位计量。
+
+---
+
+
+
+#### 单选题 101
+
+压力开关是一种水力驱动的压力传感装置，其作用是将系统中的 () 转换为电信号，是报警阀组的主要组件之一。
+
+<ul class="question-options">
+<li><strong>A.</strong> 水流信号</li>
+<li class="correct-option"><strong>B.</strong> 水压信号 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 流速信号</li>
+<li><strong>D.</strong> 压强信号</li>
+</ul>
+
+**解析：** 压力开关是一种水力驱动的压力传感装置，其作用是将系统中的水压信号转 换为电信号，是报警阀组的主要组件之一。火灾发生时，报警阀组压力开关应能直接联锁启动喷淋水泵并向消防控制室反馈其动作信号。
+
+---
+
+
+
+#### 单选题 102
+
+在供电线路泄露电流 ()时，剩余电流监控探测器宜在下一级配电柜(箱)设置。
+
+<ul class="question-options">
+<li><strong>A.</strong> 小于500mA</li>
+<li class="correct-option"><strong>B.</strong> 大于500mA <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 大于100mA</li>
+<li><strong>D.</strong> 小于100mA</li>
+</ul>
+
+**解析：** 剩余电流式电气火灾监控探测器是检测低压配电线路中剩余电流的电气火灾监 控探测器，以设置在低压配电系统首端为基本原则，宜设置在第一级配电柜（箱） 的出线端，在供电线路泄漏电流大于500 mA时，宜在其下一级配电柜（箱）设置。
+
+---
+
+
+
+#### 单选题 103
+
+监管报警信号是具有监管功能的集中控制器接收除火灾报警、故障信号、联动控制信号之外的其他输入信号时，应在()内发出的报警声、光信号。
+
+<ul class="question-options">
+<li><strong>A.</strong> 10S</li>
+<li><strong>B.</strong> 50S</li>
+<li class="correct-option"><strong>C.</strong> 100s <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 120S</li>
+</ul>
+
+**解析：** 监管报警信号是具有监管功能的集中控制器接收除火灾报警、故障信号、联动 控制信号之外的其他输入信号时，应在100 s内发出的报警声、光信号。监管报警 信号只接入集中控制器的输入信号，但这些信号不是火灾报警系统内部应具有的信 号，如水位监测、防盗探测、压力、温度、空调等各类信号。
+
+---
+
+
+
+#### 单选题 104
+
+若消防联动控制器在()内未收到受控设备的反馈信号，启动总指示灯和相应受控设备的启动指示灯应闪亮。
+
+<ul class="question-options">
+<li><strong>A.</strong> 5S</li>
+<li class="correct-option"><strong>B.</strong> 10S <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 15s</li>
+<li><strong>D.</strong> 20S</li>
+</ul>
+
+**解析：** 若消防联动控制器在10 S内未收到受 控设备的反馈信号，启动总指示灯和相应受控设备的启动指示灯应闪亮。如多个受 控设备启动，但其中只有一个无反馈，启动总指示灯和指示该设备状态的启动指示 灯也应闪亮，并应保持到消防联动控制器接收到反馈信号为止。
+
+---
+
+
+
+#### 单选题 105
+
+()由试水阀、压力表、试水喷嘴及保护等组成，用于监测自动喷水灭火系统末端压力，并可检验系统启动、报警及联动等功能的装置。
+
+<ul class="question-options">
+<li><strong>A.</strong> 流量开关</li>
+<li><strong>B.</strong> 压力开关</li>
+<li><strong>C.</strong> 水流指示器</li>
+<li class="correct-option"><strong>D.</strong> 末端试水装置 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 末端试水装置 是由试水阀、压力表、试水喷嘴及 保护罩等组成，用于监测自动喷水 灭火系统末端压力，并具备检验系 统启动、报警及联动等功能的装置。末端试水装置通常安装在系统管网或分区管网 的末端，用于测试系统能否在开放一只喷头的最不利条件下可靠报警并正常启动。
+
+---
+
+
+
+#### 单选题 106
+
+当电气火灾监控设备发出救护车警报声时，不可能出现的状态是 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 通信故障</li>
+<li><strong>B.</strong> 传感器短路故障</li>
+<li><strong>C.</strong> 传感器断路故障</li>
+<li class="correct-option"><strong>D.</strong> 系统故障 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 当电气火灾监控设备发出故障报警声（一般为救护车警报声），故障指示灯亮, 可通过专用类型指示灯或者液晶显示器显示信息判断出故障类型，包括传感器故 障、主电故障、备电故障、通信故障等。如 果电气火灾监控设备面板界面上单独的“系统故障”指示灯点亮，则应判断其处于系统故障状态。
+
+---
+
+
+
+#### 单选题 107
+
+对扩音机进行全负荷试验，在()下测试应急广播功能，监听扬声器的声音输出，应语音清晰、声音响亮。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 手动状态和自动状态 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 手动状态</li>
+<li><strong>C.</strong> 自动状态</li>
+<li><strong>D.</strong> 以上均不对</li>
+</ul>
+
+**解析：** 对扩音机进行全负荷试验，在手动状态和自动状态下测试应急广播功能，监听扬声器的声音输岀，应语音清晰、声音响亮。
+
+---
+
+
+
+#### 单选题 108
+
+通过消防控制室总线手动控制单元远程启动防火卷帘，按下总线手动控制单元防火卷帘启动按钮后，总线手动控制单元的防火卷帘()应点亮。
+
+<ul class="question-options">
+<li><strong>A.</strong> 运行灯</li>
+<li class="correct-option"><strong>B.</strong> 启动灯 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 反馈灯</li>
+<li><strong>D.</strong> 复位灯</li>
+</ul>
+
+**解析：** 1.消防控制室总线手动控制单元远程启动防火卷帘进入消防联动控制器的“手动允许”操作权限，按下总线手动控制单元防火卷帘启动按钮，观察防火卷帘启动灯是否点亮，防火卷帘下降到楼板后反馈灯是否点亮；现场按下防火卷帘手动按钮处的“上升”键，手动控制防火 卷帘上升至最高限位。
+
+---
+
+
+
+#### 单选题 109
+
+根据国家标准《火灾分类》 (GB/ 4968-2008)，按照可燃物质的类型和燃烧特性，将火分为以下()种不同类别。
+
+<ul class="question-options">
+<li><strong>A.</strong> 5</li>
+<li class="correct-option"><strong>B.</strong> 6 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 7</li>
+<li><strong>D.</strong> 8</li>
+</ul>
+
+**解析：** 按照可燃物的类型和燃烧特性火灾分为 A、B、C、D、E、F 6类。
+
+---
+
+
+
+#### 单选题 110
+
+下列设备中，无需在消防控制室火灾报警控制器(联动型)的手动控制盘设置直接手动控制功能的是()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 采用分区给水的转输泵</li>
+<li class="correct-option"><strong>B.</strong> 稳压泵 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 消防水泵</li>
+<li><strong>D.</strong> 送风机</li>
+</ul>
+
+**解析：** 直接手动控制单元（也称多线控制盘）主要是解决消防水泵、防烟和排烟风机、 预作用阀组等重要消防设施设备的手动直接控制。直接手动控制单元至少有6组独立的手动控制开关，每个（组）控制开关对应 一个直接控制输出，控制消火栓泵、喷淋泵、送风机、排烟风机等受控设备的启动, 可根据需要按下对应的操作按钮即可启动相应的受控设备。A选项采用分区给水的转输泵也属于消防水泵，所以B错误。
+
+---
+
+
+
+#### 单选题 111
+
+机房湿度一般控制在() 之间。
+
+<ul class="question-options">
+<li><strong>A.</strong> 50~80%</li>
+<li><strong>B.</strong> 45~75%</li>
+<li><strong>C.</strong> 30~60%</li>
+<li class="correct-option"><strong>D.</strong> 40~70% <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 计算机机房相对湿度一般控制在40%-70%之间，相对湿度不能过高，否则计算机内的线路板很容易腐蚀，使板卡过早老化。
+
+---
+
+
+
+#### 单选题 112
+
+将SD卡插入()的SD卡插槽中，按下“文件导入”键，设备自动进行文件导入声频功率放大器。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火灾报警控制器</li>
+<li><strong>B.</strong> 消防联动控制器</li>
+<li class="correct-option"><strong>C.</strong> 消防应急广播主机 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 以上均可以</li>
+</ul>
+
+**解析：** 在计算机中将要导入的文件复制在SD卡根目录下；将SD卡插入消防应急广播 主机SD卡插槽中，按下“文件导入”键，设备自动进行文件导入。
+
+---
+
+
+
+#### 单选题 113
+
+发生火灾时由火灾自动报警系统或传动管控制，自动开启报警阀组和启动消防水泵的系统是( )。
+
+<ul class="question-options">
+<li><strong>A.</strong> 湿式系统</li>
+<li><strong>B.</strong> 干式系统</li>
+<li><strong>C.</strong> 预作用系统</li>
+<li class="correct-option"><strong>D.</strong> 雨淋系统 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 发生火灾时由火灾自动报警系统或传动管控制，自动开启报警阀组和启动消防水泵的系统是雨淋系统。
+
+---
+
+
+
+#### 单选题 114
+
+依照我国劳动法的规定，劳动者的劳动权力不包括（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 平等就业权</li>
+<li><strong>B.</strong> 休息休假权</li>
+<li class="correct-option"><strong>C.</strong> 罢工权 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 结社权</li>
+</ul>
+
+**解析：** 劳动者享有平等就业和选择职业的权利、取得劳动报酬的权利、休息休假的权 利、获得劳动安全卫生保护的权利、接受职业技能培训的权利、享受社会保险和福 利的权利、提请劳动争议处理的权利以及法律规定的其他劳动权利。不包括罢工权。
+
+---
+
+
+
+#### 单选题 115
+
+（ ）是从业人员在职业活动中必须遵守的符合人民根本利益的职业行为准则。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 职业道德行为规范 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 职业道德</li>
+<li><strong>C.</strong> 职业规范</li>
+<li><strong>D.</strong> 职业准则</li>
+</ul>
+
+**解析：** 职业道德行为规范是从业人员在职业活动中必须遵守的符合人民根本利益的职业行为准则。
+
+---
+
+
+
+#### 单选题 116
+
+水系灭火剂是指由水、渗透剂、（ ）以及其他添加剂组成，一般以液滴或以液滴和泡沫混合的形式灭火的液体灭火剂。
+
+<ul class="question-options">
+<li><strong>A.</strong> 挥发剂</li>
+<li class="correct-option"><strong>B.</strong> 阻燃剂 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 沉降物</li>
+<li><strong>D.</strong> 吸附物</li>
+</ul>
+
+**解析：** 水系灭火剂是指由水、渗透剂、阻燃剂以及其他添加剂组成，一般以液滴或以液滴和泡沫混合的形式灭火的液体灭火剂。
+
+---
+
+
+
+#### 单选题 117
+
+对于采用（ ）消防给水系统的高层或多层建筑，当高位消防水箱的设置不能满足系统最不利点处的静压要求时，应在建筑消防给水系统中设置增（稳）压设施，并采取配套设置气压罐等防止稳压泵频繁启停的技术措施。
+
+<ul class="question-options">
+<li><strong>A.</strong> 高压</li>
+<li class="correct-option"><strong>B.</strong> 临时高压 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 低压</li>
+<li><strong>D.</strong> 常压</li>
+</ul>
+
+**解析：** 对于采用临时高压消防给水系统的高层或多层建筑，当高位消防水箱的设置不能满足系统最不利点处的静压要求时，应在建筑消防给水系统中设置增（稳）压设施，并采取配套设置气压罐等防止稳压泵频繁启停的技术措施。
+
+---
+
+
+
+#### 单选题 118
+
+（ ）是程序加文档的集合体，是一系列按照特定顺序组织的计算机数据和指令的集合。
+
+<ul class="question-options">
+<li><strong>A.</strong> CPU</li>
+<li><strong>B.</strong> WORD</li>
+<li><strong>C.</strong> 硬件</li>
+<li class="correct-option"><strong>D.</strong> 软件 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 软件是程序加文档的集合体，是一系列按照特定顺序组织的计算机数据和指令的集合。
+
+---
+
+
+
+#### 单选题 119
+
+下列建筑材料中，燃烧性能等级不属于B2级的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 天然木材</li>
+<li><strong>B.</strong> 胶合板</li>
+<li><strong>C.</strong> 人造革</li>
+<li class="correct-option"><strong>D.</strong> 水泥刨花板 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** B2级材料是指普通可燃材料(制品)，在空气中遇明火或高温作用下会立即起火或发生微燃，火源移开后继续保持燃烧或微燃，如天然木材、胶合板、人造革、墙布、半硬质PVC塑料地板等结合题意，本题应选“水泥刨花板”，其他项可排除。
+
+---
+
+
+
+#### 单选题 120
+
+任一台应急照明控制器直接控制灯具的总数量不应大于（ ）只。
+
+<ul class="question-options">
+<li><strong>A.</strong> 2000</li>
+<li><strong>B.</strong> 2800</li>
+<li><strong>C.</strong> 3000</li>
+<li class="correct-option"><strong>D.</strong> 3200 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 任一台应急照明控制器直接控制灯具的总数量不应大于3200只。
+
+---
+
+
+
+#### 单选题 121
+
+火灾显示盘的保养项目中，不包含（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 接线保养</li>
+<li><strong>B.</strong> 指示灯喇叭保养</li>
+<li><strong>C.</strong> 显示屏保养</li>
+<li class="correct-option"><strong>D.</strong> 打印机保养 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾显示盘保养包括：1.接线保养；2.指示灯喇叭保养；3.显示屏保养；4.开关、按键保养。
+
+---
+
+
+
+#### 单选题 122
+
+火灾现场的保护时间应从（ ）起。
+
+<ul class="question-options">
+<li><strong>A.</strong> 发现火灾前</li>
+<li class="correct-option"><strong>B.</strong> 发现火灾时 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 发现火灾后</li>
+<li><strong>D.</strong> 扑灭火灾时</li>
+</ul>
+
+**解析：** 火灾现场的保护时间应从发现火灾时起，到火灾现场勘验结束为止。
+
+---
+
+
+
+#### 单选题 123
+
+对于疏散通道上设置的防火卷帘，由防火分区内任两只独立的感烟火灾探测器或任一只专门用于联动防火卷帘的感烟火灾探测器的报警信号联动控制防火卷帘下降至距楼板面（ ）处。
+
+<ul class="question-options">
+<li><strong>A.</strong> 1.2m</li>
+<li><strong>B.</strong> 1.3m</li>
+<li class="correct-option"><strong>C.</strong> 1.8m <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 1.5m</li>
+</ul>
+
+**解析：** 对于疏散通道上设置的防火卷帘，由防火分区内任两只独立的感烟火灾探测器或任一只专门用于联动防火卷帘的感烟火灾探测器的报警信号联动控制防火卷帘下降至距楼板面 1.8m处；由任一只专门用于联动防火卷帘的感温火灾探测器的报警信号联动控制防火卷帘下降到楼板面。在卷帘的任一侧距卷帘纵深 0.5~5m内应设置不少于2只专门用于联动防火卷帘的感温火灾探测器。
+
+---
+
+
+
+#### 单选题 124
+
+采用主电源为220V、50Hz交流电源供电的火灾显示盘应具有主电源和备用电源转换等功能，主电源应能保证火灾显示盘在火灾报警态下连续工作( ) h，且应有过流保护措施。
+
+<ul class="question-options">
+<li><strong>A.</strong> 3</li>
+<li class="correct-option"><strong>B.</strong> 4 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 2</li>
+<li><strong>D.</strong> 5</li>
+</ul>
+
+**解析：** 采用主电源为220V、50Hz交流电源供电的火灾显示盘，主电源应能保证火灾显示盘在火灾报警状态下连续工作4h，且应有过流保护措施。
+
+---
+
+
+
+#### 单选题 125
+
+（ ）是指控制信号通过消防联动控制器本身的输出接点或模块直接作用到连接的消防电动装置，进而实现对受控消防设备的控制。
+
+<ul class="question-options">
+<li><strong>A.</strong> 间接控制</li>
+<li class="correct-option"><strong>B.</strong> 直接控制 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 总线控制</li>
+<li><strong>D.</strong> 手动控制</li>
+</ul>
+
+**解析：** 直接控制是指控制信号通过消防联动控制器本身的输出接点或模块直接作用到连接的消防电动装置，进而实现对受控消防设备的控制。间接控制是指控制信号通过消防电气控制装置间接作用到连接的消防电动装置，进而实现对受控消防设备的控制。
+
+---
+
+
+
+#### 单选题 126
+
+（ ）是指可燃液体挥发的蒸气与空气混合达到一定浓度遇明火发生一闪即逝的燃烧，或者将可燃固体加热到一定温度后，遇明火发生一闪即灭的燃烧现象。
+
+<ul class="question-options">
+<li><strong>A.</strong> 阴燃</li>
+<li><strong>B.</strong> 着火</li>
+<li><strong>C.</strong> 自燃</li>
+<li class="correct-option"><strong>D.</strong> 闪燃 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 闪燃是指可燃液体挥发的蒸气与空气混合达到一定浓度时遇明火发生一闪即灭 的燃烧，或者将可燃固体加热到一定温度后，遇明火发生一闪即灭的燃烧现象。
+
+---
+
+
+
+#### 单选题 127
+
+劳动法调整的最重要的、最基本的关系是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 劳动关系 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 与劳动关系有密切联系的其他关系</li>
+<li><strong>C.</strong> 企业与其劳动者之间的劳动关系</li>
+<li><strong>D.</strong> 劳动关系以及与劳动关系密切联系的其他关系</li>
+</ul>
+
+**解析：** 劳动法的调整对象是指劳动关系以及与劳动关系密切相关的其他社会关系。其中，劳动关系是我国劳动法调整的主要对象。
+
+---
+
+
+
+#### 单选题 128
+
+下列属于应用软件是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> WPS <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> Windows</li>
+<li><strong>C.</strong> 数据库管理系统</li>
+<li><strong>D.</strong> 故障检查和诊断程序</li>
+</ul>
+
+**解析：** WPS是文字处理应用软件， Windows、数据库管理系统、故障检查和诊断程序属于系统软件。
+
+---
+
+
+
+#### 单选题 129
+
+泡沫系统由于其保护对象的特性或储罐形式的特殊要求等，有多种分类形式。下列属于按系统形式分类的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 中倍数泡沫灭火系统</li>
+<li><strong>B.</strong> 液下喷射系统</li>
+<li class="correct-option"><strong>C.</strong> 全淹没系统 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 固定式系统</li>
+</ul>
+
+**解析：** 泡沫系统按系统形式分类分为全淹没系统、局部应用系统、移动系统、泡沫-水喷淋系统、泡沫喷雾系统。
+
+---
+
+
+
+#### 单选题 130
+
+下列属于建筑物的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 水塔</li>
+<li><strong>B.</strong> 烟囱</li>
+<li class="correct-option"><strong>C.</strong> 甲酚厂房 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 堤坝</li>
+</ul>
+
+**解析：** 其他属于构筑物
+
+---
+
+
+
+#### 单选题 131
+
+（ ）是指响应悬浮在大气中燃烧和（或）热解产生的固体或液体微粒的探测器。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火焰探测器</li>
+<li><strong>B.</strong> 感温火灾探测器</li>
+<li class="correct-option"><strong>C.</strong> 感烟火灾探测器 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 气体火灾探测器</li>
+</ul>
+
+**解析：** 感烟火灾探测器：响应悬浮在大气中燃烧和（或）热解产生的固体或液体微 粒的探测器，进一步可分为离子感烟、光电感烟、红外光束、吸气型等类型。
+
+---
+
+
+
+#### 单选题 132
+
+建筑高度大于（ ）m的工业与民用建筑应设置避难层。
+
+<ul class="question-options">
+<li><strong>A.</strong> 150</li>
+<li><strong>B.</strong> 120</li>
+<li class="correct-option"><strong>C.</strong> 100 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 90</li>
+</ul>
+
+**解析：** 建筑高度大于100 m的工业与民用建筑应设置避难层，且第一个避难层的楼面至消防车登高操作场地地面的高度不应大于50 m。
+
+---
+
+
+
+#### 单选题 133
+
+火灾扑灭后，故意破坏或伪造现场，尚不构成犯罪的，情节较轻的，处警告或者（ ）元以下罚款。
+
+<ul class="question-options">
+<li><strong>A.</strong> 二百</li>
+<li><strong>B.</strong> 三百</li>
+<li class="correct-option"><strong>C.</strong> 五百 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 一千</li>
+</ul>
+
+**解析：** 根据《中华人民共和国消防法》第六十四条 违反本法规定，有下列行为之一，尚不构成犯罪的，处十日以上十五日以下拘留，可以并处五百元以下罚款；情节较轻的，处警告或者五百元以下罚款：（一）指使或者强令他人违反消防安全规定，冒险作业的；（二）过失引起火灾的；（三）在火灾发生后阻拦报警，或者负有报告职责的人员不及时报警的；（四）扰乱火灾现场秩序，或者拒不执行火灾现场指挥员指挥，影响灭火救援的；（五）故意破坏或者伪造火灾现场的；（六）擅自拆封或者使用被消防救援机构查封的场所、部位的。
+
+---
+
+
+
+#### 单选题 134
+
+扑灭火灾后能自动关闭报警阀停止喷水，发生复燃时又能再次开启报警阀恢复喷水的系统是（）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 湿式系统</li>
+<li><strong>B.</strong> 干式系统</li>
+<li class="correct-option"><strong>C.</strong> 重复启闭预作用系统 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 预作用系统</li>
+</ul>
+
+**解析：** 重复启闭预作用系统是能在扑灭火灾后能自动关闭报警阀停止喷水，发生复燃时又能再次开启报警阀恢复喷水的系统。
+
+---
+
+
+
+#### 单选题 135
+
+粘贴功能的快捷组合键是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> “Ctrl”+“C”</li>
+<li class="correct-option"><strong>B.</strong> “Ctrl”+“V” <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> “Ctrl”+“X”</li>
+<li><strong>D.</strong> “Ctrl”+“Z”</li>
+</ul>
+
+**解析(*)：** “Ctrl”+“V”是常用的粘贴快捷键，因此选 B。
+
+---
+
+
+
+#### 单选题 136
+
+电气火灾监控设备发生监控报警时，首要关注的是 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 发生报警时间</li>
+<li class="correct-option"><strong>B.</strong> 报警部位 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 设备类型</li>
+<li><strong>D.</strong> 报警数量</li>
+</ul>
+
+**解析：** 电气火灾监控设备监控报警状态。首先，关注液晶显示器显示的监控报警部位；其次，查看液晶显示器显示的当前报警部位总数。注意当显示区域不足以显示全部监控报警部位时则按顺序循环显示。
+
+---
+
+
+
+#### 单选题 137
+
+有可能产生蒸汽和油雾的场所，不宜选择 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 线型定温探测器</li>
+<li class="correct-option"><strong>B.</strong> 线型光束感烟火灾探测器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 线型缆式感温火灾探测器</li>
+<li><strong>D.</strong> 线型差温火灾探测器</li>
+</ul>
+
+**解析：** 符合下列条件之一的场所，不宜选择线型光束感烟火灾探测器：1)有大量粉尘、水雾滞留的场所。2)可能产生蒸气和油雾的场所。3)在正常情况下有烟滞留的场所。4)固定探测器的建筑结构由于振动等原因会产生较大位移的场所。
+
+---
+
+
+
+#### 单选题 138
+
+通过集中控制器查询历史信息时，按下集中控制器键盘区域的“()”键，即可查看历史事件信息。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> F9 历史事件 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> F2 火警查看</li>
+<li><strong>C.</strong> F7 历史事件</li>
+<li><strong>D.</strong> F7 启动</li>
+</ul>
+
+**解析：** 1.通过集中控制器查询历史信息（1）进入历史记录査询界面按下集中控制器键盘区域的“F9历史事件”键，即可查看历史事件信息。（2）选择事件类型査看信息进入主菜单界面，选择“査看”菜单，移动光标至“历史事件”，可显示火警 报警事件、联动历史事件、全部历史事件等情况，可通过左右方向键切换不同的信息界面。
+
+---
+
+
+
+#### 单选题 139
+
+《建筑灭火器配置设计规范》适用于（）内设置灭火器。
+
+<ul class="question-options">
+<li><strong>A.</strong> 生产火药、炸药的场所</li>
+<li><strong>B.</strong> 贮存火药、炸药的场所</li>
+<li><strong>C.</strong> 生产花炮的厂房或库房</li>
+<li class="correct-option"><strong>D.</strong> 储存可燃物工业与民用建 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 本规范适用于生产、使用或储存可燃物的新建、改建、扩建的工业与民用建筑 工程，不适用于生产或储存炸药、弹药、火工品、花炮的厂房或库房。
+
+---
+
+
+
+#### 单选题 140
+
+环境温度低于4℃或高于70℃的场所应安装（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 干式系统 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 湿式系统</li>
+<li><strong>C.</strong> 水幕系统</li>
+<li><strong>D.</strong> 雨淋系统</li>
+</ul>
+
+**解析：** 环境温度低于4℃或高于70℃的场所应安装干式系统。
+
+---
+
+
+
+#### 单选题 141
+
+如果（ ）指示灯处于（ ）状态，表示多线控制盘功能处于正常状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> “故障”、常亮</li>
+<li><strong>B.</strong> “启动”、熄灭</li>
+<li class="correct-option"><strong>C.</strong> “故障”、熄灭 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> “反馈”、闪烁</li>
+</ul>
+
+**解析：** 如果“故障”指示灯处于熄灭状态，表示多线控制盘功能处于正常状态。
+
+---
+
+
+
+#### 单选题 142
+
+（ ）是以由固体化学混合物（热气溶胶发生剂）经燃烧反应生成具有灭火性质的气溶胶作为灭火介质的灭火系统。
+
+<ul class="question-options">
+<li><strong>A.</strong> 二氧化碳灭火系统</li>
+<li><strong>B.</strong> 七氟丙烷灭火系统</li>
+<li class="correct-option"><strong>C.</strong> 热气溶胶灭火系统 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 惰性气体灭火系统</li>
+</ul>
+
+**解析：** 热气溶胶灭火系统是以由固体化学混合物（热气溶胶发生剂）经燃烧反应生成具有灭火性质的气溶胶作为灭火介质的灭火系统。
+
+---
+
+
+
+#### 单选题 143
+
+（ ）是在特定的职业范围内从事某种职业的人们必须共同遵守的行为准则。
+
+<ul class="question-options">
+<li><strong>A.</strong> 职业规范</li>
+<li class="correct-option"><strong>B.</strong> 职业纪律 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 职业准则</li>
+<li><strong>D.</strong> 职业道德</li>
+</ul>
+
+**解析：** 职业纪律是在特定的职业范围内从事某种职业的人们必须共同遵守的行为准则。
+
+---
+
+
+
+#### 单选题 144
+
+计算机软件按照使用功能，一般分为（ ）和应用软件两大类。
+
+<ul class="question-options">
+<li><strong>A.</strong> 办公软件</li>
+<li class="correct-option"><strong>B.</strong> 系统软件 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 游戏软件</li>
+<li><strong>D.</strong> 后台软件</li>
+</ul>
+
+**解析：** 计算机软件是指为运行、维护和管理计算机而编制的各种程序、数据和文档的总称。计算机软件系统按照使用功能，一般分为系统软件和应用软件两大类。系统软件是为扩大计算机的功能、提高计算机的工作效率以及为方便用户使用计算机而设计的软件，如操作系统、语言处理程序和服务程序等；应用软件是为解决某个应用领域中的具体任务而编制的程序，如文字处理软件、计算机辅助设计软件等。
+
+---
+
+
+
+#### 单选题 145
+
+下列属于外存储器的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 只读存贮器</li>
+<li><strong>B.</strong> 随机存贮器</li>
+<li><strong>C.</strong> 高速缓冲存储器</li>
+<li class="correct-option"><strong>D.</strong> 优盘 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 1） 内存主要包括随机存取存储器、只读存储器1） 随机存取存储器，可以随时读写（刷新时除外），而且速度很快，一旦断电所存储的数据将随之丢失。2） 只读存储器，信息一旦写入后就固定下来，即使切断电源，信息也不会丢失，所以又称为固定存储器。（2） 外存主要包括硬盘、光盘、移动硬盘、U盘等1） 硬盘。硬盘主要分为固态硬盘、机械硬盘、混合硬盘等几种类型。固态硬盘采用闪存颗粒来存储，机械硬盘采用磁性碟片来存储，混合硬盘是把磁性碟片和闪存颗粒集成到一起的一种硬盘。机械硬盘最主要的性能指标是转速和容量。转速是指硬盘盘片旋转的速度,转速越大，硬盘读写速度越快。容量是指硬盘能存放的信息量，以字节为单位,用英文字母B表示。在计算机中，一个英文字符占一个字节的存储容量，一个汉字占两个字节的存储容量。容量的具体换算关系为：1TB=1024GB,1GB=1024MB,1MB=1O24KB,1KB=1024Bo2） 光盘。光盘是一种利用激光技术存储信息的装置。光盘需要使用光盘驱动器写入和读取。目前用于计算机系统的光盘可分为只读光盘（CD或DVD）、一次性写入光盘和可改写光盘三大类。光盘可以单独存放和随身携带，存放中应特别注意防划伤。3） 移动硬盘。移动硬盘是以硬盘为存储介质，强调便携性的存储设备，其本质是一块可以移动的硬盘，便于数据的移动存储。4）U盘。U盘全称USB闪存盘，是一种使用USB接口的无须物理驱动器的微型高容量移动存储设备。
+
+---
+
+
+
+#### 单选题 146
+
+消防应急灯具按（ ）分类可分为自带电源型消防应急灯具、集中电源型消防应急灯具、子母型消防应急灯具。
+
+<ul class="question-options">
+<li><strong>A.</strong> 工作方式</li>
+<li class="correct-option"><strong>B.</strong> 应急供电方式 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 应急控制方式</li>
+<li><strong>D.</strong> 用途</li>
+</ul>
+
+**解析：** 消防应急灯具按应急供电方式可分为自带电源型消防应急灯具、集中电源型消防应急灯具、子母型消防应急灯具。
+
+---
+
+
+
+#### 单选题 147
+
+准工作状态时配水管道内不充水，发生火灾时由火灾自动报警系统、充气管道上的压力开关联锁控制报警阀组和启动消防水泵向配水管道供水的系统是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 湿式系统</li>
+<li class="correct-option"><strong>B.</strong> 预作用系统 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 干式系统</li>
+<li><strong>D.</strong> 水幕系统</li>
+</ul>
+
+**解析：** 预作用自动喷水灭火系统是在准工作状态时配水管道内不充水，发生火灾时由火灾自动报警系统、充气管道上的压力开关联锁控制预作用装置和消防水泵，向配水管道供水的闭式系统。预作用自动喷水灭火系统由闭式洒水喷头、预作用装置、 管道、充气设备和供水设施等组成。
+
+---
+
+
+
+#### 单选题 148
+
+线型光束感烟火灾探测器每（ ）年进行一次报警功能测试。
+
+<ul class="question-options">
+<li><strong>A.</strong> 3</li>
+<li class="correct-option"><strong>B.</strong> 半 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 1</li>
+<li><strong>D.</strong> 2</li>
+</ul>
+
+**解析：** 线型光束感烟火灾探测器每半年进行一次报警功能测试。
+
+---
+
+
+
+#### 单选题 149
+
+衡量电场力做功大小的物理量是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 电流</li>
+<li class="correct-option"><strong>B.</strong> 电压 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 电位</li>
+<li><strong>D.</strong> 电动势</li>
+</ul>
+
+**解析：** 电压又称电势差，是衡量电场力做功大小的物理量，用字母U表示，其大小为电场力将电荷从A点移到B点所做的功与电荷量的比值。电压不但有大小而且有方向。电压的单位为伏特，简称伏，用字母V表示。
+
+---
+
+
+
+#### 单选题 150
+
+在“控制面板”窗口中，双击（ ）图标，弹出“鼠标属性”对话框。
+
+<ul class="question-options">
+<li><strong>A.</strong> 属性</li>
+<li class="correct-option"><strong>B.</strong> 鼠标 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 输入设备</li>
+<li><strong>D.</strong> 外设</li>
+</ul>
+
+**解析：** 在“控制面板”窗口中，双击鼠标图标，弹出“鼠标属性”对话框。
+
+---
+
+
+
+#### 单选题 151
+
+（ ）是指响应悬浮悬浮在大气中燃烧和（或）热解产生的固体或液体微粒的探测器。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火焰探测器</li>
+<li><strong>B.</strong> 感温火灾探测器</li>
+<li class="correct-option"><strong>C.</strong> 感烟火灾探测器 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 气体火灾探测器</li>
+</ul>
+
+**解析：** 感烟火灾探测器：响应悬浮在大气中燃烧和（或）热解产生的固体或液体微 粒的探测器，进一步可分为离子感烟、光电感烟、红外光束、吸气型等类型。
+
+---
+
+
+
+#### 单选题 152
+
+在消防设施操作员职业中，消防设施监控操作职业方向分为（ ）个职业等级。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 4 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 5</li>
+<li><strong>C.</strong> 2</li>
+<li><strong>D.</strong> 3</li>
+</ul>
+
+**解析：** 消防设施操作员职业一共设五个等级，其中，消防设施监控操作职业方向分为五级/初级工、四级/中级工、三级/ 高级工、二级/技师；消防设施检测维修保养职业方向分为四级/中工、三级/高级 工、二级/技师、一级/高级技师。
+
+---
+
+
+
+#### 单选题 153
+
+消防救援口的净高度和净宽度均不应小于（ ）m。
+
+<ul class="question-options">
+<li><strong>A.</strong> 2</li>
+<li><strong>B.</strong> 1.5</li>
+<li class="correct-option"><strong>C.</strong> 1 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 0.8</li>
+</ul>
+
+**解析：** 消防救援口的净高度和净宽度均不应小于1.0m。
+
+---
+
+
+
+#### 单选题 154
+
+如果（ ）指示灯处于（ ）状态，表示现场设备启动信息没有反馈回来。
+
+<ul class="question-options">
+<li><strong>A.</strong> “启动”，常亮</li>
+<li class="correct-option"><strong>B.</strong> “反馈”，熄灭 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> “启动”，闪烁</li>
+<li><strong>D.</strong> “反馈”，闪烁</li>
+</ul>
+
+**解析：** 如果“反馈”指示灯处于熄灭状态，表示现场设备启动信息没有反馈回来；如果“反馈”指示灯处于常亮状态，表示现场设备已启动成功并将启动信息反馈回来。
+
+---
+
+
+
+#### 单选题 155
+
+应急照明控制器设置在消防控制室地面上时，设备面板至墙的距离不应小于（ ）m。
+
+<ul class="question-options">
+<li><strong>A.</strong> 2.5</li>
+<li><strong>B.</strong> 1.5</li>
+<li class="correct-option"><strong>C.</strong> 3 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 2</li>
+</ul>
+
+**解析：** 应急照明控制器的设置应符合下列规定。2.在消防控制室地面上设置时，应符合下列规定：(2)在值班人员经常工作的一面，设备面板至墙的距离不应小于3m。
+
+---
+
+
+
+#### 单选题 156
+
+区域报警系统适用于仅需要报警，不需要（ ）自动消防设备的保护对象。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 联动 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 启动</li>
+<li><strong>C.</strong> 连动</li>
+<li><strong>D.</strong> 连锁</li>
+</ul>
+
+**解析：** （1）区域报警系统适用于仅需要报警、不需要联动自动消防设备的保护对象。（2） 集中报警系统适用于不仅需要报警，同时需要联动自动消防设备，且只设置一台具有集中控制功能的火灾报警控制器和消防联动控制器的保护对象。（3） 控制中心报警系统适用于设置两个及以上消防控制室的保护对象，也适用于已设置两个及以上集中报警系统的保护对象。
+
+---
+
+
+
+#### 单选题 157
+
+确认消防广播声频功率放大器电源开关处于打开状态，调整()输出音量旋钮至现场音量适中。
+
+<ul class="question-options">
+<li><strong>A.</strong> 广播分配盘</li>
+<li class="correct-option"><strong>B.</strong> 声频功率放大器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 专用工具</li>
+<li><strong>D.</strong> 火灾报警按钮</li>
+</ul>
+
+**解析：** 确认消防广播声频功率放大器电源开关处于打开状态，调整声频功率放大器输出音量旋钮至现场音量适中。
+
+---
+
+
+
+#### 单选题 158
+
+《中华人民共和国劳动法》实行的时间为（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 1995年7月5日</li>
+<li class="correct-option"><strong>B.</strong> 1995年1月1日 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 1994年7月5日</li>
+<li><strong>D.</strong> 1994年1月1日</li>
+</ul>
+
+**解析：** 从狭义上讲，劳动法是指1994年7月5日第八届全国人民代表大会常务委员会第八次会议通过，自1995年1月1日起施行的《中华人民共和国劳动法》 (2009年8月27日修正， 2018年12月29日第二次修正) 。
+
+---
+
+
+
+#### 单选题 159
+
+由外部引火源作用于可燃物引起燃烧的现象，称为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 引燃 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 阴燃</li>
+<li><strong>C.</strong> 自燃</li>
+<li><strong>D.</strong> 爆炸</li>
+</ul>
+
+**解析：** 由外部引火源(如明火、电火花、高温炙烤等)作用于可燃物引起燃烧的现象，称为引燃(又称点燃) 。
+
+---
+
+
+
+#### 单选题 160
+
+消防电梯排水井的容量不应小于（ ）m³。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 2 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 3</li>
+<li><strong>C.</strong> 4</li>
+<li><strong>D.</strong> 5</li>
+</ul>
+
+**解析：** 火灾时，为防止灭火时的消防积水淹没消防电梯导致消防电梯失去功能，消防电梯的井底应设置排水设施。排水井的容量不应小于2m3 ，排水泵的排水量不应小于 10 L/s 。消防电梯间前室的门口宜设置挡水设施。
+
+---
+
+
+
+#### 单选题 161
+
+在空气中遇明火或高温作用时难起火、难微燃、难炭化，火源移走后燃烧或微燃停止的材料属于（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 不燃材料</li>
+<li class="correct-option"><strong>B.</strong> 难燃材料 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 易燃材料</li>
+<li><strong>D.</strong> 可燃材料</li>
+</ul>
+
+**解析：** 难燃材料（制品）是在空气中遇明火或高温作用时难起火、难微燃、难炭 化，火源移走后燃烧或微燃停止。
+
+---
+
+
+
+#### 单选题 162
+
+下列不属于老年人照料设施的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 敬老院</li>
+<li><strong>B.</strong> 养老院</li>
+<li><strong>C.</strong> 老年人日间照料中心</li>
+<li class="correct-option"><strong>D.</strong> 老年大学 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 老年人照料设施是指为老年人提供集中照料服务的设施，是老年人全日照料设 施和老年人日间照料设施的统称，属于公共建筑。其中，老年人全日照料设施是指 为老年人提供住宿、生活照料服务及其他服务项目的设施，是养老院、老人院、福 利院、敬老院、老年养护院等的统称；老年人日间照料设施是指为老年人提供日间 休息、生活照料服务及其他服务项目的设施，是托老所、日托站、老年人日间照料 室、老年人日间照料中心等的统称。其他专供老年人使用的、非集中照料的设施或 场所，如老年大学、老年人活动中心等不属于老年人照料设施。
+
+---
+
+
+
+#### 单选题 163
+
+当可燃气体报警控制器主电故障时，下列叙述不正确的是()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 故障灯点亮</li>
+<li class="correct-option"><strong>B.</strong> 主电工作灯点亮 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 屏幕上显示主电故障</li>
+<li><strong>D.</strong> 控制器发出故障警报声</li>
+</ul>
+
+**解析：** 当可燃气体报警控制器发出故障报警声，故障指示灯亮，可通过专用类型指 示灯或者液晶显示器显示信息判断出故障类型，包括传感器故障、主电故障、备 电故障、通信故障等。
+
+---
+
+
+
+#### 单选题 164
+
+对于集中报警系统，只有所有控制器的控制状态指示灯()指示为自动控制方式时，整个集中报警系统才完全处于自动控制状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> 少部分</li>
+<li><strong>B.</strong> 局部</li>
+<li class="correct-option"><strong>C.</strong> 全部 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 大部分</li>
+</ul>
+
+**解析：** 1.观察控制器面板控制状态指示灯，判断系统整体联动控制状态对于单一集中控制器构成的集中报警系统，根据火灾报警控制器/消防联动控 制器面板上自动控制状态指示灯点亮信息，即可判断系统所处的控制状态（手动/ 自动），对于集中控制器与区域控制器组网构成的集中报警系统，应查看系统中所有控制器的控制状态指示情况（包括消防控制室内外的区域控制器、气体灭火控制器、消防电气控制装置等）， 只有所有控制器的控制状态指示灯全部指示为自动控制方式时，整个集中报警系统 才完全处于自动控制状态。
+
+---
+
+
+
+#### 单选题 165
+
+通过现场手动按钮启动防火卷帘，应将手动按钮盒的锁定开关设置在 ()位置
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 开启 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 关闭</li>
+<li><strong>C.</strong> 上升</li>
+<li><strong>D.</strong> 下降</li>
+</ul>
+
+**解析：** 通过现场手动按钮启动防火卷帘，将手动按钮盒的锁定开关设置在“开启”位置；按下“下降”键，观察防火卷帘是否自动下降，到达下限位后是否自动停止。
+
+---
+
+
+
+#### 单选题 166
+
+风机、风管 (道)、风机电气控制柜的保养周期为 ()保养一次。
+
+<ul class="question-options">
+<li><strong>A.</strong> 每月</li>
+<li class="correct-option"><strong>B.</strong> 每季度 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 每半年</li>
+<li><strong>D.</strong> 每年</li>
+</ul>
+
+**解析：** 风机电气控制柜的保养技术要求：（1）无变形、损伤、腐蚀（2）仪表、指示灯、开关和控制按钮状态均正常（3）柜内电气连接牢固，无松动、打火、烧蚀现象（4）电气原理图清晰，粘贴牢固 保养周期：每季度一次
+
+---
+
+
+
+#### 单选题 167
+
+系统在正常监控状态下，手动按下应急照明控制器()按钮，应急照明控制器发出手动应急启动信号。
+
+<ul class="question-options">
+<li><strong>A.</strong> 启动</li>
+<li><strong>B.</strong> 复位</li>
+<li class="correct-option"><strong>C.</strong> 强启 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 自检</li>
+</ul>
+
+**解析：** 在系统正常监控状态下，手动按下应急照明控制器的“强启”按钮，应急照明控制器应发出系统手动应急启动信号。
+
+---
+
+
+
+#### 单选题 168
+
+当系统断电时，挡烟垂壁能自动下降至 ()位置
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 设计挡烟工作位置 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 挡烟工作位置的1/4处</li>
+<li><strong>C.</strong> 挡烟工作位置的1/3处</li>
+<li><strong>D.</strong> 挡烟工作位置的1/2处</li>
+</ul>
+
+**解析：** 当系统断电时，挡烟垂壁能自动下降至设计位置。
+
+---
+
+
+
+#### 单选题 169
+
+把几个导体元件依次首尾相连的电路连接方式称为 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 串联电路 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 并联电路</li>
+<li><strong>C.</strong> 串并联电路</li>
+<li><strong>D.</strong> 混联电路</li>
+</ul>
+
+**解析：** 串联电路是指电气元件依次首尾相连，且每个节点最多只连接两个元件的电路。
+
+---
+
+
+
+#### 单选题 170
+
+属于开式系统的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 雨淋系统 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 干式系统</li>
+<li><strong>C.</strong> 预作用系统</li>
+<li><strong>D.</strong> 重复启闭预作用系统</li>
+</ul>
+
+**解析：** 属于开式系统的有雨淋系统和水幕系统。
+
+---
+
+
+
+#### 单选题 171
+
+（ ）可对烟雾、温度、火焰辐射、气体浓度等火灾参数进行响应，并自动产生火灾报警信号。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火灾探测器 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 手动火灾报警按钮</li>
+<li><strong>C.</strong> 火灾声光警报器</li>
+<li><strong>D.</strong> 火灾报警控制器</li>
+</ul>
+
+**解析：** 本题所述为火灾探测器的作用。火灾探测器和手动火灾报警按钮是常用的火灾触发器件。
+
+---
+
+
+
+#### 单选题 172
+
+当线型光束感烟火灾探测器光路上出现烟雾时，会使到达接收器的信号（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 增强</li>
+<li class="correct-option"><strong>B.</strong> 减弱 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 消失</li>
+<li><strong>D.</strong> 减半</li>
+</ul>
+
+**解析：** 当线型光束感烟火灾探测器光路上出现烟雾时，会使到达接收器的信号减弱。
+
+---
+
+
+
+#### 单选题 173
+
+（ ）是电气火灾监控系统的核心控制单元。
+
+<ul class="question-options">
+<li><strong>A.</strong> 电流互感器</li>
+<li class="correct-option"><strong>B.</strong> 电气火灾监控设备 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 图形显示装置</li>
+<li><strong>D.</strong> 电气火灾探测器</li>
+</ul>
+
+**解析：** 电气火灾监控设备是电气火灾监控系统的核心控制单元。
+
+---
+
+
+
+#### 单选题 174
+
+灭火剂瓶组中的灭火剂依靠自身压力输送的灭火系统是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 外储压式气体灭火系统</li>
+<li><strong>B.</strong> 内储压式气体灭火系统</li>
+<li class="correct-option"><strong>C.</strong> 自压式气体灭火系统 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 储气瓶式灭火系统</li>
+</ul>
+
+**解析：** 气体灭火系统按照加压方式分为内储压式气体灭火系统、外储压式气体灭火系统、自压式气体灭火系统。
+
+---
+
+
+
+#### 单选题 175
+
+应急照明控制器的主电源应由消防电源供电，控制器的自带蓄电池电源应至少使控制器在主电源中断后工作 （ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 1h</li>
+<li><strong>B.</strong> 2h</li>
+<li class="correct-option"><strong>C.</strong> 3h <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 2.5h</li>
+</ul>
+
+**解析：** 应急照明控制器的主电源应由消防电源供电，控制器的自带蓄电池电源应至少使控制器在主电源中断后工作3h。
+
+---
+
+
+
+#### 单选题 176
+
+（ ）是一种氮气、氩气、二氧化碳气体组成的混合气体（其中含52%的氮气、40%的氩气、8%的二氧化碳）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> IG-541 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> IG-54</li>
+<li><strong>C.</strong> IG-01</li>
+<li><strong>D.</strong> IG-04</li>
+</ul>
+
+**解析(*)：** IG-541 是由氮气、氩气和二氧化碳组成的混合气体，组分比例与题干一致，因此选 A。
+
+---
+
+
+
+#### 单选题 177
+
+下列关于自动喷水灭火系统适用范围的说法中错误的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 湿式系统适合在环境温度不低于4 ℃且不高于70 ℃的环境中使用</li>
+<li><strong>B.</strong> 严禁系统误喷的忌水场所应采用预作用系统</li>
+<li class="correct-option"><strong>C.</strong> 室内净空高度超过一定高度，且必须迅速扑救的初期火灾和属于中危险级Ⅱ级及以上的场所应采用雨淋系统 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 干式系统可以适用于环境温度高于70 ℃的场所</li>
+</ul>
+
+**解析：** 火灾危险等级为严重危险级II级的场所采用雨淋系统。
+
+---
+
+
+
+#### 单选题 178
+
+政府、部门、单位、公民4个方面都是消防工作的主体，（ ）是做好消防工作的核心。
+
+<ul class="question-options">
+<li><strong>A.</strong> 部门依法监管</li>
+<li class="correct-option"><strong>B.</strong> 政府统一领导 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 公民积极参与</li>
+<li><strong>D.</strong> 单位全面负责</li>
+</ul>
+
+**解析：** 政府、部门、单位、公民4个方面都是消防工作的主体，只有各司其职、各负其责，才能保证消防工作顺利开展。“政府统一领导”是做好消防工作的核心，是指政府应当从总体上指挥、部署、规划、支持和协调全国或本行政区域的消防工作。
+
+---
+
+
+
+#### 单选题 179
+
+《消防法》明确规定，矿井地下部分、核电厂、海上石油天然气设施的消防工作，由( )监督管理。
+
+<ul class="question-options">
+<li><strong>A.</strong> 县级以上人民政府</li>
+<li><strong>B.</strong> 消防救援机构</li>
+<li><strong>C.</strong> 县级以上人民政府消防救援机构</li>
+<li class="correct-option"><strong>D.</strong> 主管单位 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 军事设施的消防工作，由其 主管单位监督管理，消防救援机构协助；矿井地下部分、核电厂、海上石油天然气设 施的消防工作，由其主管单位监督管理。
+
+---
+
+
+
+#### 单选题 180
+
+申请人选择不采用告知承诺方式办理的，消防救援机构应当自受理申请之日起（ ）个工作日内，根据消防技术标准和管理规定，对该场所进行检査。
+
+<ul class="question-options">
+<li><strong>A.</strong> 7</li>
+<li><strong>B.</strong> 8</li>
+<li><strong>C.</strong> 9</li>
+<li class="correct-option"><strong>D.</strong> 10 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 申请人选择不采用告知承诺方式办理的，消防救援机构应当自受理申请之日起10个工作日内，根据消防技术标准和管理规定，对该场所进行检査。
+
+---
+
+
+
+#### 单选题 181
+
+( )是从业人员在职业活动中必须遵守的符合人民根本利益的职业行为准则
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 职业道德行为规范 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 职业道德</li>
+<li><strong>C.</strong> 职业规范</li>
+<li><strong>D.</strong> 职业准则</li>
+</ul>
+
+**解析：** 职业道德行为规范是从业人员在职业活动中必须遵守的符合人民根本利益的职业行为准则。
+
+---
+
+
+
+#### 单选题 182
+
+消防工作是一项（）和专门性很强的行政工作，是政府履行社会管理和公共服务职能的重要内容。
+
+<ul class="question-options">
+<li><strong>A.</strong> 国际性</li>
+<li><strong>B.</strong> 中央性</li>
+<li><strong>C.</strong> 全国性</li>
+<li class="correct-option"><strong>D.</strong> 地方性 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防工作是一项地方性和专门性很强的行政工作，是政府履行社会管理和公共服务职能的重要内容。
+
+---
+
+
+
+#### 单选题 183
+
+对于干燥的一氧化碳和空气的混合气体而言，压力增大，其爆炸极限范围（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 扩大</li>
+<li class="correct-option"><strong>B.</strong> 缩小 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 升高</li>
+<li><strong>D.</strong> 降低</li>
+</ul>
+
+**解析：** 混合气体初始压力越大，爆炸极限范围越大，爆炸危险性也就越大。值得注意的是，对于干燥的一氧化碳和空气的混合气体而言，压力增大，其爆炸极限范围反而缩小。
+
+---
+
+
+
+#### 单选题 184
+
+根据闪点可评定液体火灾危险性的大小，闪点越低的液体及火灾危险性就越( )。
+
+<ul class="question-options">
+<li><strong>A.</strong> 小</li>
+<li class="correct-option"><strong>B.</strong> 大 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 不受影响</li>
+<li><strong>D.</strong> 以上都有可能</li>
+</ul>
+
+**解析：** 闪燃是引起火灾事故的先兆之一,易燃或可燃液体表面产生闪燃的最低温度称为闪点。根据闪点可评定液体火灾危险性的大小，闪点越低的液体及火灾危险性就越大
+
+---
+
+
+
+#### 单选题 185
+
+可燃物的自燃点越低, 发生火灾的危险性就越（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 大 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 小</li>
+<li><strong>C.</strong> 不受影响</li>
+<li><strong>D.</strong> 以上都有可能</li>
+</ul>
+
+**解析：** 自燃点是指在规定的条件下可燃物发生自燃的最低温度。可燃物的自燃点越低,发生火灾的危险性就越大。
+
+---
+
+
+
+#### 单选题 186
+
+一般来说爆炸下限越低或爆炸极限范围（ ），可燃物的火灾爆炸危险性就越大。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 越大 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 越小</li>
+<li><strong>C.</strong> 越宽</li>
+<li><strong>D.</strong> 越窄</li>
+</ul>
+
+**解析：** 爆炸极限是评估可燃的气体、蒸气或粉尘等物质火灾危险性的重要参数，一般来说爆炸下限越低或爆炸极限范围越大，可燃物的火灾爆炸危险性就越大。
+
+---
+
+
+
+#### 单选题 187
+
+冷却法的灭火措施：（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 对于物体带电燃烧的火灾可喷射二氧化碳灭火剂冷却降温 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 封闭着火的空间</li>
+<li><strong>C.</strong> 往着火物上直接喷射干粉灭火剂，中断燃烧链式反应</li>
+<li><strong>D.</strong> 将未着火物质搬迁转移到安全处</li>
+</ul>
+
+**解析：** 灭火的主要手段是对可燃物进行冷却，使其温度降到一定值以下，对于可燃固体，将其温度冷却到燃点以下，对于可燃液体，将其温度冷却到闪点以下，燃烧便会停止。例如，用水扑灭一般固体物质的火灾，主要是通过冷却作用来实现的。
+
+---
+
+
+
+#### 单选题 188
+
+外墙内保温系统应采用不燃材料做防护层,当保温材料的燃烧性能为B1级时,防护层的厚度不应小于（ ）mm。
+
+<ul class="question-options">
+<li><strong>A.</strong> 5</li>
+<li class="correct-option"><strong>B.</strong> 10 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 15</li>
+<li><strong>D.</strong> 20</li>
+</ul>
+
+**解析：** 外墙内保温系统应采用不燃材料做防护层,当保温材料的燃烧性能为B1级时,防护层的厚度不应小于10mm。
+
+---
+
+
+
+#### 单选题 189
+
+某多层办公楼，建筑高度20m，采用外墙内保温系统时，选用了B1级的保温材料，其防护层的厚度不应小于（ ）mm。
+
+<ul class="question-options">
+<li><strong>A.</strong> 5</li>
+<li class="correct-option"><strong>B.</strong> 10 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 15</li>
+<li><strong>D.</strong> 20</li>
+</ul>
+
+**解析：** 外墙内保温系统应釆用不燃材料做防护层，当保温材料的燃烧性能为B|级时，防 护层的厚度不应小于10mm
+
+---
+
+
+
+#### 单选题 190
+
+建筑上下层连通的中庭，走廊、敞开楼梯，其连通部位的顶棚、墙面应采用（ ）级装修材料，其他部位应采用不低于B1级的装修材料。
+
+<ul class="question-options">
+<li><strong>B.</strong> A1</li>
+<li><strong>D.</strong> B1</li>
+</ul>
+
+**解析：** 建筑上下层连通的中庭，走廊、敞开楼梯、自动扶梯，其连通部位的顶棚、墙面应采用A级装修材料，其他部位应采用不低于B1级的装修材料。
+
+---
+
+
+
+#### 单选题 191
+
+建筑的屋面外保温系统,当屋面板的耐火极限不低于1.00h时,保温材料的燃烧性能不应低（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> A级</li>
+<li><strong>B.</strong> B1级</li>
+<li class="correct-option"><strong>C.</strong> B2级 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> B3级</li>
+</ul>
+
+**解析：** 建筑的屋面外保温系统,当屋面板的耐火极限不低于1.00h时,保温材料的燃烧性能不应低B2级。
+
+---
+
+
+
+#### 单选题 192
+
+（ ）是指建筑内用于人员暂时躲避火灾及其烟气危害的楼层。
+
+<ul class="question-options">
+<li><strong>A.</strong> 避难走道</li>
+<li><strong>B.</strong> 避难间</li>
+<li><strong>C.</strong> 避难区</li>
+<li class="correct-option"><strong>D.</strong> 避难层 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 避难层是指建筑内用于人员暂时躲避火灾及其烟气危害的楼层。
+
+---
+
+
+
+#### 单选题 193
+
+（ ）可分为固定式和移动便携式。
+
+<ul class="question-options">
+<li><strong>A.</strong> 消防电话系统</li>
+<li class="correct-option"><strong>B.</strong> 消防电话分机 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 消防电话总机</li>
+<li><strong>D.</strong> 插孔移动电话</li>
+</ul>
+
+**解析：** 消防电话分机本身不具备拨号功能，使用时操作人员将话机手柄拿起即可与消防总机通话。通过消防电话分机可迅速实现对火灾的人工确认，并可及时掌握火灾现场情况，便于指挥灭火工作。消防电话分机可分为固定式和移动便携式。固定式消防电话分机有被叫振铃和摘机通话的功能，主要用于跟消防控制室电话总机进行通话使用。结合题意，本题应选择“消防电话分机”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 194
+
+消防应急广播主机、功放机指示灯功能：过载灯黄色，当输出功率大于额定功率120％并持续（ ）后，过载指示灯点亮。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 2s <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 3s</li>
+<li><strong>C.</strong> 5s</li>
+<li><strong>D.</strong> 6s</li>
+</ul>
+
+**解析：** 消防应急广播设备的电源部分应具有主电源和备用电源转换装置，当主电源断电时，能自动转换到备用电源；主电源恢复时，能自动转换到主电源；主、备电源的工作状态应有指示，主电源应有过流保护措施。主、备电源的转换不应影响消防应急广播设备的正常工作。结合题意，本题应选“2s”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 195
+
+消防应急广播系统主要由消防应急广播主机、功放机、分配盘、（ ）、音频线路及扬声器等组成。
+
+<ul class="question-options">
+<li><strong>A.</strong> 输入模块</li>
+<li class="correct-option"><strong>B.</strong> 输出模块 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 隔离器</li>
+<li><strong>D.</strong> 断路器</li>
+</ul>
+
+**解析：** 消防应急广播系统主要由消防应急广播主机、功放机、分配盘、输出模块、音频线路及扬声器等组成。发生火灾时，消防控制室值班人员打开消防应急广播功放机主备电开关，通过操作分配盘或消防联动控制器面板上的按钮选择播送范围，利用麦克风或启动播放器对所选择区域进行广播。结合题意，本题应选“输出模块”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 196
+
+（ ）能终止与任意消防电话分机的通话，且不影响与其他消防电话分机的通话。
+
+<ul class="question-options">
+<li><strong>A.</strong> 消防电话系统</li>
+<li><strong>B.</strong> 消防电话分机</li>
+<li class="correct-option"><strong>C.</strong> 消防电话总机 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 插孔移动电话</li>
+</ul>
+
+**解析：** 消防电话的总机设在消防控制室，是消防电话的重要组成部分，消防电话分机设置在建筑物中各关键部位，能够与消防电话总机进行全双工语音通信。消防电话插孔安装在建筑物各处，插上电话手柄就可以和消防电话总机通信。消防电话总机能终止与任意消防电话分机的通话，且不影响与其他消防电话分机的通话。结合题意，本题应选“消防电话总机”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 197
+
+消防泵组电气控制柜当开关处于（ ）时由控制柜面板启/停按钮手动控制水泵启停。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自动位</li>
+<li class="correct-option"><strong>B.</strong> 手动位 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 启动位</li>
+<li><strong>D.</strong> 停止位</li>
+</ul>
+
+**解析：** 为确保消防水泵的可靠控制，适应消防水泵启动灭火、灾后控制以及维护保养的需求，消防水泵应能手动启停和自动启动。消防泵组电气控制柜设置有手动、自动转换开关，当开关处于手动位时由控制柜面板启/停按钮手动控制水泵启停。结合题意，本题应选择“手动位”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 198
+
+消防水泵（ ）设置自动停泵的控制功能。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 不应 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 应</li>
+<li><strong>C.</strong> 不宜</li>
+<li><strong>D.</strong> 宜</li>
+</ul>
+
+**解析：** 消防水泵不应设置自动停泵的控制功能，停泵应由具有管理权限的工作人员根据火灾扑救情况确定。结合题意，本题应选择“不应”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 199
+
+采用（ ）时配用的稳压泵扬程低，气压水罐充气压力小，但对隔振要求较高。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 上置式 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 下置式</li>
+<li><strong>C.</strong> 中间安装</li>
+<li><strong>D.</strong> 地下三层安装</li>
+</ul>
+
+**解析：** 消防增（稳）压设施按安装位置可分为上置式和下置式两种。采用上置式时配用的稳压泵扬程低，气压水罐充气压力小，但对隔振要求较高；采用下置式时由于气压罐内的供水压力是借罐内的压缩空气来维持，因此，不仅能保证灭火设备处所需的水压，而且罐体的安装高度还不受限制，可设置在建筑物的任何部位，当高位消防水箱间的面积有限时，可采用这种布置形式。结合题意，本题应选择“上置式”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 200
+
+当一个（ ）包括多个楼层时，宜在每个楼层设置一台仅显示本楼层的火灾显示盘。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 报警区域 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 设防区域</li>
+<li><strong>C.</strong> 保护区域</li>
+<li><strong>D.</strong> 防火分区</li>
+</ul>
+
+**解析：** 报警区域是指将火灾自动报警系统的警戒范围按防火分区或楼层等划分的单元。宾馆、饭店等场所应在每个报警区域设置一台区域显示器。当一个报警区域包括多个楼层时，宜在每个楼层设置一台仅显示本楼层的区域显示器。结合题意，本题应选“报警区域”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 201
+
+下列属于一类高层建筑的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 建筑高度为30m的普通办公楼</li>
+<li><strong>B.</strong> 建筑高度为30m的普通旅馆</li>
+<li class="correct-option"><strong>C.</strong> 建筑高度为30m的养老院 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 建筑高度为30m的住宅楼</li>
+</ul>
+
+**解析：** 建筑高度大于24米的独立建造的老年人照料设施属于一类高层公共建筑，养老院属于老年人照料设施。
+
+---
+
+
+
+#### 单选题 202
+
+可燃物质，在没有外部火花、火焰等火源的作用下，因受热或自身发热并蓄热所产生的燃烧现象，称为（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 阴燃</li>
+<li><strong>B.</strong> 着火</li>
+<li class="correct-option"><strong>C.</strong> 自燃 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 着火点</li>
+</ul>
+
+**解析：** 自燃就是可燃物在空气中没有外部引火源的作用，靠自热或外热而发生燃烧的现象。
+
+---
+
+
+
+#### 单选题 203
+
+机械加压送风系统应采用管道送风，送风管道应采用 () 材料制作且内壁应光滑。
+
+<ul class="question-options">
+<li><strong>A.</strong> 可燃</li>
+<li class="correct-option"><strong>B.</strong> 不燃 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 不燃或难燃</li>
+<li><strong>D.</strong> 难燃</li>
+</ul>
+
+**解析：** 机械加压送风系统应采用管道送风，送风管道应釆用不燃材料制作且内壁光滑，管道密闭性能应满足火灾时加压送风的要求。
+
+---
+
+
+
+#### 单选题 204
+
+通过手动开启常闭式加压送风口联动启动送风机，应确认送风机电气控制处于()运行模式，进入消防联动控制器()操作权限。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自动，自动禁止</li>
+<li class="correct-option"><strong>B.</strong> 自动，自动允许 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 手动，手动禁止</li>
+<li><strong>D.</strong> 手动，手动允许</li>
+</ul>
+
+**解析：** 1.手动开启常闭式加压送风口联动启动送风机(1)设置送风机电气控制柜和消防联动控制器控制状态确认送风机电气控制柜处于“自动”运行模式，进入消防联动控制器“自动允许”操作权限。(2)手动开启常闭式加压送风口打开常闭式加压送风口执行机构护板，找到执行机构钢丝绳拉环，用力向外拉动拉环，常闭式加压送风口应能打开，相应的送风机应能联动启动。查看消防联动控制器，应能收到送风机启动反馈信号。（3）手动停止送风机停止送风机时，先将送风机电气控制柜置于“手动”运行模式，再按下停止按 钮，使送风机停止运行。（4）送风口复位操作对常闭式加压送风口进行复位操作，转动手柄复位，观察常闭式加压送风口是否关闭。操作完毕后，对消防联动控制器进行复位操作，并将送风机电气控制柜手动/自动转换开关恢复至“自动”位置。
+
+---
+
+
+
+#### 单选题 205
+
+风机电气控制柜通电时，()应点亮。
+
+<ul class="question-options">
+<li><strong>A.</strong> 运行指示灯</li>
+<li class="correct-option"><strong>B.</strong> 电源指示灯 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 故障指示灯</li>
+<li><strong>D.</strong> 巡检指示灯</li>
+</ul>
+
+**解析：** 风机电气控制柜具有下列功能。（1）指示功能风机电气控制柜面板共设有三处指示信息:1） 电源指示灯，控制柜通电时点亮。2） 运行指示灯，风机运转时点亮。3） 手动/自动转换开关，通过开关指向 指示当前风机处于手动或自动控制状态。
+
+---
+
+
+
+#### 单选题 206
+
+火灾发生时，如果弱电信号因故障不能启动消防泵时，可依靠消防泵房设置的 ()装置启动消防泵。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自动启泵</li>
+<li><strong>B.</strong> 手动启泵</li>
+<li class="correct-option"><strong>C.</strong> 机械应急启动 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 远程启泵</li>
+</ul>
+
+**解析：** 火灾发生时，如果弱电信号因故障不能自动或手动启动消防泵时，可依靠消防泵房设置的机械应急启动装置启动消防泵。
+
+---
+
+
+
+#### 单选题 207
+
+通过消防控制室总线手动控制单元远程启动防火卷帘，应先进入消防联动控制器的()操作权限，再按下总线手动控制单元的防火卷帘启动按钮。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自动允许</li>
+<li><strong>B.</strong> 自动禁止</li>
+<li class="correct-option"><strong>C.</strong> 手动允许 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 手动禁止</li>
+</ul>
+
+**解析：** 消防控制室总线手动控制单元远程启动防火卷帘，进入消防联动控制器的“手动允许”操作权限，按下总线手动控制单元防火卷帘启动按钮，观察防火卷帘启动灯是否点亮，防火卷帘下降到楼板后反馈灯是否点亮。
+
+---
+
+
+
+#### 单选题 208
+
+风机电气控制柜的手动/自动转换开关处于“手动”位置时，下列说法正确的有 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 不能通过电气控制柜启/停按钮现场控制风机</li>
+<li><strong>B.</strong> 消防控制室远程手动控制有效</li>
+<li><strong>C.</strong> 消防控制室联动控制有效</li>
+<li class="correct-option"><strong>D.</strong> 消防控制室联动控制失效 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 当手动/自动转换 开关处于“手动”位置时，风机只能通过风 机控制柜启动或停止按钮现场控制，消防控 制室远程手动和自动联动控制均失效；当开关处于“自动”位置时，则相反。
+
+---
+
+
+
+#### 单选题 209
+
+（ ）是从事建(构)筑物消防设施运行、操作和维修、保养、检测等工作的人员。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防设施操作员 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 消防员</li>
+<li><strong>C.</strong> 消防安全管理员</li>
+<li><strong>D.</strong> 建(构)筑物消防员</li>
+</ul>
+
+**解析：** 消防设施操作员是从事建(构)筑物消防设施运行、操作和维修、保养、检测等工作的人员。
+
+---
+
+
+
+#### 单选题 210
+
+下列哪种场所不适合用雨淋灭火系统扑救（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 易燃液体喷雾操作区域</li>
+<li class="correct-option"><strong>B.</strong> 图书馆 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 输煤栈桥转运站</li>
+<li><strong>D.</strong> 摄影棚</li>
+</ul>
+
+**解析：** 雨淋系统主要适用于需大面积喷水、快速扑灭火灾的特别危险场所。火灾的水平蔓延速度快、闭式喷头的开放不能及时使喷水有效覆盖着火区域，或室内净空高度超过一定高度且必须迅速扑救初期火灾，或属于严重危险Ⅱ级的场所，应采用雨淋系统。图书馆一般设置湿式自动喷水灭火系统。
+
+---
+
+
+
+#### 单选题 211
+
+消防安全重点单位微型消防站接到火情信息后，消防员应按照（ ）分钟到场的要求赶赴现场处置。
+
+<ul class="question-options">
+<li><strong>A.</strong> 1</li>
+<li class="correct-option"><strong>B.</strong> 3 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 5</li>
+<li><strong>D.</strong> 7</li>
+</ul>
+
+**解析：** 消防安全重点单位微型消防站接到火警信息后，控制室值班员应迅速核实火情，启动灭火处置程序。消防员应按照3 min到场的要求赶赴现场处置。
+
+---
+
+
+
+#### 单选题 212
+
+用减光率为（ ）的减光片遮挡光路，检查线型光束感烟火灾探测器是否发出火灾报警信号。
+
+<ul class="question-options">
+<li><strong>A.</strong> 0.9dB/m</li>
+<li><strong>B.</strong> 1.0dB/m</li>
+<li class="correct-option"><strong>C.</strong> 10.0dB/m <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 11.5dB/m</li>
+</ul>
+
+**解析：** 采用减光率为10.0dB的减光片测试线型光束感烟火灾探测器的报警功能。
+
+---
+
+
+
+#### 单选题 213
+
+下列场所不宜选择线型光束感烟火灾探测器的是（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 可能产生蒸汽和油雾的场所 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 飞机库</li>
+<li><strong>C.</strong> 博物馆</li>
+<li><strong>D.</strong> 商场</li>
+</ul>
+
+**解析：** 有大量粉尘、水雾滞留的场所、可能产生蒸气和油雾的场所、在正常情况下有烟滞留的场所等特殊环境会线型光束感烟火灾探测器的探测性能产生影响，容易使其产生误报现象，因此这些场所不宜选择线型光束感烟火灾探测器。
+
+---
+
+
+
+#### 单选题 214
+
+通过电气火灾监控设备的液晶显示屏查看监控报警信息时，显示内容不包含 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 报警时间</li>
+<li><strong>B.</strong> 报警部位</li>
+<li><strong>C.</strong> 设备类型</li>
+<li class="correct-option"><strong>D.</strong> 生产商信息 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 查看电气火灾监控设备液晶显示器显示内容，确定当前类别报警信息的数量、 发生报警的时间、设备类型、报警部位相关信息；
+
+---
+
+
+
+#### 单选题 215
+
+消防电话插孔保养时，下列部件中需要予以更换的是()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 螺钉松动</li>
+<li class="correct-option"><strong>B.</strong> 端子垫片锈蚀 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 盖板脱落</li>
+<li><strong>D.</strong> 插孔积灰</li>
+</ul>
+
+**解析：** 1. 消防电话分机和消防电话插孔的保养(1) 接线检査保养用旋具紧固松动的接线端子，接线端烫锡接牢。换掉有锈蚀痕迹的螺钉、端子垫片等接线部件。
+
+---
+
+
+
+#### 单选题 216
+
+消防泵组电气控制柜在平时应使消防水泵处于() 状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> 手动启泵</li>
+<li><strong>B.</strong> 消防控制室启泵</li>
+<li class="correct-option"><strong>C.</strong> 自动启泵 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 远程启泵</li>
+</ul>
+
+**解析(*)：** 消防水泵平时应处于自动启泵状态，以便在联动条件满足时自动启动，因此选 C。
+
+---
+
+
+
+#### 单选题 217
+
+当线型感温火灾探测器监视区域的温度参数符合标准规定的报警条件时，探测器输出火灾()信号。
+
+<ul class="question-options">
+<li><strong>A.</strong> 故障</li>
+<li class="correct-option"><strong>B.</strong> 报警 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 离线</li>
+<li><strong>D.</strong> 屏蔽</li>
+</ul>
+
+**解析：** 当线型感温火灾探测器监视区域的温度参数符合标准规定的报警条件时，探测器输出火灾报警信号，点亮火灾报警指示灯。
+
+---
+
+
+
+#### 单选题 218
+
+火灾报警控制器/消防联动控制器按下“查询”键后，可选择()功能来判别现场消防设备的工作状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> 历史信息查询</li>
+<li><strong>B.</strong> 设备历史信息查询</li>
+<li class="correct-option"><strong>C.</strong> 设备信息查询 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 设备操作信息查询</li>
+</ul>
+
+**解析：** 按下火灾报警控制器/消防联动控制器操作面板上的“查询”键，通过数字键或上下方向键选择“设备信息查询”功能, 进入设备信息查询界面后选择“设备状态查询”并按下“确认”键。
+
+---
+
+
+
+#### 单选题 219
+
+下列不属于文字处理软件的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> WPS</li>
+<li><strong>B.</strong> WORD</li>
+<li class="correct-option"><strong>C.</strong> WinRAR <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> Office</li>
+</ul>
+
+**解析：** WinRAR属于压缩软件。
+
+---
+
+
+
+#### 单选题 220
+
+公民道德建设有（ ）项重点任务。
+
+<ul class="question-options">
+<li><strong>A.</strong> 3</li>
+<li class="correct-option"><strong>B.</strong> 4 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 5</li>
+<li><strong>D.</strong> 8</li>
+</ul>
+
+**解析：** 公民道德建设的重点任务有哪些。（1）筑牢理想信念之基。（2）培育和践行社会主义核心价值观。（3）传承中华传统美德。（4）弘扬民族精神和时代精神。
+
+---
+
+
+
+#### 单选题 221
+
+直流供电型火灾显示盘通常采用DC（ ）V，由火灾报警控制器或独立的消防应急电源来供电。
+
+<ul class="question-options">
+<li><strong>A.</strong> 36</li>
+<li class="correct-option"><strong>B.</strong> 24 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 22</li>
+<li><strong>D.</strong> 27</li>
+</ul>
+
+**解析：** 火灾显示盘按供电方式分为两类：直流供电型和交流供电型。直流供电型火灾显示盘通常采用DC24V,由火灾报警控制器或独立的消防应急电源来供电；交流供电型火灾显示盘由交流电源供电，具有主/备电自动转换、备用电源自动充电、电源故障监测和电源工作状态指示等功能。
+
+---
+
+
+
+#### 单选题 222
+
+关闭电气火灾监控设备主电源，电气火灾监控设备处于（ ）状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> 主、备电源故障</li>
+<li><strong>B.</strong> 主电工作，备电故障</li>
+<li><strong>C.</strong> 主备电同时工作</li>
+<li class="correct-option"><strong>D.</strong> 主电故障，备电工作 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 关闭电气火灾监控设备主电源，电气火灾监控设备处于主电故障，备电工作状态。
+
+---
+
+
+
+#### 单选题 223
+
+（ ）不具备直接灭火的能力，主要用于火灾发生时阻隔火势蔓延及热扩散。
+
+<ul class="question-options">
+<li><strong>A.</strong> 干式系统</li>
+<li><strong>B.</strong> 湿式系统</li>
+<li class="correct-option"><strong>C.</strong> 水幕系统 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 雨淋系统</li>
+</ul>
+
+**解析：** 水幕系统不具备直接灭火的能力，主要用于火灾发生时阻隔火势蔓延及热扩散。
+
+---
+
+
+
+#### 单选题 224
+
+机械加压送风系统的风道应采用（ ）材料制作，且宜优先采用光滑管道，不宜采用土建井道。
+
+<ul class="question-options">
+<li><strong>A.</strong> 难燃</li>
+<li class="correct-option"><strong>B.</strong> 不燃 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 易燃</li>
+<li><strong>D.</strong> 可燃</li>
+</ul>
+
+**解析：** 机械加压送风系统的风道应采用不燃材料制作，且宜优先采用光滑管道，不宜采用土建井道。
+
+---
+
+
+
+#### 单选题 225
+
+剪切功能的快捷组合键是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> “Ctrl”+“C”</li>
+<li><strong>B.</strong> “Ctrl”+“V”</li>
+<li class="correct-option"><strong>C.</strong> “Ctrl”+“X” <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> “Ctrl”+“Z”</li>
+</ul>
+
+**解析：** 按下快捷键Ctrl+X键，执行“剪切”命令。
+
+---
+
+
+
+#### 单选题 226
+
+（ ）是评定可燃气体爆炸危险性的主要依据。
+
+<ul class="question-options">
+<li><strong>A.</strong> 燃点</li>
+<li><strong>B.</strong> 自燃点</li>
+<li><strong>C.</strong> 闪点</li>
+<li class="correct-option"><strong>D.</strong> 爆炸极限 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 爆炸极限是评估可燃的气体、蒸气或粉尘等物质火灾危险性的重要参数，一般来说爆炸下限越低或爆炸极限范围越大，可燃物的火灾爆炸危险性就越大。
+
+---
+
+
+
+#### 单选题 227
+
+保护（ ）的目的是使火灾调查人员能够发现、提取到客观、真实、有效的火灾痕迹和物证，确保火灾原因认定的准确性。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火灾现场 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 受损财物</li>
+<li><strong>C.</strong> 过火痕迹</li>
+<li><strong>D.</strong> 起火部位</li>
+</ul>
+
+**解析：** 火灾现场保留着火灾发生、发展和熄灭过程的真实记录，是火灾原因的物质载体。保护火灾现场的目的是使火灾调查人员能够发现、提取到客观、真实、有效的 火灾痕迹和物证，确保火灾原因认定的准确性。
+
+---
+
+
+
+#### 单选题 228
+
+湿式系统的适用范围是 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 环境温度在为4℃-70℃之间的场所 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 环境温度低于4℃或高于70℃的场所</li>
+<li><strong>C.</strong> 用于替代干式系统的场所</li>
+<li><strong>D.</strong> 严重危险级II级的场所</li>
+</ul>
+
+**解析：** 湿式自动喷水灭火系统是应用最为广泛的自动喷水灭火系统，适合在温度不低 于4℃且不高于70℃的环境中使用。干式自动喷水灭火系统适用于环境温度低于4℃或高于70 ℃的场所。预作用自动喷水灭火系统可消除干式自动喷水灭火系统在喷头开放后延迟喷水 的缺点，能在低温和高温环境中替代干式自动喷水灭火系统。雨淋系统适用于严重危险级II级的场所。
+
+---
+
+
+
+#### 单选题 229
+
+疏散出口门的净宽度不应小于（ ）m。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 0.8 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 1</li>
+<li><strong>C.</strong> 1.1</li>
+<li><strong>D.</strong> 1.2</li>
+</ul>
+
+**解析：** （1）疏散出口门的净宽度不应小于0.80 m。2 ）住宅建筑中直通室外地面的住宅户门的净宽度不应小于0.80 m。3）首层疏散外门净宽度不应小于1.1 m。
+
+---
+
+
+
+#### 单选题 230
+
+以下不属于常用火灾联动设备的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 风机</li>
+<li><strong>B.</strong> 水泵</li>
+<li class="correct-option"><strong>C.</strong> 手动报警按钮 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 卷帘门</li>
+</ul>
+
+**解析：** 常用火灾联动设备有风机、水泵、切电模块、排烟系统、卷帘门等。手动报警按钮是触发器件。
+
+---
+
+
+
+#### 单选题 231
+
+防火门监控器应能记录与其连接的防火门的状态信息，记录容量不应少于（ ）条，并具有信息查询和将上述信息上传的功能。
+
+<ul class="question-options">
+<li><strong>A.</strong> 8000</li>
+<li><strong>B.</strong> 5000</li>
+<li><strong>C.</strong> 6000</li>
+<li class="correct-option"><strong>D.</strong> 10000 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 本题考查考生对防火门监控器的功能知识点的掌握情况。监控器应能记录与其连接的防火门的状态信息（包括防火门地址，开、闭和故障状态及相应的时间等），记录容量不应少于10000条，并具有信息查询和将上述信息上传的功能。结合题意，本题应选“10000条”，其他3项均可排除。
+
+---
+
+
+
+#### 单选题 232
+
+下列组件属于集中报警系统，但不属于区域报警系统的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火灾探测器</li>
+<li><strong>B.</strong> 火灾声光警报器</li>
+<li><strong>C.</strong> 手动火灾报警按钮</li>
+<li class="correct-option"><strong>D.</strong> 消防联动控制器 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** （1）区域报警系统应由火灾探测器、手动火灾报警按钮、火灾声光警报器及火灾报警控制器等组成，系统中可包括消防控制室图形显示装置和指示楼层的区域显示器。（2）集中报警系统应由火灾探测器、手动火灾报警按钮、火灾声光警报器、消 防专用电话、消防应急广播、消防控制室图形显示装置、火灾报警控制器、消防联 动控制器等组成。
+
+---
+
+
+
+#### 单选题 233
+
+()是通过采用机械加压送风方式阻止火灾烟气侵入楼梯间、前室、避难层(间)等空间的系统。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自然排烟系统</li>
+<li><strong>B.</strong> 机械排烟系统</li>
+<li><strong>C.</strong> 自然通风系统</li>
+<li class="correct-option"><strong>D.</strong> 机械加压送风系统 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 防烟系统通过采用自然通风方式，防止火灾烟气在楼梯间、前室、避难层(间)等空间内积聚，或通过采用机械加压送风方式阻止火灾烟气侵入楼梯间、前室、避难层(间)等空间。
+
+---
+
+
+
+#### 单选题 234
+
+通过直接手动控制单元手动启停送风机，应确认送风机电气控制柜处于()运行模式，进入直接手动控制/单元(也称多线控制盘)的 ()操作权限。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自动，手动禁止</li>
+<li class="correct-option"><strong>B.</strong> 自动，手动允许 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 手动，手动禁止</li>
+<li><strong>D.</strong> 手动，手动允许</li>
+</ul>
+
+**解析：** 通过直接手动控制单元手动启停送风机确认送风机电气控制柜处于“自动”运行模式，进入直接手动控制单元（也称多线控制盘）的“手动允许”操作权限，按下送风机启动按钮，送风机启动后，观 察反馈信号指示灯是否点亮；再次按下送风机启动按钮，观察送风机是否停止，送 风机停止后反馈信号指示灯应熄灭；恢复直接手动控制单元的“手动禁止”操作权限。
+
+---
+
+
+
+#### 单选题 235
+
+燃烧是可燃物与（ ）作用发生的放热反应，通常伴有火焰、发光和（或）发烟现象。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 氧化剂 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 氧气</li>
+<li><strong>C.</strong> 还原剂</li>
+<li><strong>D.</strong> 催化剂</li>
+</ul>
+
+**解析：** 燃烧是可燃物与氧化剂作用发生的放热反应，通常伴有火焰、发光和（或）发烟现象。
+
+---
+
+
+
+#### 单选题 236
+
+（ ）的作用是接收、显示和传递火灾报警信号，记录报警的具体部位及时间，监视探测器及系统自身的工作状态，并执行相应辅助控制等任务。
+
+<ul class="question-options">
+<li><strong>A.</strong> 手动火灾报警按钮</li>
+<li class="correct-option"><strong>B.</strong> 火灾报警控制器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 火灾声光警报器</li>
+<li><strong>D.</strong> 火灾探测器</li>
+</ul>
+
+**解析：** 本题所述为火灾报警控制器的作用，它能发出区别于环境声、光的火灾报警信号，警示人们迅速进行安全疏散和采取火灾扑救措施。结合题意，本题应选“火灾报警控制器”，其他项均可排除。
+
+---
+
+
+
+#### 单选题 237
+
+应急照明控制器接收到火灾报警控制器的火警信号后，应在（ ）s内发出系统自动应急启动信号，控制应急启动输出干接点动作，发出启动声光信号，显示并记录系统应急启动类型和系统应急启动时间。
+
+<ul class="question-options">
+<li><strong>A.</strong> 2</li>
+<li><strong>B.</strong> 5</li>
+<li class="correct-option"><strong>C.</strong> 3 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 6</li>
+</ul>
+
+**解析：** 应急照明控制器接收到火灾报警控制器的火警信号后，应在 3 s内发出系统自动应急启动信号，控制应急启动输出干接点动作，发出启动声光信号，显示并记录系统应急启动类型和系统应急启动时间。
+
+---
+
+
+
+#### 单选题 238
+
+《中华人民共和国职业分类大典( 2022年版)》将我国职业划分为（ ）大类。
+
+<ul class="question-options">
+<li><strong>A.</strong> 4</li>
+<li><strong>B.</strong> 5</li>
+<li><strong>C.</strong> 6</li>
+<li class="correct-option"><strong>D.</strong> 8 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 目前，《中华人民共和国职业分类大典（2022年版）》将我国职业划分为以下八大类：第一大类，包含党的机关、国家机关、群众团体和社会组织、企事业单位负责人；第二大类，包含专业技术人员；第三大类，包含办事人员和有关人员；第四大类，包含社会生产服务和生活服务人员；第五大类，包含农、林、牧、渔业生产及辅助人员；第六大类，包含生产制造及有关人员；第七大类，包含军队人员；第八大类，包含不便分类的其他从业人员。其中，以职业活动所涉及的经济领域、知识领域以及所提供的产品和服务种类为主要参照，将职业划分为79个中类。
+
+---
+
+
+
+#### 单选题 239
+
+一般情况下，当选择播音范围后，广播录放盘上“应急广播”即自动开启，对应指示灯()点亮，消防广播按预先录制的信息进行播音。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 红色 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 绿色</li>
+<li><strong>C.</strong> 黄色</li>
+<li><strong>D.</strong> 以上均不对</li>
+</ul>
+
+**解析：** 一般情况下，当选择播音范围后，广播录放盘上“应急广播”即自动开启，对 应指示灯(红色)点亮，消防广播按预先录制的信息进行播音；“应急广播”未自动 开启时，可手动按下对应按钮，指示灯(红色)点亮，消防广播按预先录制的信息进行播音。
+
+---
+
+
+
+#### 单选题 240
+
+消防电话通话期间有新的分机呼叫时，总机()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 发出振铃声响</li>
+<li><strong>B.</strong> 发出声、光报警</li>
+<li class="correct-option"><strong>C.</strong> 面板上该分机对应部位指示灯闪亮 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 面板上该分机对应部位指示灯常亮</li>
+</ul>
+
+**解析：** 当通话期间有新的分机呼叫时，总机面板 上该分机对应部位指示灯闪亮，但无振铃声响信号。
+
+---
+
+
+
+#### 单选题 241
+
+机械加压送风系统应当与火灾自动报警系统联动，当某一防火分区内火灾确认后，机械加压送风系统应能在()内联动开启该防火分区全部楼梯间的加压送风机。
+
+<ul class="question-options">
+<li><strong>A.</strong> 5s</li>
+<li class="correct-option"><strong>B.</strong> 15s <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 30s</li>
+<li><strong>D.</strong> 60s</li>
+</ul>
+
+**解析：** 当确认某一防火分区内发生 火灾后，机械加压送风系统应能在15 s内联动同时开启该防火分区的全部疏散楼梯间、该防火分区所在着火层及其相邻上下各一层疏散楼梯间及其前室或合用前室的加压送风机。
+
+---
+
+
+
+#### 单选题 242
+
+由水源、供水设备、管道、雨淋报警阀（或电动控制阀、气动控制阀）、过滤器和水雾喷头等组成，向保护对象喷射水雾进行灭火或防护冷却的系统是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 雨淋系统</li>
+<li><strong>B.</strong> 细水雾灭火系统</li>
+<li class="correct-option"><strong>C.</strong> 水喷雾灭火系统 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 泡沫—水喷淋灭火系统</li>
+</ul>
+
+**解析：** 本题所述为水喷雾灭火系统的定义。水雾喷头在较高的水压力作用下，将水流分离成0.2~2mm甚至更小的细小水雾滴，通过表面冷却、窒息、稀释、冲击乳化和覆盖等作用实现灭火。结合题意，本题应选“水喷雾灭火系统”，其他项均可排除。
+
+---
+
+
+
+#### 单选题 243
+
+对集中火灾报警控制器、消防联动控制器、消防控制室图形显示装置的开关按键、键盘鼠标的保养方法中正确是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 发现油漆脱落应及时涂补</li>
+<li><strong>B.</strong> 用清洁剂擦拭表面，确保干净清洁</li>
+<li class="correct-option"><strong>C.</strong> 用小毛刷将孔隙内的灰尘和杂质清扫出来，再用吸尘器清理干净 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 发现标注的文字、标签脱落可暂缓修复</li>
+</ul>
+
+**解析：** （1）用小毛刷将孔隙内的灰尘和杂质清扫出来，再用吸尘器清理干净；（2）用湿布擦拭表面，确保干净清洁；（3）发现标注的文字、标签脱落应及时恢复标注。
+
+---
+
+
+
+#### 单选题 244
+
+（ ）肩负着探测火灾早期特征、发出火灾报警信号，为人员疏散、防止火灾蔓延和启动自动灭火设备提供控制与指示的消防任务。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火灾探测报警系统</li>
+<li><strong>B.</strong> 火灾预警系统</li>
+<li class="correct-option"><strong>C.</strong> 火灾自动报警系统 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 消防联动控制系统</li>
+</ul>
+
+**解析：** 火灾自动报警系统肩负着探测火灾早期特征、发出火灾报警信号，为人员疏散、防止火灾蔓延和启动自动灭火设备提供控制与指示的消防任务。系统中的集中火灾报警控制器、消防联动控制器、消防控制室图形显示装置一般应设置在消防控制室内或有人值班的房间和场所。
+
+---
+
+
+
+#### 单选题 245
+
+下列不属于应急照明控制器保养方法的有（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 用吸尘器、清洁的干软布等清除机壳表面、通风格栅内及所有接线端子处灰尘</li>
+<li><strong>B.</strong> 对所有按键进行按下、弹起操作</li>
+<li><strong>C.</strong> 用螺丝刀紧固，接线端烫锡</li>
+<li class="correct-option"><strong>D.</strong> 对影响执行机构动作的建筑装饰或杂物及时清除 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 应急照明控制器的保养内容、要求和方法：用吸尘器、清洁的干软布等清除机壳表面、通风格栅内及所有接线端子处的灰尘；对所有按键进行按下、弹起操作；用螺丝刀紧固，接线端烫锡。D选项是排烟防火阀、送风口、排烟口的保养内容。
+
+---
+
+
+
+#### 单选题 246
+
+电流流过导体产生的热量，与电流强度的 ()、导体的电阻及通电时间成正比。
+
+<ul class="question-options">
+<li><strong>A.</strong> 一次方</li>
+<li class="correct-option"><strong>B.</strong> 平方 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 三次方</li>
+<li><strong>D.</strong> 四次方</li>
+</ul>
+
+**解析：** 焦耳定律是指电流流过导体产生的热量，与电流的平方、导体电阻及通电时间成正比。
+
+---
+
+
+
+#### 单选题 247
+
+()是指物体通过电磁波直接向外传递热量的现象
+
+<ul class="question-options">
+<li><strong>A.</strong> 热传导</li>
+<li class="correct-option"><strong>B.</strong> 热辐射 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 热对流</li>
+<li><strong>D.</strong> 散热</li>
+</ul>
+
+**解析：** 热辐射是指物体通过电磁波直接向外传递热量的现象。
+
+---
+
+
+
+#### 单选题 248
+
+对于消防电梯，为方便火灾时消防人员接近和快速使用，其迫降要求是使电梯返回到指定层（一般为首层）并保持（ ）的状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> 开门停用</li>
+<li class="correct-option"><strong>B.</strong> 开门待用 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 关门停用</li>
+<li><strong>D.</strong> 关门待用</li>
+</ul>
+
+**解析：** 对于消防电梯，为方便火灾时消防人员接近和快速使用，其迫降要求是使电梯返回到指定层（一般为首层）并保持开门待用的状态。
+
+---
+
+
+
+#### 单选题 249
+
+通过单击（ ）右侧的中/英按钮，可以切换中英文输入法。
+
+<ul class="question-options">
+<li><strong>A.</strong> 桌面</li>
+<li><strong>B.</strong> 开始菜单</li>
+<li class="correct-option"><strong>C.</strong> 任务栏 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 软件窗口</li>
+</ul>
+
+**解析：** 通过单击任务栏右侧的中/英按钮，可以切换中英文输入法。
+
+---
+
+
+
+#### 单选题 250
+
+单独建造的消防控制室，耐火等级不应低于（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 一级</li>
+<li class="correct-option"><strong>B.</strong> 二级 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 三级</li>
+<li><strong>D.</strong> 四级</li>
+</ul>
+
+**解析：** 消防控制室的布置和防火分隔应符合下列规定。（1） 单独建造的消防控制室，耐火等级不应低于二级。（2） 附设在建筑内的消防控制室应釆用防火门、防火窗、耐火极限不低于2.00h 的防火隔墙和耐火极限不低于1.50 h的楼板与其他部位分隔。（3） 消防控制室应位于建筑的首层或地下一层，疏散门应直通室外或安全出口。（4） 消防控制室的环境条件不应干扰或影响消防控制室内火灾报警与控制设备 的正常运行。（5） 消防控制室内不应敷设或穿过与消防控制室无关的管线。（6） 消防控制室应采取防水淹、防潮、防啮齿动物等的措施。
+
+---
+
+
+
+#### 单选题 251
+
+计算机是由硬件系统和（ ）两部分组成的。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 软件系统 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 网络系统</li>
+<li><strong>C.</strong> 应用系统</li>
+<li><strong>D.</strong> 存储系统</li>
+</ul>
+
+**解析：** 计算机是由硬件系统和软件系统两部分组成的。
+
+---
+
+
+
+#### 单选题 252
+
+操作系统主要有（ ）、共享性、虚拟性和异步性四个基本特征。
+
+<ul class="question-options">
+<li><strong>A.</strong> 唯一性</li>
+<li class="correct-option"><strong>B.</strong> 并发性 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 窗口化</li>
+<li><strong>D.</strong> 人性化</li>
+</ul>
+
+**解析：** 操作系统主要有并发性、共享性、虚拟性和异步性四个基本特征。
+
+---
+
+
+
+#### 单选题 253
+
+严禁系统误喷的场所应采用（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 干式系统</li>
+<li class="correct-option"><strong>B.</strong> 预作用系统 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 湿式系统</li>
+<li><strong>D.</strong> 雨淋系统</li>
+</ul>
+
+**解析：** 预作用自动喷水灭火系统可消除干式自动喷水灭火系统在喷头开放后延迟喷水的缺点，能在低温和高温环境中替代干式自动喷水灭火系统。系统处于准工作状态时，严禁管道漏水及系统误喷的忌水场所应采用预作用自动喷水灭火系统。
+
+---
+
+
+
+#### 单选题 254
+
+下列不属于高层建筑的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 建筑高度为54m的办公楼</li>
+<li class="correct-option"><strong>B.</strong> 建筑高度为26m的单层厂房 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 建筑高度为26m的门诊楼</li>
+<li><strong>D.</strong> 建筑高度为30m的住宅楼</li>
+</ul>
+
+**解析：** 高层建筑是指建筑高度大于27m的住宅建筑和建筑高度大于24m的非单层厂房、仓库和其他民用建筑。对于有些单层建筑，如体育馆、高大的单层厂房等，因为具有相对便利的疏散和扑救条件，虽然建筑高度大于24m，但不划分为高层建筑。
+
+---
+
+
+
+#### 单选题 255
+
+下列不属于电气火灾监控器的保养步骤的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 使用钥匙打开箱门，将监控器主、备电源切断。</li>
+<li><strong>B.</strong> 用小毛刷将机柜（壳）内设备空隙和线材上的灰尘和杂质清扫出来，然后用吸尘器清理干净。</li>
+<li><strong>C.</strong> 检查线路接头处有无氧化或锈蚀痕迹，若有则应采取防潮、防锈措施，如镀锡和涂凡士林等。</li>
+<li class="correct-option"><strong>D.</strong> 保养结束后，给监控器送电，钥匙放入箱内。 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 保养工作完成后，保养人员需要仔细检查并确保没有异物落入且遗留在机柜 （壳）内、电器元件及线路中，检查完成后方可上电。保养结束后，给控制器送电，用钥匙将箱门锁闭。
+
+---
+
+
+
+#### 单选题 256
+
+当电气火灾监控设备面板上红色指示灯点亮，则说明电气火灾监控设备处于 ()状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> 故障报警</li>
+<li class="correct-option"><strong>B.</strong> 监控报警 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 通信故障报警</li>
+<li><strong>D.</strong> 备电故障报警</li>
+</ul>
+
+**解析：** 当电气火灾监控设备发岀报警声（一般为消防车警报声），报警指示灯亮，液 晶显示器显示相应报警信息，可判定电气火灾监控系统处于监控报警状态。
+
+---
+
+
+
+#### 单选题 257
+
+在对线型感温火灾探测器的功能测试时，可使用专用检测装置持续对一段标准报警长度感温电缆进行 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 冷却</li>
+<li class="correct-option"><strong>B.</strong> 加热 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 震动</li>
+<li><strong>D.</strong> 摩擦</li>
+</ul>
+
+**解析：** 对可恢复的线型感温火灾探测器在终端盒0.3 m以外的部位，使用可产生不低于设定动作温度环境的专用检测装置(如热水)持续对一段标准报警长度(1m) 感温电缆进行加热，30s内线型感温火灾探测器的红色报警确认灯点亮，火灾报警控制器显示 相关火灾报警信息。
+
+---
+
+
+
+#### 单选题 258
+
+通过消防控制室图形显示装置查询历史信息时，单击”()”设置事件类别，单击”()”键，可查看所设条件下的所有历史报警数据。
+
+<ul class="question-options">
+<li><strong>A.</strong> 首页查看</li>
+<li><strong>B.</strong> 视频预览 查询</li>
+<li><strong>C.</strong> 数据统计 查看</li>
+<li class="correct-option"><strong>D.</strong> 数据统计 查询 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 单击“数据统计”，设置事件类别，单击“查询”键，可查看所设条件下的所有历史报警数据。
+
+---
+
+
+
+#### 单选题 259
+
+疏散楼梯间及其前室的门应向（ ）开启。
+
+<ul class="question-options">
+<li><strong>A.</strong> 内</li>
+<li><strong>B.</strong> 外</li>
+<li class="correct-option"><strong>C.</strong> 疏散方向 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 无特殊要求</li>
+</ul>
+
+**解析：** 一般来说，疏散出口门的设置应符合下列规定。（1） 净宽度要求1）疏散出口门的净宽度不应小于0.80 m。2 ）住宅建筑中直通室外地面的住宅户门的净宽度不应小于0.80 m。3）首层疏散外门净宽度不应小于1.1 m。（2） 开启方向要求除设置在丙、丁、戊类仓库首层靠墙外侧的推拉门或卷帘门可用于疏散门外, 疏散出口门应为平开门或在火灾时具有平开功能的门，且下列场所或部位的疏散出口门应向疏散方向开启。1）甲、乙类生产场所。2） 甲、乙类物质的储存场所。3） 平时使用的人民防空工程中的公共场所。4） 其他建筑中使用人数大于60人的房间或每槿门的平均疏散人数大于30人的 房间。5） 疏散楼梯间及其前室的门。6） 室内通向室外疏散楼梯的门。（3）其他要求疏散出口门应能在关闭后从任何一侧手动开启。开向疏散楼梯（间）或疏散走 道的门在完全开启时，不应减少楼梯平台或疏散走道的有效净宽度。除住宅的户门 可不受限制外，建筑中控制人员出入的闸口和设置门禁系统的疏散出口门应具有在 火灾时自动释放的功能，且人员不需使用任何工具即能容易地从内部打开，在门内 一侧的显著位置应设置明显的标识。
+
+---
+
+
+
+#### 单选题 260
+
+挡烟垂壁按安装方式可分为固定式挡烟垂壁和（ ）挡烟垂壁。
+
+<ul class="question-options">
+<li><strong>A.</strong> 半固定式</li>
+<li><strong>B.</strong> 隐藏式</li>
+<li class="correct-option"><strong>C.</strong> 活动式 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 隐蔽式</li>
+</ul>
+
+**解析：** 挡烟垂壁按安装方式可分为固定式挡烟垂壁和活动式挡烟垂壁。
+
+---
+
+
+
+#### 单选题 261
+
+做好消防工作是为了（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 预防火灾</li>
+<li><strong>B.</strong> 减少火灾危害</li>
+<li class="correct-option"><strong>C.</strong> 预防火灾和减少火灾危害 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 开展灭火救援行动</li>
+</ul>
+
+**解析：** 开展消防工作是为了预防火灾和减少火灾危害，加强应急救援工作，保护人身、财产安全，维护公共安全。
+
+---
+
+
+
+#### 单选题 262
+
+避难间应采用耐火极限不低于2.00h的防火隔墙和（ ）与其他部位分隔。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 甲级防火门 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 乙级防火门</li>
+<li><strong>C.</strong> 丙级防火门</li>
+<li><strong>D.</strong> 安全疏散门</li>
+</ul>
+
+**解析：** 避难间的设置应符合下列规定。(1)避难区的净面积应满足避难间所在区域设计避难人数避难的要求。(2)避难间兼作其他用途时，应采取保证人员安全避难的措施。(3)避难间应靠近疏散楼梯间，不应在可燃物库房、锅炉房、发电机房、变配电站等火灾危险性大的场所的正下方、正上方或贴邻。(4)避难间应釆用耐火极限不低于2.00h的防火隔墙和甲级防火门与其他部位分隔。(5)避难间应采取防止火灾烟气进入或积聚的措施，并应设置可开启外窗，除外窗和疏散门外,避难间不应设置其他开口。(6)避难间内不应敷设或穿过输送可燃液体、可燃或助燃气体的管道。(7)避难间内应设置消防软管卷盘、灭火器、消防专线电话和应急广播。(8)在避难间入口处的明显位置应设置标示避难间的灯光指示标识。
+
+---
+
+
+
+#### 单选题 263
+
+扑救C类火灾应选用（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 水系灭火剂</li>
+<li><strong>B.</strong> 自行熄灭</li>
+<li class="correct-option"><strong>C.</strong> 干粉灭火剂 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 化学泡沫灭火剂</li>
+</ul>
+
+**解析：** 扑救C类火灾应选用干粉灭火剂。
+
+---
+
+
+
+#### 单选题 264
+
+在正常情况下有烟滞留的场所不宜选择（ ）火灾探测器。
+
+<ul class="question-options">
+<li><strong>A.</strong> 线型缆式感温</li>
+<li><strong>B.</strong> 线型光纤感温</li>
+<li><strong>C.</strong> 线型定温</li>
+<li class="correct-option"><strong>D.</strong> 线型光束感烟 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 符合下列条件之一的场所，不宜选择线型光束感烟火灾探测器：1)有大量粉尘、水雾滞留的场所。2)可能产生蒸气和油雾的场所。3)在正常情况下有烟滞留的场所。4)固定探测器的建筑结构由于振动等原因会产生较大位移的场所。
+
+---
+
+
+
+#### 单选题 265
+
+可能产生蒸汽和油雾的场所不宜选择（ ）火灾探测器。
+
+<ul class="question-options">
+<li><strong>A.</strong> 线型缆式感温</li>
+<li><strong>B.</strong> 线型光纤感温</li>
+<li class="correct-option"><strong>C.</strong> 线型光束感烟 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 线型定温</li>
+</ul>
+
+**解析：** 符合下列条件之一的场所，不宜选择线型光束感烟火灾探测器：1)有大量粉尘、水雾滞留的场所。2)可能产生蒸气和油雾的场所。3)在正常情况下有烟滞留的场所。4)固定探测器的建筑结构由于振动等原因会产生较大位移的场所。
+
+---
+
+
+
+#### 单选题 266
+
+“公民积极参与”是做好消防工作的（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 核心</li>
+<li><strong>B.</strong> 关键</li>
+<li><strong>C.</strong> 根本</li>
+<li class="correct-option"><strong>D.</strong> 基础 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** “公民积极参与”是做好消防工作的基础，也是党的群众路线在消防工作中的体现。
+
+---
+
+
+
+#### 单选题 267
+
+当火灾确认后，火灾自动报警系统应在15s内联动相应防烟分区的全部活动挡烟垂壁，（ ）s以内挡烟垂壁应开启到位。
+
+<ul class="question-options">
+<li><strong>A.</strong> 10</li>
+<li class="correct-option"><strong>B.</strong> 60 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 15</li>
+<li><strong>D.</strong> 30</li>
+</ul>
+
+**解析：** 火灾自动报警系统应在15 s内联动相应防烟分区的全部活动挡烟垂壁，60 s以 内挡烟垂壁应开启到位。
+
+---
+
+
+
+#### 单选题 268
+
+消防泵组电气控制柜内的控制线路发生故障时，当采用机械应急启动，消防水泵应能在报警后() min内进入正常运行状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> 2</li>
+<li><strong>B.</strong> 3</li>
+<li><strong>C.</strong> 4</li>
+<li class="correct-option"><strong>D.</strong> 5 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 机械应急启动时，应确保消防水泵在报警后5 min内正常工作。
+
+---
+
+
+
+#### 单选题 269
+
+输入设备（Input Device）是指向计算机输入（ ）的设备。
+
+<ul class="question-options">
+<li><strong>A.</strong> 字体和符号</li>
+<li><strong>B.</strong> 图像和视频</li>
+<li class="correct-option"><strong>C.</strong> 数据和信息 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 优盘和磁盘</li>
+</ul>
+
+**解析：** 输入设备（Input Device）是指向计算机输入数据和信息的设备。
+
+---
+
+
+
+#### 单选题 270
+
+湿式报警阀开启后，水力警铃的工作压力不应小于 ()MPa。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 0.05 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 0.07</li>
+<li><strong>C.</strong> 0.1</li>
+<li><strong>D.</strong> 0.15</li>
+</ul>
+
+**解析：** 湿式报警阀开启，水力警铃动作并应在5〜90s内发出报警铃声，水力警铃的工作压力不应小于0.05 MPa,且距水力警铃3 m远处警铃声强不应小于70 dB。
+
+---
+
+
+
+#### 单选题 271
+
+延迟器安装在（ ）后的报警管路上，可最大限度减少因水源压力波动或冲击而造成误报警。
+
+<ul class="question-options">
+<li><strong>A.</strong> 预作用报警阀</li>
+<li><strong>B.</strong> 干式报警阀</li>
+<li><strong>C.</strong> 雨淋阀</li>
+<li class="correct-option"><strong>D.</strong> 湿式报警阀 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 延迟器安装在湿式报警阀后的报警管路上，可最大限度减少因水源压力波动或冲击而造成误报警。
+
+---
+
+
+
+#### 单选题 272
+
+打开计算机的任何一个窗口发现的最基本的元素是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 快捷方式</li>
+<li><strong>B.</strong> 文件夹</li>
+<li class="correct-option"><strong>C.</strong> 文件 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 文字</li>
+</ul>
+
+**解析：** 打开计算机的任何一个窗口发现的最基本的元素是文件。
+
+---
+
+
+
+#### 单选题 273
+
+自动排烟窗可通过温控释放装置启动，释放温度应大于环境温度（ ）℃且小于100℃。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 30 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 10</li>
+<li><strong>C.</strong> 15</li>
+<li><strong>D.</strong> 20</li>
+</ul>
+
+**解析：** 自动排烟窗可通过现场操作电气控制柜手动开启，也可以通过与火灾自动报警系统联动或与温控释放装置联动的方式启动。当通过温控释放装置启动时，释放温度大于环境温度30℃且小于100℃。
+
+---
+
+
+
+#### 单选题 274
+
+（ ）适用于不仅需要报警，同时需要联动自动消防设备，且只设置一台具有集中控制功能的火灾报警控制器和消防联动控制器的保护对象。
+
+<ul class="question-options">
+<li><strong>A.</strong> 区域报警系统</li>
+<li class="correct-option"><strong>B.</strong> 集中报警系统 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 控制中心报警系统</li>
+<li><strong>D.</strong> 消防联动控制系统</li>
+</ul>
+
+**解析：** 火灾自动报警系统有区域报警系统、集中报警系统和控制中心报警系统三种形式，各自有不同的适用范围。（1）区域报警系统适用于仅需要报警、不需要联动自动消防设备的保护对象。（2）集中报警系统适用于不仅需要报警，同时需要联动自动消防设备，且只设置一台具有集中控制功能的火灾报警控制器和消防联动控制器的保护对象。（3）控制中心报警系统适用于设置两个及以上消防控制室的保护对象，也适用于已设置两个及以上集中报警系统的保护对象。
+
+---
+
+
+
+#### 单选题 275
+
+在()下，设置消防应急广播与火灾声警报分时交替循环播放功能，监听消防应急广播扬声器和火灾声警报声音的交替循环播放。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 自动状态 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 手动状态</li>
+<li><strong>C.</strong> 手动状态和自动状态</li>
+<li><strong>D.</strong> 以上均不对</li>
+</ul>
+
+**解析：** 应急广播与火灾声警报循环交替播放功能在自动状态下，设置消防应急广播与火灾声警报分时交替循环播放功能，监听消防应急广播扬声器和火灾声警报声音的交替循环播放。
+
+---
+
+
+
+#### 单选题 276
+
+电解液不流动的电池是 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 原电池</li>
+<li><strong>B.</strong> 蓄电池</li>
+<li class="correct-option"><strong>C.</strong> 干电池 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 电解池</li>
+</ul>
+
+**解析：** 干电池是指电解液不流动的电池。通常是指锌锰干电池。
+
+---
+
+
+
+#### 单选题 277
+
+风机电气控制柜处于备用电源工作状态时， ()应点亮。
+
+<ul class="question-options">
+<li><strong>A.</strong> 主电源指示灯</li>
+<li><strong>B.</strong> 主电源故障指示灯</li>
+<li class="correct-option"><strong>C.</strong> 备用电源指示灯 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 备用电源故障指示灯</li>
+</ul>
+
+**解析：** 通过钥匙打开电气控制柜面板，将双电源转换开关切换至自动控制状态，断开 主电源开关，查看电气控制柜是否由主电源工作状态转换为备用电源工作状态，此 时，主电源指示灯应熄灭，备用电源指示灯应点亮。在备用电源工作状态下，恢复 主电源供电，查看电气控制柜是否自动转换为主电源工作状态，此时，备用电源指 示灯应熄灭，主电源指示灯应重新点亮。
+
+---
+
+
+
+#### 单选题 278
+
+高位消防水箱的设置位置应高于其所服务的水灭火设施，且最低有效水位应满足水灭火设施最不利点处的静水压力，高层住宅、二类高层公共建筑、多层公共建筑静水压力应（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> ≥0.07MPa <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> ≥0.1MPa,</li>
+<li><strong>C.</strong> ≥0.15MPa93</li>
+<li><strong>D.</strong> ≥0.2MPa</li>
+</ul>
+
+**解析：** 高位消防水箱的设置位置应高于其所服务的水灭火设施，且最低有效水位应满足水灭火设施最不利点处的静水压力，高层住宅、二类高层公共建筑、多层公共建筑静水压力应≥0.07MPa。
+
+---
+
+
+
+#### 单选题 279
+
+通过自然排烟或机械排烟方式，将房间、走道等空间的火灾烟气排至建筑物外的系统是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 通风空气调节系统</li>
+<li><strong>B.</strong> 补风系统</li>
+<li><strong>C.</strong> 防烟系统</li>
+<li class="correct-option"><strong>D.</strong> 排烟系统 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 排烟系统是指通过自然排烟或机械排烟方式，将房间、走道等空间的火灾烟气排至建筑物外的系统。
+
+---
+
+
+
+#### 单选题 280
+
+（）是指Windows快速执行程序、打开文件、打开文件夹、访问系统资源的特殊图形对象。
+
+<ul class="question-options">
+<li><strong>A.</strong> 开始菜单</li>
+<li><strong>B.</strong> 文件夹</li>
+<li><strong>C.</strong> 文件</li>
+<li class="correct-option"><strong>D.</strong> 快捷方式 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 快捷方式是指Windows快速执行程序、打开文件（文件夹）、访问系统资源的特殊图形对象。
+
+---
+
+
+
+#### 单选题 281
+
+下列火灾中，不可以采用七氟丙烷气体灭火系统进行扑救的是()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 固体表面火灾</li>
+<li class="correct-option"><strong>B.</strong> 金属氢化物 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 电气火灾</li>
+<li><strong>D.</strong> 灭火前可切断气源的气体火灾</li>
+</ul>
+
+**解析：** 气体灭火系统不适用于扑救下列火灾：硝化纤维、硝酸钠等氧化剂或含氧化剂 的化学制品火灾；钾、镁、钠、钛、错、铀等活泼金属火灾；氢化钾、氢化钠等金属氢化物火灾；过氧化氢、联胺等能自行分解的化学物质火灾；可燃固体物质的深位火灾；能发生自燃的物质火灾，如白磷、某些金属有机化合物等。
+
+---
+
+
+
+#### 单选题 282
+
+操作火灾自动报警系统总线手动控制单元的启动按键，在集中控制器上按下总线手动控制单元上相应()的控制按钮。
+
+<ul class="question-options">
+<li><strong>A.</strong> 控制设备</li>
+<li class="correct-option"><strong>B.</strong> 联动设备 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 报警设备</li>
+<li><strong>D.</strong> 灭火设备</li>
+</ul>
+
+**解析：** 操作总线手动控制单元的启动按键。在集中控制器上按下总线手动控制单 元上相应联动设备的控制按钮。
+
+---
+
+
+
+#### 单选题 283
+
+手动停止排烟风机时，应先将排烟风机电气控制柜置于 ()运行模式，再按下 ()按钮，使排烟风机停止运行。
+
+<ul class="question-options">
+<li><strong>A.</strong> 手动，启动</li>
+<li class="correct-option"><strong>B.</strong> 手动，停止 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 自动，启动</li>
+<li><strong>D.</strong> 自动，停止</li>
+</ul>
+
+**解析：** 停止送风机时，先将送风机电气控制柜置于“手动”运行模式，再按下停止按钮，使送风机停止运行。
+
+---
+
+
+
+#### 单选题 284
+
+细水雾灭火系统不适用（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 可燃固体火灾</li>
+<li><strong>B.</strong> 可燃液体火灾</li>
+<li class="correct-option"><strong>C.</strong> 可燃固体深位火灾 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 电气火灾</li>
+</ul>
+
+**解析：** 细水雾灭火系统适用于可燃固体火灾、可燃液体 火灾及电气火灾，不适用于可燃固体深位火灾。
+
+---
+
+
+
+#### 单选题 285
+
+下列说法中错误的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 集中报警系统应设置消防控制室</li>
+<li><strong>B.</strong> 控制中心报警系统应至少设置一个主消防控制室</li>
+<li class="correct-option"><strong>C.</strong> 控制中心报警系统各分控制室内消防设备之间可以互相传输信息、相互控制 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 集中报警系统中起到集中控制作用的消防设备，都应设置在消防控制室内</li>
+</ul>
+
+**解析：** 控制中心报警系统设置两个及以上消防控制室，或设置两个及以上集中报警系统，其组成与集中报警系统基本一致。当有两个及以上消防控制室时，应确定一个主消防控制室。主消防控制室应能显示所有火灾报警信号和联动控制状态信号，并应能控制重要的消防设备；各分消防控制室内消防设备之间可互相传输、显示状态信息，但不应互相控制。
+
+---
+
+
+
+#### 单选题 286
+
+复制功能的快捷组合键是 （ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> “Ctrl”+“C” <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> “Ctrl”+“V"</li>
+<li><strong>C.</strong> “Ctrl”+“X”</li>
+<li><strong>D.</strong> “Ctrl”+“Z”</li>
+</ul>
+
+**解析：** “复制”的快捷键为【Ctrl】+【C】键，“粘贴”的快捷键为【Ctrl】+【V】，“移动（或剪切）的快捷键为【Ctrl】+【X】”，“全选”的快捷键为【Ctrl】+【A】。结合题意，本题应选“【Ctrl】+【C】键”，其他项均可排除。
+
+---
+
+
+
+#### 单选题 287
+
+集中火灾报警控制器信息显示按火灾报警、监管报警及其他状态顺序（ ）排列信息显示等级。
+
+<ul class="question-options">
+<li><strong>A.</strong> 由低至高</li>
+<li class="correct-option"><strong>B.</strong> 由高至低 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 按时间先后</li>
+<li><strong>D.</strong> 按影响大小</li>
+</ul>
+
+**解析：** 集中火灾报警控制器信息显示按火灾报警、监管报警及其他状态顺序由高至低排列信息显示等级。结合题意，本题选B。
+
+---
+
+
+
+#### 单选题 288
+
+甲类生产场所的疏散出口门应是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 推拉门</li>
+<li><strong>B.</strong> 卷帘门</li>
+<li class="correct-option"><strong>C.</strong> 平开门 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 无特殊要求</li>
+</ul>
+
+**解析：** 除设置在丙、丁、戊类仓库首层靠墙外侧的推拉门或卷帘门可用于疏散门外，疏散出口门应为平开门或在火灾时具有平开功能的门。
+
+---
+
+
+
+#### 单选题 289
+
+半固定灭火系统是指（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 固定的泡沫产生器与部分连接管道，泡沫消防车或机动消防泵与泡沫比例混合器，用水带连接组成的灭火系统。 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 消防车、机动消防泵或有压水源，泡沫比例混合器，泡沫枪、泡沫炮或移动式泡沫产生器，用水带等连接组成的灭火系统</li>
+<li><strong>C.</strong> 泡沫产生器与部分连接管道连接，固定消防水泵供应泡沫混合液的灭火系统</li>
+<li><strong>D.</strong> 采用泡沫枪，固定泡沫设置和固定消防水泵供应泡沫混合液的灭火系统</li>
+</ul>
+
+**解析：** 由固定的泡沫产生器与部分连接管道，泡沫消防车或机动消防泵与泡沫比例混合器，用水带连接组成的 灭火系统。半固定式泡沫灭火系统适用于机动消防设施较强的企业附属甲、乙、丙类液体储罐区。
+
+---
+
+
+
+#### 单选题 290
+
+在环境噪声大于60dB的场所设置的扬声器，在其播放范围内最远点的播放声压级应高于背景噪声（ ）dB。
+
+<ul class="question-options">
+<li><strong>A.</strong> 25</li>
+<li><strong>B.</strong> 30</li>
+<li class="correct-option"><strong>C.</strong> 15 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 20</li>
+</ul>
+
+**解析：** 在环境噪声大于60dB的场所设置的扬声器，在其播放范围内最远点的播放声压级应高于背景嗓声15dB。
+
+---
+
+
+
+#### 单选题 291
+
+电气火灾监控设备液晶显示区域只有报警设备编码，而无设备注释信息时，正确的做法是()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 立刻打电话给119</li>
+<li><strong>B.</strong> 不用理会</li>
+<li class="correct-option"><strong>C.</strong> 立即查看系统设备编码与保护场所(房间)对照表资料确定报警部位位置 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 立刻联系设备厂家</li>
+</ul>
+
+**解析：** 查看电气火灾监控设备液晶显示器显示内容，确定当前类别报警信息的数量、 发生报警的时间、设备类型、报警部位相关信息；如果报警部位信息只有设备编码 而无设备注释信息，应立即查看系统设备编码与保护场所(房间)对照表资料，以确定报警部位的具体房间或位置。
+
+---
+
+
+
+#### 单选题 292
+
+以下不属于可燃气体报警系统组成的是()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 可燃气体报警控制器</li>
+<li><strong>B.</strong> 可燃气体探测器</li>
+<li><strong>C.</strong> 火灾声光报警器</li>
+<li class="correct-option"><strong>D.</strong> 故障电弧探测器 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 可燃气体探测报警系统由可燃气体报警控制器、可燃气体探测器、火灾声光 报警器组成，能够在保护区域内泄漏可燃气体的浓度低于爆炸下限的条件下提前报 警，从而预防由于可燃气体泄漏引发的火灾和爆炸事故的发生，能与消防控制室图 形显示装置连接并上传信息。D选项故障电弧探测器属于电气火灾监控系统组成。
+
+---
+
+
+
+#### 单选题 293
+
+建筑沿外墙的每个防火分区在对应消防救援操作面范围内设置的消防救援口不应少于()个。
+
+<ul class="question-options">
+<li><strong>A.</strong> 3</li>
+<li class="correct-option"><strong>B.</strong> 2 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 1</li>
+<li><strong>D.</strong> 根据计算确定</li>
+</ul>
+
+**解析：** 沿外墙的每个防火分区在对应消防救援操作面范围内设置的消防救援口不应少于2个。
+
+---
+
+
+
+#### 单选题 294
+
+接通应急照明控制器电源，打开控制器电源的主备电开关，控制器进入系统 ()状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> 正常监控</li>
+<li class="correct-option"><strong>B.</strong> 自检 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 主电工作</li>
+<li><strong>D.</strong> 备电工作</li>
+</ul>
+
+**解析：** 检查与应急照明控制器相连的设备线路是否正确，确认无问题后接通电源，打 开控制器电源的主备电开关，控制器进入系统自检状态。
+
+---
+
+
+
+#### 单选题 295
+
+消防水泵不应设置自动()的控制功能，应由具有管理权限的工作人员根据火灾扑救情况确定。
+
+<ul class="question-options">
+<li><strong>A.</strong> 启泵</li>
+<li><strong>B.</strong> 启动</li>
+<li class="correct-option"><strong>C.</strong> 停泵 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 启停</li>
+</ul>
+
+**解析：** 消防水泵不设自动停泵的控制功能，其停止应由具有管理权限的工作人员根据火 灾扑救情况确定，并通过消防控制室多线控制盘上启/停按钮或水泵房消防泵组电气 控制柜上的停止按钮手动实施。
+
+---
+
+
+
+#### 单选题 296
+
+地方各级人民政府负责本行政区域内的消防工作，（ ）为主要责任人。
+
+<ul class="question-options">
+<li><strong>A.</strong> 政府主要负责人</li>
+<li class="correct-option"><strong>B.</strong> 分管负责人 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 消防工作负责人</li>
+<li><strong>D.</strong> 班子成员</li>
+</ul>
+
+**解析：** 地方各级人民政府负责本行政区域内的消防工作，政府主要负责人为第一责任人，分管负责人为主要责任人，班子其他成员对分管范围内的消防工作负领导责任。
+
+---
+
+
+
+#### 单选题 297
+
+当有限空间发生火灾时，可采取（ ）等方法，阻止空气进入燃烧区域，或向封闭空间内注入惰性气体降低氧气浓度，以达到窒息灭火的效果。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 封堵孔洞、门窗 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 开窗通风</li>
+<li><strong>C.</strong> 自行熄灭</li>
+<li><strong>D.</strong> 使用气体灭火剂</li>
+</ul>
+
+**解析：** 当有限空间发生火灾时，可采取封堵孔洞、门窗等方法，阻止空气进入燃烧区域，或向封闭空间内注入惰性气体降低氧气浓度，以达到窒息灭火的效果。
+
+---
+
+
+
+#### 单选题 298
+
+下列属于戊类仓库的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 钢材仓库 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 面粉仓库</li>
+<li><strong>C.</strong> 甲醇仓库</li>
+<li><strong>D.</strong> 樟脑仓库</li>
+</ul>
+
+**解析：** 钢材仓库属于戊类仓库。
+
+---
+
+
+
+#### 单选题 299
+
+消防工作贯彻（ ）的方针。
+
+<ul class="question-options">
+<li><strong>A.</strong> 以固为主，固移结合</li>
+<li><strong>B.</strong> 救人第一，科学施救</li>
+<li class="correct-option"><strong>C.</strong> 预防为主、防消结合 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 政府统一领导、部门依法监管、单位全面负责、公民积极参与</li>
+</ul>
+
+**解析：** 消防工作贯彻“预防为主、防消结合”的方针。
+
+---
+
+
+
+#### 单选题 300
+
+（ ）主要用于实时监控和反馈防火门的工作状态，接收控制指令后控制常开防火门关闭，一般安装在防火门附近。
+
+<ul class="question-options">
+<li><strong>A.</strong> 防火门门磁开关</li>
+<li><strong>B.</strong> 防火门电动闭门器</li>
+<li class="correct-option"><strong>C.</strong> 防火门监控模块 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 防火门监控器</li>
+</ul>
+
+**解析：** 常闭型防火门有人通过后，闭门器将门关闭不需要联动，常开型防火门平时开启。常开防火门所在防火分区内的两只独立的火灾探测器或一只火灾探测器与一只手动火灾报警按钮的报警信号，作为常开防火门关闭的联动触发信号，联动触发信号应由火灾报警控制器或消防联动控制器发出，防火门监控器是用于防火门监控的专用设备，因此防火门的联动控制应由防火门监控器执行。防火门监控模块主要用于实时监控和反馈防火门的工作状态，接收控制指令后控制常开防火门关闭。结合题意，本题应选择“监控模块”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 301
+
+火灾自动报警系统的触发器件包括:火灾探测器和( )。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火灾显示盘</li>
+<li><strong>B.</strong> 声光显示器</li>
+<li><strong>C.</strong> 火灾报警器</li>
+<li class="correct-option"><strong>D.</strong> 手动报警按钮 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 在火灾自动报警系统中，自动或手动产生火灾报警信号的器件称为触发器件, 主要包括火灾探测器和手动火灾报警按钮。
+
+---
+
+
+
+#### 单选题 302
+
+在火灾自动报警系统中，自动或手动产生火灾报警信号的器件称为（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 触发器件 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 报警器件</li>
+<li><strong>C.</strong> 控制器件</li>
+<li><strong>D.</strong> 监控器件</li>
+</ul>
+
+**解析：** 在火灾自动报警系统中，自动或手动产生火灾报警信号的器件称为触发器件,主要包括火灾探测器和手动火灾报警按钮。
+
+---
+
+
+
+#### 单选题 303
+
+火灾自动报警系统应设置（），并应在确认火灾后启动建筑内的所有（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火灾声光警报器，火灾声光警报器 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 温度探测器，温度探测器</li>
+<li><strong>C.</strong> 烟雾探测器，烟雾探测器</li>
+<li><strong>D.</strong> 手动火灾报警按钮，手动火灾报警按钮</li>
+</ul>
+
+**解析：** 火灾自动报警系统应设置火灾声光警报器，并应在确认火灾后启动建筑内的所有火灾声光警报器
+
+---
+
+
+
+#### 单选题 304
+
+感温火灾探测器：是检测（）等参数的探测器。
+
+<ul class="question-options">
+<li><strong>A.</strong> 光线</li>
+<li><strong>B.</strong> 烟雾</li>
+<li class="correct-option"><strong>C.</strong> 响应异常温度、温升速率和温差变化 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 以上都不对</li>
+</ul>
+
+**解析：** 感温火灾探测器：响应异常温度、温升速率和温差变化等参数的探测器。
+
+---
+
+
+
+#### 单选题 305
+
+防烟系统主要有自然通风方式的防烟系统和机械加压送风方式的防烟系统两种形式。（ ）的防烟系统是通过送风机送风，使需要加压送风的部位（如防烟楼梯间、消防前室等）压力大于周围环境的压力，以阻止火灾烟气侵入楼梯间、前室、避难层（间）等空间。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自然通风方式</li>
+<li class="correct-option"><strong>B.</strong> 机械加压送风方式 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 自然排烟系统</li>
+<li><strong>D.</strong> 机械排烟系统</li>
+</ul>
+
+**解析：** 防烟系统是通过采用自然通风方式，防止火灾烟气在楼梯间、前室、避难层（间）等空间内积聚，或通过采用机械加压送风方式阻止火灾烟气侵入楼梯间、前室、避难层（间）等空间的系统，防烟系统分为自然通风系统和机械加压送风系统。结合题意，本题应选择“机械加压送风方式”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 306
+
+（ ）是指应用光束被烟雾粒子吸收而减弱的原理探测火灾的线型探测器。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 线型光束感烟火灾探测器 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 线型感温火灾探测器</li>
+<li><strong>C.</strong> 点型感烟火灾探测器</li>
+<li><strong>D.</strong> 点型感温火灾探测器</li>
+</ul>
+
+**解析：** 线型光束感烟火灾探测器是指应用光束被烟雾粒子吸收而减弱的原理探测火灾的线型感烟探测器，包括发射器和接收器两部分。发射器和接收器相对安装，当探测器光路上出现烟雾时，会使到达接收器的信号减弱。当减光率达到预设值时，探测器就会产生报警信号。结合题意，本题应选择“线型光束感烟火灾探测器”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 307
+
+湿式系统准工作状态时配水管道内充满用于启动系统的（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 有压水 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 有压气体</li>
+<li><strong>C.</strong> 有压或无压气体</li>
+<li><strong>D.</strong> 空气</li>
+</ul>
+
+**解析：** 自动喷水灭火系统是由洒水喷头、报警阀组、水流报警装置（水流指示器或压力开关）等组件，以及管道、供水设施等组成，能在发生火灾时喷水的自动灭火系统。湿式系统是准工作状态时配水管道内充满用于启动系统的有压水的闭式系统，主要由闭式喷头、湿式报警阀组、水流指示器、末端试水装置、管道和供水设施等组成。结合题意，本题应选“有压水”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 308
+
+（ ）主要由应急照明配电箱、消防应急灯具和配电线路等组成。
+
+<ul class="question-options">
+<li><strong>A.</strong> 集中电源集中控制型系统</li>
+<li><strong>B.</strong> 集中电源非集中控制型系统</li>
+<li><strong>C.</strong> 自带电源集中控制型系统</li>
+<li class="correct-option"><strong>D.</strong> 自带电源非集中控制型系统 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 自带电源非集中控制型系统主要由应急照明配电箱、消防应急灯具和配电线路等组成。发生火灾时，消防联动控制器联动控制应急照明配电箱的工作状态，进而控制各路消防应急灯具的工作状态。结合题意，本题应选择“自带电源非集中控制型系统”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 309
+
+机械应急启动时，应确保消防水泵在报警（ ）内正常工作。
+
+<ul class="question-options">
+<li><strong>A.</strong> 30s</li>
+<li><strong>B.</strong> 60s</li>
+<li><strong>C.</strong> 3min</li>
+<li class="correct-option"><strong>D.</strong> 5min <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防水泵控制柜应设置机械应急启泵功能，并应保证在控制柜内的控制线路发生故障时由有管理权限的人员在紧急时启动消防水泵。机械应急启动时，应确保消防水泵在报警5min内正常工作，结合题意，本题应选择“5min”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 310
+
+温控释放装置具备（ ）功能，可以通过这种方式拉开卷帘电动机的制动机构，松开刹车盘，使卷帘依靠自重下降关闭。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自动释放</li>
+<li class="correct-option"><strong>B.</strong> 手动释放 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 电动释放</li>
+<li><strong>D.</strong> 远程释放</li>
+</ul>
+
+**解析：** 防火卷帘应装配温控释放装置，当释放装置的感温元件周围温度达到73℃±0.5℃时，释放装置动作，卷帘应依自重下降关闭。温控释放装置具备手动释放功能，可以通过手动方式拉开卷帘电动机的制动机构，松开刹车盘，使卷帘依靠自重下降关闭。结合题意，本题应选择“手动释放”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 311
+
+距扬声器正前方（ ）处应急广播的播放声压级不小于65dB，且不大于115dB。
+
+<ul class="question-options">
+<li><strong>A.</strong> 1.5m</li>
+<li class="correct-option"><strong>B.</strong> 3m <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 5m</li>
+<li><strong>D.</strong> 10m</li>
+</ul>
+
+**解析：** 消防应急广播设备应能同时向一个或多个指定区域广播信息，广播语音应清晰，距扬声器正前方3m处，应急广播声压级(A计权)不应小于65dB，且不应大于115dB。在环境噪声大于60dB的场所设置的扬声器，在其播放范围内最远点的播放声压级应高于背景噪声15dB。结合题意，本题应选“3m”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 312
+
+消防应急广播主机、功放机指示灯功能：过温灯黄色，当内部晶体管温度超过设定温度极限（90℃）（ ）后发生过温故障，指示灯常亮。
+
+<ul class="question-options">
+<li><strong>A.</strong> 2s</li>
+<li><strong>B.</strong> 3s</li>
+<li><strong>C.</strong> 5s</li>
+<li class="correct-option"><strong>D.</strong> 6s <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防应急广播主机、功放机过温灯为黄色，当内部晶体管温度超过设定温度极限（90℃）6s后发生过温故障，指示灯常亮。结合题意，本题应选“6s”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 313
+
+自动巡检控制中自动状态下每台消防水泵低速转动的时间不应少于（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 60s</li>
+<li class="correct-option"><strong>B.</strong> 2min <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 3min</li>
+<li><strong>D.</strong> 5min</li>
+</ul>
+
+**解析：** 电动驱动消防水泵自动巡检时，以低频交流电源逐台驱动消防水泵，使每台消防水泵低速转动的时间不应少于2min；当有启泵信号时，应立即退出巡检，进入工作状态；发现故障时，应有声光报警，并应有记录和储存功能；自动巡检时，应设置电源自动切换功能的检查。结合题意，本题应选择“2min”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 314
+
+（ ）可分为固定式和移动便携式。
+
+<ul class="question-options">
+<li><strong>A.</strong> 消防电话系统</li>
+<li class="correct-option"><strong>B.</strong> 消防电话分机 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 消防电话总机</li>
+<li><strong>D.</strong> 插孔移动电话</li>
+</ul>
+
+**解析：** 消防电话分机本身不具备拨号功能，使用时操作人员将话机手柄拿起即可与消防总机通话。通过消防电话分机可迅速实现对火灾的人工确认，并可及时掌握火灾现场情况，便于指挥灭火工作。消防电话分机可分为固定式和移动便携式。固定式消防电话分机有被叫振铃和摘机通话的功能，主要用于跟消防控制室电话总机进行通话使用。结合题意，本题应选择“消防电话分机”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 315
+
+消防应急广播主机、功放机指示灯功能：过载灯黄色，当输出功率大于额定功率120％并持续（ ）后，过载指示灯点亮。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 2s <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 3s</li>
+<li><strong>C.</strong> 5s</li>
+<li><strong>D.</strong> 6s</li>
+</ul>
+
+**解析：** 消防应急广播设备的电源部分应具有主电源和备用电源转换装置，当主电源断电时，能自动转换到备用电源；主电源恢复时，能自动转换到主电源；主、备电源的工作状态应有指示，主电源应有过流保护措施。主、备电源的转换不应影响消防应急广播设备的正常工作。结合题意，本题应选“2s”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 316
+
+（ ）（仅适于软件实现控制功能的控制器）：火灾报警控制器应能监视程序运行和其储存器内容，当出错时应发出故障信号。
+
+<ul class="question-options">
+<li><strong>A.</strong> 故障报警功能</li>
+<li><strong>B.</strong> 信息显示与查询功能</li>
+<li><strong>C.</strong> 系统兼容功能</li>
+<li class="correct-option"><strong>D.</strong> 软件控制功能 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 集中火灾报警控制器的软件控制功能（仅适于软件实现控制功能的控制器）是指：控制器应能监视程序运行和其存储器内容，当出错时应发出故障信号。在程序执行出错时，控制器应进入安全状态。结合题意，本题应选“软件控制功能”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 317
+
+（ ）是火灾自动报警系统中用于接收、显示和传递火灾报警信号，发出控制信号，并具有其他辅助功能的控制指示设备。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火灾警报器</li>
+<li class="correct-option"><strong>B.</strong> 集中火灾报警控制器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 火灾显示盘</li>
+<li><strong>D.</strong> 火灾探测器</li>
+</ul>
+
+**解析：** 集中火灾报警控制器是火灾自动报警系统中用于接收、显示和传递火灾报警信号，发出控制信号，并具有其他辅助功能的控制指示设备。结合题意，本题应选“集中火灾报警控制器”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 318
+
+集中火灾报警控制器每次操作完成后，应将设备恢复到（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火警状态</li>
+<li><strong>B.</strong> 故障状态</li>
+<li class="correct-option"><strong>C.</strong> 正常工作状态 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 调试状态</li>
+</ul>
+
+**解析：** 在调试火灾报警控制器的过程中，模拟产生各类报警信息时不应损坏系统组件，每次操作完成后，应将设备恢复到正常工作状态。结合题意，本题应选“正常工作状态”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 319
+
+（ ）是电气火灾监控系统的核心控制单元，能为连接的电气火灾监控探测器供电。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 电气火灾监控设备 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 剩余电流式电气火灾监控探测器</li>
+<li><strong>C.</strong> 剩余电流互感器</li>
+<li><strong>D.</strong> 可燃气体探测器</li>
+</ul>
+
+**解析：** 电气火灾监控设备是电气火灾监控系统的核心控制单元，能为连接的电气火灾监控探测器供电。电气火灾监控设备能集中处理并显示各传感器监测到的各种状态、报警信息、故障报警，指示报警部位及类型，储存历史数据、状态与事件等内容，上传给图形显示装置，同时，具有对电气火灾监控探测器的状态、电源供电情况、连接线路情况进行监测的功能，而且还是与监管人员进行人机交互的重要设备之一。结合题意，本题应选“电气火灾监控设备”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 320
+
+剩余电流式电气火灾监控探测器当被保护线路剩余电流达到报警设定值（可自行设定，要求设定范围在20~1000mA）时，应能在（ ）内发出报警信号，点亮报警指示灯，向电气火灾监控设备发送报警信号。
+
+<ul class="question-options">
+<li><strong>A.</strong> 10s</li>
+<li><strong>B.</strong> 20s</li>
+<li class="correct-option"><strong>C.</strong> 30s <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 40s</li>
+</ul>
+
+**解析：** 剩余电流式电气火灾监控探测器是指监测被保护线路中的剩余电流值变化的探测器，一般由剩余电流传感器和信号处理单元组成。当被保护线路剩电流达到报警设定值（可自行设定，要求设定范围在20～1000mA）时，剩余电流式电气火灾监控探测器应能在30s内发出报警信号，点亮报警指示灯，向电气火灾监控设备发送报警信号。结合题意，本题应选“30s”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 321
+
+测温式电气火灾监控探测器当被监视部位温度达到报警设定值（可自行设定，要求设定范围在45~140℃）时，应能在（ ）内发出报警信号，点亮报警指示灯，向电气火灾监控设备发送报警信号。
+
+<ul class="question-options">
+<li><strong>A.</strong> 10s</li>
+<li><strong>B.</strong> 20s</li>
+<li><strong>C.</strong> 30s</li>
+<li class="correct-option"><strong>D.</strong> 40s <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 测温式电气火灾监控探测器是能探测被保护线路中的温度参数变化的探测器。当被监视部位温度达到报警设定值（可自行设定，要求设定范围在45~140℃）时，测温式电气火灾监控探测器应能在40s内发出报警信号，点亮报警指示灯，向电气火灾监控设备发送报警信号。结合题意，本题应选“40s”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 322
+
+集中火灾报警控制器点击“（ ）”图标，显示出火警监管信息。
+
+<ul class="question-options">
+<li><strong>A.</strong> 历史记录</li>
+<li><strong>B.</strong> 分类查看</li>
+<li class="correct-option"><strong>C.</strong> 火警监管 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 联动信息</li>
+</ul>
+
+**解析：** 通过“火警监管”查看在控制面板显示屏上找到“火警监管”图标，点击“火警监管”图标，显示出火警监管信息。点击显示屏第一栏“火警监管”后面的“点此切换”。切换到“所有火警”列表，可以查看所有的火警信息。结合题意，本题应选“火警监管”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 323
+
+（ ）可采用中、低压离心风机或轴流风机。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 机械加压送风机 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 机械加压回风机</li>
+<li><strong>C.</strong> 机械排烟送风机</li>
+<li><strong>D.</strong> 机械送风机</li>
+</ul>
+
+**解析：** 由于机械加压送风系统的风压通常在中、低压范围，所以机械加压送风风机宜采用轴流风机或中、低压离心风机。结合题意，本题应选“机械加压送风机”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 324
+
+建筑排烟系统的设计应根据建筑的使用性质、平面布局等因素，优先采用（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自然通风系统</li>
+<li class="correct-option"><strong>B.</strong> 自然排烟系统 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 机械加压送风系统</li>
+<li><strong>D.</strong> 机械排烟系统</li>
+</ul>
+
+**解析：** 排烟系统是指采用自然排烟或机械排烟的方式，将房间、走道等空间的火灾烟气排至建筑物外的系统，分为自然排烟系统和机械排烟系统。多层建筑优先采用自然排烟方式。多层建筑比较简单，受外部条件影响较少，一般采用自然通风方式较多。高层建筑主要受自然条件（如室外风速、风压、风向等）的影响会较大，一般采用机械方式较多。结合题意，本题应选“自然排烟系统”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 325
+
+（ ）是消防联动控制系统的核心组件。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火灾报警控制器</li>
+<li><strong>B.</strong> 总线制控制盘</li>
+<li class="correct-option"><strong>C.</strong> 消防联动控制器 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 多线制控制盘</li>
+</ul>
+
+**解析：** 消防联动控制器是消防联动控制系统的核心组件。它通过接收火灾报警控制器发出的火灾报警信息，按预设逻辑对建筑中设置的自动消防系统（设施）进行联动控制。结合题意，本题应选“消防联动控制器”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 326
+
+消防控制室图形显示装置主要由两部分组成：以下属于硬件的组成部分的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 操作</li>
+<li><strong>B.</strong> 信息记录</li>
+<li><strong>C.</strong> 信息传输</li>
+<li class="correct-option"><strong>D.</strong> 内存 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防控制室图形显示装置主要由硬件、软件两部分组成。其中硬件包括计算机主机（含CPU、内存、显卡、串行口等），硬盘、喇叭、液晶显示器、外壳等。消防控制室图形显示装置内所装软件要符合《消防控制室图形显示装置软件通用技术要求》规定的显示、操作、信息记录、信息传输和维护等要求。结合题意，本题应选“内存”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 327
+
+应急照明控制器的功能检查保养项目不包括（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自检功能</li>
+<li><strong>B.</strong> 一键启动功能</li>
+<li class="correct-option"><strong>C.</strong> 主、备电源的手动转换功能 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 消音、故障报警功能</li>
+</ul>
+
+**解析：** 应急照明控制器的功能检查保养项目包括自检功能；消音、故障报警功能；一键启动功能和主、备电源的自动转换功能。结合题意，本题应选“主、备电源的手动转换功能”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 328
+
+下列不属于消防泵组电气控制柜工作环境保养要求的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 工作环境良好</li>
+<li><strong>B.</strong> 防止被水淹没的措施完好</li>
+<li><strong>C.</strong> 自动防潮除湿装置工作状态正常</li>
+<li class="correct-option"><strong>D.</strong> 电气原理图完好 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防泵组电气控制柜工作环境保养要求：①工作环境良好，无积灰和蛛网，无杂物堆放；②防止被水淹没的措施完好；③设有自动防潮除湿装置的，工作状态应正常。“电气原理图完好”属于消防泵组电气控制柜外观的保养要求。结合题意，本题应选“电气原理图完好”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 329
+
+在对湿式自动喷水灭火系统的水流指示器保养中要求开启（ ）检查水流指示器的报警情况。
+
+<ul class="question-options">
+<li><strong>A.</strong> 试警铃球阀</li>
+<li class="correct-option"><strong>B.</strong> 试水阀 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 信号阀</li>
+<li><strong>D.</strong> 洒水喷头</li>
+</ul>
+
+**解析：** 水流指示器是用于自动喷水灭火系统中将水流信号转换成电信号的一种报警装置。为检验系统的可靠性，测试系统能否在开放一只喷头的最不利条件下可靠报警并正常启动，要求在每个报警阀的供水最不利点处设置末端试水装置。末端试水装置测试的内容包括水流指示器、报警阀、压力开关、水力警铃的动作是否正常，配水管道是否畅通，以及最不利点处的喷头工作压力等。其他的防火分区与楼层，则要求装设直径25mm的试水阀，试水阀宜安装在最不利点附近或次不利点处。以便在必要时连接末端试水装置。结合题意，本题应选“试水阀”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 330
+
+不属于消防电梯排水泵保养方法的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 对管路阀门进行外表清洁、除锈</li>
+<li><strong>B.</strong> 目测检查润滑油油质，对到期或变质、掺水的进行更换</li>
+<li><strong>C.</strong> 手动盘车，如有卡滞和异响及时进行维修</li>
+<li class="correct-option"><strong>D.</strong> 供电正常，双电源转换功能正常 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防电梯排水泵保养方法包括：①对管路阀门进行外表清洁、除锈；②进行阀门启闭功能测试、启闭状态核查和润滑，损坏的阀门及时更换；③手动盘车，如有卡滞和异响及时进行维修；④目测检查润滑油油质，对到期或变质、掺水的进行更换；⑤紧固各连接部件螺栓，检查电动机、电缆绝缘，目测电缆破损和连接松动情况，及时维修和更换；⑥手动启、停排水泵，观察运转情况、测试排水流量，达不到设计要求的进一步对排水泵、管路进行维修和疏通。“供电正常，双电源转换功能正常”属于消防电梯排水设施电气控制柜保养要求。结合题意，本题应选“供电正常，双电源转换功能正常”，其他3项均可排除。
+
+---
+
+
+
+#### 单选题 331
+
+当可燃气体报警系统处于正常监视状态时，下列说法正确的是 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 可燃气体报警控制器有声音发出</li>
+<li><strong>B.</strong> 屏蔽指示灯亮</li>
+<li><strong>C.</strong> 备电工作指示灯亮</li>
+<li class="correct-option"><strong>D.</strong> 液晶显示屏显示“系统运行正常" <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 当可燃气体报警控制器无声音发岀，主电工作指示灯亮，报警、故障、自检、 屏蔽等其他指示灯不亮，液晶显示器显示“系统运行正常”等类似提示信息，可判 定可燃气体探测报警系统处于正常监视状态。
+
+---
+
+
+
+#### 单选题 332
+
+延迟器通常安装在湿式报警阀通向()的报警管路上，是湿式报警阀组的主要组件之一。
+
+<ul class="question-options">
+<li><strong>A.</strong> 压力开关</li>
+<li><strong>B.</strong> 水力警铃</li>
+<li><strong>C.</strong> 流量开关</li>
+<li class="correct-option"><strong>D.</strong> 压力开关、水力警铃 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 延迟器是可最大限度地减少因水源压力波动或冲击而造成误报警的一种容积式 装置。延迟器通常安装在湿式报警阀通向压力开关、水力警铃的报警管路上，是湿 式报警阀组的主要组件之一。
+
+---
+
+
+
+#### 单选题 333
+
+每个报警阀组控制的最不利点洒水喷头处应设()，其他防火分区、楼层均应设直径为25mm的试水阀。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 末端试水装置 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 信号阀</li>
+<li><strong>C.</strong> 水流指示器</li>
+<li><strong>D.</strong> 试水喷嘴</li>
+</ul>
+
+**解析：** 每个报警阀组控制的最不利点洒水喷头处应设末端试水装置，其他防火分 区、楼层均应设直径为25 mm的试水阀。
+
+---
+
+
+
+#### 单选题 334
+
+防火卷帘的温控释放装置周围温度达到 ()℃时，防火卷帘可以靠自重下降至完全关闭状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> 63±0.5</li>
+<li><strong>B.</strong> 69±0.5</li>
+<li class="correct-option"><strong>C.</strong> 73±0.5 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 79±0.5</li>
+</ul>
+
+**解析：** 本题考查考生对防火卷帘的组成知识点的掌握情况。防火卷帘主要由卷门机、帘板（面）、座板、卷轴、导轨、防护罩（箱体）、控制器、手动按钮盒、温控释放装置等组成。其中温控释放装置是一种温控连锁装置，当温控释放装置的感温元件周围的温度达到73±0.5℃时，温控释放装置动作，牵引开启卷门机的制动机构，松开刹车盘，卷帘依靠自重下降关闭。
+
+---
+
+
+
+#### 单选题 335
+
+甲类厂房与人员密集场所的防火间距不应小于() m。
+
+<ul class="question-options">
+<li><strong>A.</strong> 20</li>
+<li><strong>B.</strong> 30</li>
+<li><strong>C.</strong> 40</li>
+<li class="correct-option"><strong>D.</strong> 50 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** （1）甲类厂房与人员密集场所的防火间距不应小于50 m,与明火或散发火花地点的防火间距不应小于30 m。
+
+---
+
+
+
+#### 单选题 336
+
+对送风机末端配电装置进行保养前，应使用钥匙打开箱门，切断末端配电装置的 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 主电源</li>
+<li><strong>B.</strong> 备用电源</li>
+<li class="correct-option"><strong>C.</strong> 主、备电源 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 电源线路</li>
+</ul>
+
+**解析：** 送风机末端配电装置的保养，使用钥匙打开箱门，切断末端配电装置的主备电源。
+
+---
+
+
+
+#### 单选题 337
+
+在高温潮湿环境下，消防水泵控制柜内应设置自动 ()的装置。
+
+<ul class="question-options">
+<li><strong>A.</strong> 防潮</li>
+<li><strong>B.</strong> 除湿</li>
+<li class="correct-option"><strong>C.</strong> 防潮除湿 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 烘干</li>
+</ul>
+
+**解析：** 消防泵组电气控制柜的保养内容和技术要求，控制柜工作环境设有自动防潮除湿装置。
+
+---
+
+
+
+#### 单选题 338
+
+下列属于难燃性构件的是 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 水泥刨花板 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 钢柱</li>
+<li><strong>C.</strong> 砖墙</li>
+<li><strong>D.</strong> 木梁</li>
+</ul>
+
+**解析：** 难燃性构件是指用难燃材料制成的构件，或用燃烧性材料制成而用非燃烧性材料作为保护层的构件，如水泥刨花板、板条抹灰墙等。
+
+---
+
+
+
+#### 单选题 339
+
+火灾探测报警产品经保养接入系统后，应按规定进行 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 出厂检验</li>
+<li class="correct-option"><strong>B.</strong> 接入复检 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 型式检验</li>
+<li><strong>D.</strong> 例行检验</li>
+</ul>
+
+**解析：** 产品经保养接入系统后，应按规定进行接入复检，检查结果应符合产品标准和设计要求。
+
+---
+
+
+
+#### 单选题 340
+
+将直接手动控制单元解锁为()，将消防泵组电气控制柜设置为()状态，消防控制室才能远程启停消防水泵。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 手动允许 自动 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 手动禁止 自动</li>
+<li><strong>C.</strong> 手动允许 手动</li>
+<li><strong>D.</strong> 手动禁止 手动</li>
+</ul>
+
+**解析：** 将直接手动控制单元解锁为“手动允许”， 将消防泵组电气控制柜设置为“自动”状态。消防控制室才能远程启停消防水泵。
+
+---
+
+
+
+#### 单选题 341
+
+雨淋系统主要由（ ）、雨淋报警阀组、管道及供水设施等组成。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 开式喷头 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 闭式喷头</li>
+<li><strong>C.</strong> 玻璃球喷头</li>
+<li><strong>D.</strong> 水幕喷头</li>
+</ul>
+
+**解析：** 雨淋系统主要由开式喷头、雨淋报警阀组、管道及供水设施等组成。
+
+---
+
+
+
+#### 单选题 342
+
+依据《中华人民共和国消防法》(以下简称《消防法》)的规定，（ ）对全国的消防工作实施监督管理。
+
+<ul class="question-options">
+<li><strong>A.</strong> 公安部门</li>
+<li class="correct-option"><strong>B.</strong> 国务院应急管理部门 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 各级地方政府</li>
+<li><strong>D.</strong> 人力资源和社会保障部门</li>
+</ul>
+
+**解析：** 依据《中华人民共和国消防法》的规定，国务院应急管理部门对全国的消防工作实施监督管理。
+
+---
+
+
+
+#### 单选题 343
+
+（ ）是主要的消防水源。
+
+<ul class="question-options">
+<li><strong>A.</strong> 天然水源</li>
+<li><strong>B.</strong> 消防水池</li>
+<li><strong>C.</strong> 高位消防水箱</li>
+<li class="correct-option"><strong>D.</strong> 市政给水 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防水源是指向水灭火设施、车载或手抬等移动消防水泵、固定消防水泵等提供消防用水的水源，是灭火成功的基本保证。消防水源有市政给水、消防水池、天然水源三类。其中，市政给水是主要的消防水源。结合题意，本题应选“市政给水”，其他项均可排除。
+
+---
+
+
+
+#### 单选题 344
+
+消防安全重点单位应至少每（ ）组织一次演练。
+
+<ul class="question-options">
+<li><strong>A.</strong> 月</li>
+<li><strong>B.</strong> 季度</li>
+<li class="correct-option"><strong>C.</strong> 半年 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 年</li>
+</ul>
+
+**解析：** 消防安全重点单位应至少每半年组织一次演练，火灾高危单位应至少每季度组织一次演练，其他单位应至少每年组织一次演练。在火灾多发季节或有重大活动保卫任务的单位，应组织全要素综合演练。单位内的有关部门应结合实际适时组织专项演练，宜每月组织开展一次疏散演练。
+
+---
+
+
+
+#### 单选题 345
+
+一类高层公共建筑的室内疏散楼梯应设置（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 封闭楼梯间</li>
+<li class="correct-option"><strong>B.</strong> 防烟楼梯间 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 敞开楼梯间</li>
+<li><strong>D.</strong> 室外楼梯</li>
+</ul>
+
+**解析：** 防烟楼梯间的设置范围(1) 工业建筑建筑高度大于32 m且任一层使用人数大于10人的厂房，疏散楼梯应为防烟楼 梯间或室外楼梯。(2 )住宅建筑建筑高度大于33 m的住宅建筑，疏散楼梯应为防烟楼梯间，开向防烟楼梯间前 室或合用前室的户门应为耐火性能不低于乙级的防火门。(3 )公共建筑和非住宅类居住建筑1 ) 一类高层公共建筑的室内疏散楼梯。2 )建筑高度大于32 m的二类高层公共建筑的室内疏散楼梯。(4)除住宅建筑套内的自用楼梯外，建筑的地下或半地下室、平时使用的人民 防空工程、其他地下工程当埋深大于10 m或层数不小于3层时,其疏散楼梯间应为防烟楼梯间。
+
+---
+
+
+
+#### 单选题 346
+
+Windows桌面是指系统启动完成后，屏幕显示的内容，包括“开始”菜单、桌面图标和（ ）三个部分。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 任务栏 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 我的电脑</li>
+<li><strong>C.</strong> 背景图案</li>
+<li><strong>D.</strong> 时间和日期</li>
+</ul>
+
+**解析：** Windows桌面是指系统启动完成后，屏幕显示的内容，包括“开始”菜单、桌面图标和任务栏三个部分。
+
+---
+
+
+
+#### 单选题 347
+
+阴燃是（ ）的燃烧特点。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 可燃固体 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 可燃液体</li>
+<li><strong>C.</strong> 可燃气体</li>
+<li><strong>D.</strong> 液体混合物</li>
+</ul>
+
+**解析：** 可燃固体在空气不流通，加热温度较低或湿度较大的条件下，分解出的可燃挥发物质较少或散逸较快，发生只冒烟而无火焰的燃烧现象称为阴燃，又称熏烟燃烧。
+
+---
+
+
+
+#### 单选题 348
+
+下列关于排烟防火阀的工作情况说法错误的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 排烟防火阀外观完整，无变形、损坏</li>
+<li class="correct-option"><strong>B.</strong> 产品标识清晰，安装方向与排烟方向相反 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 执行机构操作灵活，无卡滞和阻碍</li>
+<li><strong>D.</strong> 排烟防火阀关闭和复位功能正常，连锁停止排烟风机功能正常，启闭过程中无明显晃动</li>
+</ul>
+
+**解析：** 产品标识清晰，安装方向应与排烟方向一致。
+
+---
+
+
+
+#### 单选题 349
+
+根据国家标准《火灾分类》 (GB/T 4968-2008)，按照可燃物质的类型和燃烧待性，将火分为以下（ ）种不同类别。
+
+<ul class="question-options">
+<li><strong>A.</strong> 5</li>
+<li class="correct-option"><strong>B.</strong> 6 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 7</li>
+<li><strong>D.</strong> 8</li>
+</ul>
+
+**解析：** 按照可燃物的类型和燃烧特性火灾分为 A、B、C、D、E、F 6类。
+
+---
+
+
+
+#### 单选题 350
+
+（ ）是指控制信号通过消防电气控制装置间接作用到连接的消防电动装置，进而实现对受控消防设备的控制。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 间接控制 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 直接控制</li>
+<li><strong>C.</strong> 总线控制</li>
+<li><strong>D.</strong> 手动控制</li>
+</ul>
+
+**解析：** 直接控制是指控制信号通过消防联动控制器本身的输出接点或模块直接作用到连接的消防电动装置，进而实现对受控消防设备的控制。间接控制是指控制信号通过消防电气控制装置间接作用到连接的消防电动装置，进而实现对受控消防设备的控制。
+
+---
+
+
+
+#### 单选题 351
+
+当消防联动控制器的主电源恢复时，能 ()到主电源。
+
+<ul class="question-options">
+<li><strong>A.</strong> 手动转换</li>
+<li><strong>B.</strong> 手动切换</li>
+<li><strong>C.</strong> 人工切换</li>
+<li class="correct-option"><strong>D.</strong> 自动转换 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 在集中报警系统中的火灾报警控制器、消防联动控制器、火灾报警控制器（联 动控制型）等控制器的电源工作状态分为主电工作状态、备电工作状态、主电故障 状态、备电故障状态。上述控制器的电源具有主电源和备用电源转换装置：当主电 源断电或故障时，能自动转换到备用电源；当主电源恢复时，能自动转换到主电源。 主备电源的工作（故障）状态应在控制器面板有指示信息。
+
+---
+
+
+
+#### 单选题 352
+
+消防联动控制器的主备电源的工作(故障)状态应在控制器 ()有指示信息。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 面板 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 指示灯</li>
+<li><strong>C.</strong> 外壳</li>
+<li><strong>D.</strong> 按键</li>
+</ul>
+
+**解析：** 如何检查集中报警系统中的控制器电源工作状态1.通过控制器面板直接查看本机的电源工作状态各控制器电源工作状态及电源故障类型信息可通过本机面板显示器和指示灯显示的完整信息进行查看
+
+---
+
+
+
+#### 单选题 353
+
+集中报警系统中的火灾报警控制器、消防联动控制器和消防联动控制设备均处于自动控制方式，则整个系统处于()控制状态。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 自动 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 手动</li>
+<li><strong>C.</strong> 联动</li>
+<li><strong>D.</strong> 联锁</li>
+</ul>
+
+**解析：** .确认系统当前控制状态是否正确查看集中报警系统中的全部火灾报警控制器、消防联动控制器和消防联动控制 设备，如各控制设备均处于自动控制方式，则确认整个系统完全处于自动控制状态。 处于手动控制状态的区域控制器，其分区控制不能实现自动控制。
+
+---
+
+
+
+#### 单选题 354
+
+集中报警系统的控制与显示设备机壳内部和外部清洁保养周期至少是每 ()保养一次。
+
+<ul class="question-options">
+<li><strong>A.</strong> 日</li>
+<li><strong>B.</strong> 周</li>
+<li class="correct-option"><strong>C.</strong> 月 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 季度</li>
+</ul>
+
+**解析：** 集中报警系统的控制与显示类设备机壳内部和外部清洁保养周期至少是每月保养一次。
+
+---
+
+
+
+#### 单选题 355
+
+排烟防火阀、排烟阀的阀体、叶片、执行机构等部件组成相似，保养要求基本一致，主要区别在于排烟防火阀比排烟阀多了()
+
+<ul class="question-options">
+<li><strong>A.</strong> 易熔元件</li>
+<li class="correct-option"><strong>B.</strong> 温控装置 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 复位装置</li>
+<li><strong>D.</strong> 手动拉环</li>
+</ul>
+
+**解析：** 排烟防火阀、排烟阀的阀体、叶片、执行机构等部件组成相似，主要区别在于 排烟防火阀比排烟阀多了温控装置（温感器件）。
+
+---
+
+
+
+#### 单选题 356
+
+安全色是表达安全信息含义的颜色，表示禁止、停止的颜色为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 红色 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 黄色</li>
+<li><strong>C.</strong> 蓝色</li>
+<li><strong>D.</strong> 绿色</li>
+</ul>
+
+**解析：** 安全色是表达安全信息含义的颜色，表示禁止、停止的颜色为红色。
+
+---
+
+
+
+#### 单选题 357
+
+安卓（Android）是一种基于Linux内核（不包含GNU组件）的自由及开放源代码的操作系统。主要使用于（ ），如智能手机和平板电脑。
+
+<ul class="question-options">
+<li><strong>A.</strong> 终端设备</li>
+<li><strong>B.</strong> 固定设备</li>
+<li><strong>C.</strong> 专用设备</li>
+<li class="correct-option"><strong>D.</strong> 移动设备 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 安卓（Android）是一种基于Linux内核（不包含GNU组件）的自由及开放源代码的操作系统。主要使用于移动设备，如智能手机和平板电脑。
+
+---
+
+
+
+#### 单选题 358
+
+自动喷水灭火系统的洒水喷头按照不同的分类方式可分为不同的种类，下列不属于按照喷头安装方式分类的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 玻璃球洒水喷头 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 下垂型洒水喷头</li>
+<li><strong>C.</strong> 直立型洒水喷头</li>
+<li><strong>D.</strong> 边墙型洒水喷头</li>
+</ul>
+
+**解析：** 洒水喷头按照喷头安装方式可分为：通用型喷头、直立型喷头、下垂型喷头、边墙型喷头。
+
+---
+
+
+
+#### 单选题 359
+
+（ ）采用手动或电动开启，常用于前室或合用前室。
+
+<ul class="question-options">
+<li><strong>A.</strong> 常开式送风口</li>
+<li><strong>B.</strong> 自垂百叶式送风口</li>
+<li><strong>C.</strong> 排烟口</li>
+<li class="correct-option"><strong>D.</strong> 常闭式送风口 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 本题考查考生对机械加压送风系统的组成知识点的掌握情况。送风口分为常开式、常闭式和自垂百叶式。常开式送风口即普通的固定叶片式百叶风口；常闭式送风口采用手动或电动开启，常用于前室或合用前室；自垂百叶式送风口平时靠百叶重力自行关闭，加压时自行开启，常用于防烟楼梯间。排烟口用于房间、走道。结合题意，本题选D。
+
+---
+
+
+
+#### 单选题 360
+
+有关自然排烟和自然通风的说法，正确的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自然通风不易受外部条件的影响，是一种理想的排烟方式</li>
+<li><strong>B.</strong> 自然通风不属于防烟方式</li>
+<li class="correct-option"><strong>C.</strong> 自然排烟是最简单、不消耗动力的排烟方式 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 自然排烟不属于排烟方式</li>
+</ul>
+
+**解析：** 防烟系统包括自然通风和机械加压送风，所以AB错误；排烟系统分为自然排烟和机械排烟，所以D错误
+
+---
+
+
+
+#### 单选题 361
+
+在空气中极易燃烧，火灾危险性大的建筑材料属于（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 不燃材料</li>
+<li><strong>B.</strong> 难燃材料</li>
+<li class="correct-option"><strong>C.</strong> 易燃材料 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 可燃材料</li>
+</ul>
+
+**解析：** 建筑材料及制品燃烧性能等级划分：易燃材料（制品）极易燃烧，火灾危险性大。
+
+---
+
+
+
+#### 单选题 362
+
+消防应急灯具按()分类可分为消防应急标志灯具、消防应急照明灯具、消防应急照明标志复合灯具。
+
+<ul class="question-options">
+<li><strong>A.</strong> 工作方式</li>
+<li><strong>B.</strong> 应急供电方式</li>
+<li><strong>C.</strong> 应急控制方式</li>
+<li class="correct-option"><strong>D.</strong> 用途分 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防应急灯具按用途分为消防应急标志灯具、消防应急照明灯具和消防应急照明标志复合灯具。
+
+---
+
+
+
+#### 单选题 363
+
+下列属于活动式防火分隔设施的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 楼板</li>
+<li><strong>B.</strong> 防火墙</li>
+<li><strong>C.</strong> 防火隔墙</li>
+<li class="correct-option"><strong>D.</strong> 防火卷帘 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 防火卷帘属于活动式防火分隔设施。
+
+---
+
+
+
+#### 单选题 364
+
+在规定的条件下，可燃物质产生自燃的最低温度叫( )。
+
+<ul class="question-options">
+<li><strong>A.</strong> 闪点</li>
+<li><strong>B.</strong> 燃点</li>
+<li class="correct-option"><strong>C.</strong> 自燃点 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 着火点</li>
+</ul>
+
+**解析：** 在规定的条件下，可燃物质产生自燃的最低温度，称为自燃点。自燃点是衡量可燃物受热升温形成自燃危险性的依据，可燃物的自燃点越低，发生火灾的危险性就越大。结合题意，本题应选“自燃点”，其他选项均可排除。
+
+---
+
+
+
+#### 单选题 365
+
+在湿式和干式自动喷水灭火系统中，（ ）担负着探测火灾、启动系统和喷水灭火的任务。
+
+<ul class="question-options">
+<li><strong>A.</strong> 开式喷头</li>
+<li class="correct-option"><strong>B.</strong> 闭式喷头 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 水流指示器</li>
+<li><strong>D.</strong> 火灾探测器</li>
+</ul>
+
+**解析：** 在湿式和干式自动喷水灭火系统中，闭式喷头担负着探测火灾、启动系统和喷水灭火的任务。
+
+---
+
+
+
+#### 单选题 366
+
+下列属于输出设备的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 键盘</li>
+<li><strong>B.</strong> 鼠标</li>
+<li class="correct-option"><strong>C.</strong> 显示器 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 优盘</li>
+</ul>
+
+**解析：** 常见的输出设备有显示器、打印机、绘图仪、投影仪等影像输出系统，语音 输出设备，磁记录设备等。
+
+---
+
+
+
+#### 单选题 367
+
+公称动作温度57~77℃的易熔元件喷头轭臂色标为()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 无色 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 白色</li>
+<li><strong>C.</strong> 黄色</li>
+<li><strong>D.</strong> 蓝色</li>
+</ul>
+
+**解析：** 易熔元件喷头轭臂色标对应的公称动作温度：57 ~ 77 无色80 ~ 107 白121 〜149 蓝163 〜191 红204 - 246 绿260 〜302 橙320 ~ 343 橙
+
+---
+
+
+
+#### 单选题 368
+
+()是火灾自动报警系统中用于接收、集中显示其他控制器的信息，发出控制信号，并兼有对报警触发装置和控制模块直接监控功能的控制指示设备。
+
+<ul class="question-options">
+<li><strong>A.</strong> 区域型火灾报警控制器</li>
+<li><strong>B.</strong> 独立型火灾报警控制器</li>
+<li><strong>C.</strong> 火灾显示盘</li>
+<li class="correct-option"><strong>D.</strong> 集中型火灾报警控制器 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 集中控制器是火灾自动报警系统中用于接收、集中显示其他控制器的信息，发 岀控制信号，并兼有对报警触发装置和控制模块直接监控功能的控制指示设备。
+
+---
+
+
+
+#### 单选题 369
+
+手动开启板式排烟口时，先找到板式排烟口的远程执行机构，向开启方向拨动 ()即可打开板式排烟口。
+
+<ul class="question-options">
+<li><strong>A.</strong> “复位1”螺杆</li>
+<li><strong>B.</strong> “复位2”螺杆</li>
+<li><strong>C.</strong> 复位按钮</li>
+<li class="correct-option"><strong>D.</strong> 火警开关 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 找到板式排烟口对应的远程执行机构, 向开启方向拨动执行机构火警开关，查看板式排烟口是否打开。复位板式排烟口时, 先使用内六角工具顺时针旋转“复位1”螺杆，再使用内六角工具顺时针旋转“复位2”螺杆，查看板式排烟口是否完全复位。
+
+---
+
+
+
+#### 单选题 370
+
+现场按下电磁释放器或电动闭门器的 ()，常开式防火门即可在闭门器作用下自行关闭。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 手动释放按钮 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 复位按钮</li>
+<li><strong>C.</strong> 手动开关</li>
+<li><strong>D.</strong> 复位开关</li>
+</ul>
+
+**解析：** 现场按下手动释放按钮，常 开式防火门即可在闭门器作用下自行关闭。
+
+---
+
+
+
+#### 单选题 371
+
+在供电电网经常发生断电的地区，计算机必须配置不间断电源它的英文缩写是 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> UPS <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> WPS</li>
+<li><strong>C.</strong> LCD</li>
+<li><strong>D.</strong> CFR</li>
+</ul>
+
+**解析：** UPS稳压电源能够在计算机工作时提供稳定的电压，以及在突然断电时自动转入 后备蓄电池供电(供电时间的长短与蓄电池的功率有关)。UPS稳压电源主要应用于 机房中心的服务器、应急照明系统、消防安全报警系统等需要不间断电源的用电设备。
+
+---
+
+
+
+#### 单选题 372
+
+消防联动控制器在接收到火灾报警信号后，应能在 ()S内发出启动信号。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 3 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 5</li>
+<li><strong>C.</strong> 10</li>
+<li><strong>D.</strong> 15</li>
+</ul>
+
+**解析：** 消防联动控制器的首要功能是联动控制功能，即能按设定的逻辑直接或间接控 制其连接的各类受控消防设备，消防联动控制器可以采用手动和自动两种方式完成 控制功能。比如，在接收到火灾报警信号后，消防联动控制器能在3 s内发岀启动信 号，远程释放防火卷帘、关闭常开式防火门、启动排烟风机等。
+
+---
+
+
+
+#### 单选题 373
+
+右击我的电脑，从快捷菜单中选择 ()命令，可以查看计算机的系统版本等基本信息。
+
+<ul class="question-options">
+<li><strong>A.</strong> 管理</li>
+<li><strong>B.</strong> 控制面板</li>
+<li><strong>C.</strong> 设置</li>
+<li class="correct-option"><strong>D.</strong> 属性 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 如何查看计算机的系统版本等基本信息右键单击“此电脑”，在快捷菜单中单击“属性”按钮，则打开如图8-2-5 所示的系统属性对话框。
+
+---
+
+
+
+#### 单选题 374
+
+通过直接手动控制单元启动相关联动设备时，确认对应受控设备标签名称书写无误，按下相应联动设备启动按键，观察设备的”()”指示灯点亮情况。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 启动/反馈 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 启动/停止</li>
+<li><strong>C.</strong> 联动/应答</li>
+<li><strong>D.</strong> 启动/故障</li>
+</ul>
+
+**解析：** 如何操作直接手动控制单元（1）进入当前操作权限级别。确认直接手动控制单元处于“手动允许”状态, 同时确认当前联动设备无故障。（2）启动相关联动设备动作。确认对应受控设备标签名称书写无误，按下相应 联动设备启动按键，观察设备的“启动/反馈”指示灯点亮情况。（3）停止相关联动设备动作。按下对应设备的“停止”键，观察停止按键指示 灯点亮情况。（4）操作完毕后，按规定做好记录。
+
+---
+
+
+
+#### 单选题 375
+
+控制器显示屏显示“自动”,"自动”指示灯点亮，说明处于 ()状态。
+
+<ul class="question-options">
+<li><strong>A.</strong> 手动</li>
+<li class="correct-option"><strong>B.</strong> 自动 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 火警</li>
+<li><strong>D.</strong> 故障</li>
+</ul>
+
+**解析：** 如控制器显示屏显示“自动”，“自动”指示灯点亮，说明处于自动状态。
+
+---
+
+
+
+#### 单选题 376
+
+下列选项中，不属于湿式报警阀组组件的是 ( )。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 水流指示器 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 水力警铃</li>
+<li><strong>C.</strong> 湿式报警阀</li>
+<li><strong>D.</strong> 延迟器</li>
+</ul>
+
+**解析：** 水流指示器是用于自动喷水灭火系统中将水流信号转换成电信号的一种报警装置。结合题意，应排除A选项。
+
+---
+
+
+
+#### 单选题 377
+
+下列物质中，（ ）火灾属于C类火灾。
+
+<ul class="question-options">
+<li><strong>A.</strong> 木材</li>
+<li><strong>B.</strong> 钾金属</li>
+<li class="correct-option"><strong>C.</strong> 天然气 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 石蜡</li>
+</ul>
+
+**解析：** C类火灾：气体火灾，如煤气、天然气、甲烷、乙烷、氢气、乙炔等。
+
+---
+
+
+
+#### 单选题 378
+
+《自动喷水灭火系统设计规范》实施的时间为（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 2017年5月27日</li>
+<li class="correct-option"><strong>B.</strong> 2018年1月1日 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 2017年8月1日</li>
+<li><strong>D.</strong> 2018年5月27日</li>
+</ul>
+
+**解析：** 《自动喷水灭火系统设计规范》(GB 50084-2017)于2017年5月27日颁布，自2018年1月1日起实施。
+
+---
+
+
+
+#### 单选题 379
+
+如果（ ）指示灯处于（ ）状态，表示现场设备已启动成功并将启动信息反馈回来。
+
+<ul class="question-options">
+<li><strong>A.</strong> “启动”、熄灭</li>
+<li class="correct-option"><strong>B.</strong> “反馈”、常亮 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> “启动”、闪烁</li>
+<li><strong>D.</strong> “反馈”、闪烁</li>
+</ul>
+
+**解析：** 如果“反馈”指示灯处于熄灭状态，表示现场设备启动信息没有反馈回来；如果“反馈”指示灯处于常亮状态，表示现场设备已启动成功并将启动信息反馈回来。
+
+---
+
+
+
+#### 单选题 380
+
+应急照明控制器设置在消防控制室地面上时，设备面板后的维修距离不宜小于（ ）m。
+
+<ul class="question-options">
+<li><strong>A.</strong> 0.5</li>
+<li><strong>B.</strong> 1.2</li>
+<li><strong>C.</strong> 0.8</li>
+<li class="correct-option"><strong>D.</strong> 1 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 应急照明控制器的设置应符合下列规定：2.在消防控制室地面上设置时，应符合下列规定：3)设备面板后的维修距离不宜小于 1m。
+
+---
+
+
+
+#### 单选题 381
+
+( )是指在标准耐火试验条件下,建筑构件、配件或结构从受到火的作用时起,至失去承载能力、完整性或隔热性时止所用的时间,用小时(h)表示。
+
+<ul class="question-options">
+<li><strong>A.</strong> 耐火稳定性</li>
+<li><strong>B.</strong> 耐火完整性</li>
+<li><strong>C.</strong> 耐火隔热性</li>
+<li class="correct-option"><strong>D.</strong> 耐火极限 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 耐火极限是指在标准耐火试验条件下,建筑构件、配件或结构从受到火的作用时起,至失去承载能力、完整性或隔热性时止所用的时间,用小时(h)表示。耐火极限是衡量建筑构件耐火性能的主要指标,需要通过符合国家标准规定的耐火试验来确定。结合题意,本题应选“耐火性能”,其他选项均可排除。
+
+---
+
+
+
+#### 单选题 382
+
+( )是指在标准耐火试验条件下，承重建筑构件在一定时间内抵抗坍塌的能力。
+
+<ul class="question-options">
+<li><strong>A.</strong> 耐火隔热性</li>
+<li><strong>B.</strong> 耐火极限</li>
+<li class="correct-option"><strong>C.</strong> 承载能力 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 耐火完整性</li>
+</ul>
+
+**解析：** 承载能力是指在标准耐火试验条件下，承重建筑构件在一定时间内抵抗坍塌的能力。
+
+---
+
+
+
+#### 单选题 383
+
+大理石属于( )材料
+
+<ul class="question-options">
+<li><strong>A.</strong> B 级</li>
+<li class="correct-option"><strong>B.</strong> A 级 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> B2 级</li>
+<li><strong>D.</strong> B1 级</li>
+</ul>
+
+**解析：** A级材料是指不燃材料（制品），在空气中遇明火或高温作用下不起火、不微燃、不碳化，如大理石、玻璃、钢材、混凝土石膏板、铝塑板、金属复合板等。
+
+---
+
+
+
+#### 单选题 384
+
+耐火等级为一级的民用建筑，其承重墙的耐火极限为( )h
+
+<ul class="question-options">
+<li><strong>A.</strong> 2.5</li>
+<li class="correct-option"><strong>B.</strong> 3 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 2</li>
+<li><strong>D.</strong> 1</li>
+</ul>
+
+**解析：** 耐火等级为一级的民用建筑，其承重墙的耐火极限为3.00h
+
+---
+
+
+
+#### 单选题 385
+
+耐火等级为一级的民用建筑，其非承重外墙的耐火极限为（）h
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 1 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 1.5</li>
+<li><strong>C.</strong> 2</li>
+<li><strong>D.</strong> 3</li>
+</ul>
+
+**解析：** 耐火等级为一级的民用建筑，其非承重外墙的耐火极限为1.00h
+
+---
+
+
+
+#### 单选题 386
+
+下列（）不是影响耐火极限的因素。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 建筑构件的承载能力 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 材料的燃烧性能</li>
+<li><strong>C.</strong> 建筑构件的结构特性</li>
+<li><strong>D.</strong> 保护层的厚度及结合方式</li>
+</ul>
+
+**解析：** 影响建筑构件耐火极限的因素较多，主要有3个方面：(1)材料的燃烧性能(2)建筑构件的结构特性(3)保护层的厚度及结合方式。
+
+---
+
+
+
+#### 单选题 387
+
+属于难燃性构件的是（）
+
+<ul class="question-options">
+<li><strong>A.</strong> 竹质吊顶</li>
+<li class="correct-option"><strong>B.</strong> 水泥刨花复合板隔墙 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 砖墙</li>
+<li><strong>D.</strong> 混凝土柱</li>
+</ul>
+
+**解析：** 难燃性构件是指用难燃材料制成的构件，或用燃烧性材料制成而用非燃烧性材料作为保护层的构件，如水泥刨花板、板条抹灰墙等。
+
+---
+
+
+
+#### 单选题 388
+
+在耐火等级为三级的厂房和仓库中疏散楼梯的不燃性为（）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 0.5</li>
+<li class="correct-option"><strong>B.</strong> 0.75 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 1</li>
+<li><strong>D.</strong> 2</li>
+</ul>
+
+**解析：** 在耐火等级为三级的厂房和仓库中疏散楼梯的不燃性为0.75h。
+
+---
+
+
+
+#### 单选题 389
+
+在（ ）条件下，如果构件在试验中发生垮塌或变形量超过规定数值，则表明其失去支持力。
+
+<ul class="question-options">
+<li><strong>A.</strong> 室内高温高压</li>
+<li><strong>B.</strong> 特殊的高温高压</li>
+<li class="correct-option"><strong>C.</strong> 标准耐火试验 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 室外正常温度</li>
+</ul>
+
+**解析：** 在标准耐火试验条件下，如果构件在试验中发生垮塌或变形量超过规定数值，则表明其失去支持力。
+
+---
+
+
+
+#### 单选题 390
+
+建筑构件的结构特性由其（ ）决定。
+
+<ul class="question-options">
+<li><strong>A.</strong> 外观造型</li>
+<li><strong>B.</strong> 材料质量</li>
+<li class="correct-option"><strong>C.</strong> 受力特性 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 颜色搭配</li>
+</ul>
+
+**解析：** 建筑构件的结构特性由其受力特性决定。在其他条件相同的前提下，截面形式、结构复杂程度、连接方式(如铰接、铆接、焊接等)和结构形式(如网架结构、桁架结构等)等均对构件的耐火极限有不同程度的影响。
+
+---
+
+
+
+#### 单选题 391
+
+耐火极限是指在标准耐火试验条件下，建筑构件、配件或结构从受到火的作用时起，至失去（）或耐火隔热性时止所用的时间，用小时（h）表示。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 承载能力、耐火完整性 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 完整性、隔热性</li>
+<li><strong>C.</strong> 承载能力、隔热性</li>
+<li><strong>D.</strong> 隔热性、耐火防烟性</li>
+</ul>
+
+**解析：** 耐火极限是指在标准耐火试验条件下，建筑构件、配件或结构从受到火的作用时起，至失去承载能力、耐火完整性或耐火隔热性时止所用的时间，用小时（h）表示。
+
+---
+
+
+
+#### 单选题 392
+
+多线控制盘与火灾报警控制器连接，一台火灾报警控制器(联动型)可设置( )多线控制盘。
+
+<ul class="question-options">
+<li><strong>A.</strong> 两个</li>
+<li><strong>B.</strong> 一个</li>
+<li class="correct-option"><strong>C.</strong> 多个 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 至少两个</li>
+</ul>
+
+**解析：** 多线控制盘与火灾报警控制器连接，一台火灾报警控制器（联动型）可设置多个多线控制盘。
+
+---
+
+
+
+#### 单选题 393
+
+（）是探测火灾早期特征、发出火灾报警信号，为人员疏散、防止火灾蔓延和启动自动灭火设备提供控制与指示的消防系统。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火灾探测器</li>
+<li><strong>B.</strong> 火灾手动报警系统</li>
+<li class="correct-option"><strong>C.</strong> 火灾自动报警系统 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 消防联动控制器</li>
+</ul>
+
+**解析：** 火灾自动报警系统是探测火灾早期特征、发出火灾报警信号，为人员疏散、防止火灾蔓延和启动自动灭火设备提供控制与指示的消防系统。
+
+---
+
+
+
+#### 单选题 394
+
+（）中规定，散装粮食仓库、原煤仓库可不设置火灾自动报警系统
+
+<ul class="question-options">
+<li><strong>A.</strong> 建筑消防通用规范</li>
+<li><strong>B.</strong> 建筑通用规范</li>
+<li class="correct-option"><strong>C.</strong> 建筑防火通用规范 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 建筑施工通用规范</li>
+</ul>
+
+**解析：** 《建筑防火通用规范》(GB55037—2022)中规定，散装粮食仓库、原煤仓库可不设置火灾自动报警系统
+
+---
+
+
+
+#### 单选题 395
+
+火灾自动报警系统有哪些形式？
+
+<ul class="question-options">
+<li><strong>A.</strong> 区域报警系统</li>
+<li><strong>B.</strong> 集中报警系统</li>
+<li><strong>C.</strong> 控制中心报警系统</li>
+<li class="correct-option"><strong>D.</strong> 以上都是 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾自动报警系统有区域报警系统、集中报警系统和控制中心报警系统三种形式，各自有不同的适用范围。
+
+---
+
+
+
+#### 单选题 396
+
+区域报警系统由哪些组成部分？
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火灾探测器、手动火灾报警按钮、火灾声光警报器及火灾报警控制器等 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 消防泵、喷淋头等自动灭火设备</li>
+<li><strong>C.</strong> 门窗锁定装置等安全防护设备</li>
+<li><strong>D.</strong> 消防应急广播、手动火灾报警按钮</li>
+</ul>
+
+**解析：** 区域报警系统应由火灾探测器、手动火灾报警按钮、火灾声光警报器及火灾报警控制器等组成，系统中可包括消防控制室图形显示装置和指示楼层的区域显示器。
+
+---
+
+
+
+#### 单选题 397
+
+可燃气体探测器可以将报警信息传输至哪里？
+
+<ul class="question-options">
+<li><strong>A.</strong> 消防车上</li>
+<li class="correct-option"><strong>B.</strong> 可燃气体报警控制器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 安保中心</li>
+<li><strong>D.</strong> 传达室</li>
+</ul>
+
+**解析：** 发生可燃气体泄漏时，安装在保护区域现场的可燃气体探测器，将泄漏的可燃气体浓度参数信息转变为电信号，经数据处理后传输至可燃气体报警控制器；或直接由可燃气体探测器做出可燃气体泄漏浓度超限报警判断，将报警信息传输至可燃气体报警控制器。
+
+---
+
+
+
+#### 单选题 398
+
+发生电气故障时，电气火灾监控探测器将保护线路的剩余电流、温度等电气故障参数信息转变为电信号，经数据处理后，电气火灾监控探测器做出报警判断，将报警信息传输到（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 电气火灾监控器 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 传达室</li>
+<li><strong>C.</strong> 安保中心</li>
+<li><strong>D.</strong> 火灾手动报警系统装置</li>
+</ul>
+
+**解析：** 发生电气故障时，电气火灾监控探测器将保护线路的剩余电流、温度等电气故障参数信息转变为电信号，经数据处理后，电气火灾监控探测器做出报警判断，将报警信息传输到电气火灾监控器
+
+---
+
+
+
+#### 单选题 399
+
+火灾报警控制器按结构形式分类不包括（）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 壁挂式火灾报警控制器</li>
+<li class="correct-option"><strong>B.</strong> 吊顶式火灾报警控制器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 琴台式火灾报警控制器</li>
+<li><strong>D.</strong> 立柜式火灾报警控制器</li>
+</ul>
+
+**解析：** 火灾报警控制器按结构形式分类有：壁挂式火灾报警控制器、琴台式火灾报警控制器、立柜火灾报警控制器。
+
+---
+
+
+
+#### 单选题 400
+
+下列为触发器件的是()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火灾声警报器</li>
+<li class="correct-option"><strong>B.</strong> 火灾探测器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 消防应急广播</li>
+<li><strong>D.</strong> 消防电话</li>
+</ul>
+
+**解析：** 在火灾自动报警系统中，自动或手动产生火灾报警信号的器件称为触发器件, 主要包括火灾探测器和手动火灾报警按钮。
+
+---
+
+## 二、多选题
+
+
+
+#### 多选题 1
+
+湿式报警阀是只允许水流入湿式灭火系统并在规定()下驱动配套部件报警的一种单向阀。
+
+<ul class="question-options">
+<li><strong>A.</strong> 压强</li>
+<li class="correct-option"><strong>B.</strong> 压力 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 流量 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 水流</li>
+<li><strong>E.</strong> 流速</li>
+</ul>
+
+**解析：** 湿式报警阀组的核心组件是湿式报警阀。湿式报警阀是只允许水流入湿式灭火 系统并在规定压力、流量下驱动配套部件报警的一种单向阀。
+
+---
+
+
+
+#### 多选题 2
+
+排烟防火阀的保养要求包括()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 排烟防火阀无变形、损伤口 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 铭牌标识清晰，阀件完整 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 旋转机构灵活，无卡滞和阻碍 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 制动机构、限位器符合要求 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 手动、远程启闭操作正常 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 排烟防火阀的保养：(1) 无变形、损伤(2) 铭牌标识清晰，阀件完整(3) 旋转机构灵活，无卡滞和阻碍(4) 制动机构、限位器符合要求（5）手动、远程启闭操作正常 保养周期：每半年一次
+
+---
+
+
+
+#### 多选题 3
+
+预作用系统通常由 ()和供水设施等组成。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 闭式喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 预作用装置 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 水流报警装置 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 供水与配水管道 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 充气设备 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 预作用系统通常由闭式喷头、预作用装置、水流报警装置、供水与配水管道、 充气设备和供水设施等组成。
+
+---
+
+
+
+#### 多选题 4
+
+末端试水装置由()等组成，用于监测自动喷水灭火系统末端压力，并可检验系统启动、报警及联动等功能的装置。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 试水阀 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 压力表 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 试水喷嘴 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 保护罩 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 信号阀</li>
+</ul>
+
+**解析：** 末端试水装置由试水阀、压力表、试水喷嘴及保护罩等组成，用于监测自动喷水 灭火系统末端压力，并具备检验系统启动、报警及联动等功能的装置。
+
+---
+
+
+
+#### 多选题 5
+
+可使用 ()清洗线型光束感烟火灾探测器的外壳、指示灯和光路通过的窗口等部件。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 专用清洁工具 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 软布 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 适当的清洁剂 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 纸壳</li>
+<li><strong>E.</strong> 油抹布</li>
+</ul>
+
+**解析：** 用专用清洁工具或软布及适当的清洁剂清洗线 型光束感烟火灾探测器的外壳、指示灯和光路通过的窗口等部件，清洗线型感温火灾探测器终端盒的外壳、指示灯。
+
+---
+
+
+
+#### 多选题 6
+
+对应急广播设备外观进行保养，应使用吸尘器、清洁的干软布等清除 ()的灰尘。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 主机外壳 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 扬声器表面 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 接线端子 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 主机电源</li>
+<li><strong>E.</strong> 主机内部线路板</li>
+</ul>
+
+**解析：** 对应急广播设备进行保养，应使用吸尘器、清洁的干软布等清除主机外壳 和扬声器表面及所有接线端子处的灰尘。
+
+---
+
+
+
+#### 多选题 7
+
+现场各类消防设备的工作状态可分为 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正常(监视) <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 火警 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 故障 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 消音</li>
+<li class="correct-option"><strong>E.</strong> 屏蔽 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 现场各类消防设备的工作状态可分为正常（监视）、火警、故障、启动、屏蔽、 反馈等。
+
+---
+
+
+
+#### 多选题 8
+
+泡沫灭火系统可按照 ( )等进行分类。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 喷射方式 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 系统结构 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 发泡倍数 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 系统形式 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 安装方式</li>
+</ul>
+
+**解析：** 泡沫灭火系统可以按系统结构、发泡倍数、系统形式、喷射方式分类。
+
+---
+
+
+
+#### 多选题 9
+
+保养前，消防控制室图形显示装置应断开 ()，使装置完全处于无电源状态。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 交流供电 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> UPS电源 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 网络连接 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> EPS电源</li>
+<li><strong>E.</strong> 蓄电池电源</li>
+</ul>
+
+**解析：** 使用专用钥匙打开设备箱（柜）门，先断开设备的备用电源开关，再断开主电 源开关。对于消防控制室图形显示装置应断开交流供电、UPS电源和网络连接，使 装置完全处于无源状态。
+
+---
+
+
+
+#### 多选题 10
+
+集中报警系统的控制与显示类设备内部吹扫主要包含各种 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 电路模板 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 组件 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 电池 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 接线端子 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 线材 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 吹扫设备内部的各种电路模板、组件、电池、接线端子、线材，擦拭外部的操 作面板、控制开关、机箱外壳及缝隙等（含指示灯、按键、显示屏、键盘与鼠标）
+
+---
+
+
+
+#### 多选题 11
+
+初起火灾扑救的基本原则是( )。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 救人第一 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 先控制，后消灭 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 先重点,后一般 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 第一时间扑救</li>
+<li><strong>E.</strong> 迅速抢救财物</li>
+</ul>
+
+**解析：** 初起火灾扑救的基本原则是救人第一，先控制，后消灭，先重点,后一般。
+
+---
+
+
+
+#### 多选题 12
+
+消防水泵包括( )。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 固定消防水泵 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 消防车消防水泵 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 移动消防水泵 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 高位消防水泵</li>
+<li><strong>E.</strong> 应急消防水泵</li>
+</ul>
+
+**解析：** 消防水泵包括固定消防水泵，消防车消防水泵，移动消防水泵。
+
+---
+
+
+
+#### 多选题 13
+
+消防安全重点单位制定的灭火和应急疏散预案的主要内容包括( )。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 组织机构，包括灭火行动组、通信联络组、疏散引导组、安全防护救护组等。 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 报警和接警处置程序。 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 应急疏散的组织程序和措施。 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 扑救初起火灾的程序和措施。 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 通信联络、安全防护救护的程序和措施。 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防安全重点单位制定的灭火和应急疏散预案应当包括下列内容：①组织机构，包括灭火行动组、通信联络组、疏散引导组、安全防护救护组等。②报警和接警处置程序。③应急疏散的组织程序和措施。④扑救初起火灾的程序和措施。⑤通信联络、安全防护救护的程序和措施。结合题意，本题全选。
+
+---
+
+
+
+#### 多选题 14
+
+依据物质产生爆炸的原因和性质，通常将爆炸分为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 物理爆炸 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 化学爆炸 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 粉尘爆炸</li>
+<li class="correct-option"><strong>D.</strong> 核爆炸 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 依据物质产生爆炸的原因和性质，通常将爆炸分为物理爆炸、化学爆炸、核爆 炸，其中最常见的是物理爆炸和化学爆炸。
+
+---
+
+
+
+#### 多选题 15
+
+消防炮按驱动方式不同分为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 手动消防炮 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 电动消防炮 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 液动消防炮 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 气动消防炮 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 机械消防炮</li>
+</ul>
+
+**解析：** 消防炮按驱动方式不同分为手动消防炮、电动消防炮、液动消防炮、气动消防炮。
+
+---
+
+
+
+#### 多选题 16
+
+末端试水装置的作用是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 检验自动喷水灭火系统的可靠性 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 测试系统能否在开启一只喷头的最不利条件下可靠报警并正常启动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 测试水流指示器、报警阀、压力开关、水力警铃的动作是否正常 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 配水管道是否畅通，以及系统最不利点处的工作压力 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 可用于检测干式系统和预作用系统的充水时间 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 检验自动喷水灭火系统的可靠性；测试系统能否在开启一只喷头的最不利条件下可靠报警并正常启动；测试水流指示器、报警阀、压力开关、水力警铃的动作是否正常；配水管道是否畅通，以及系统最不利点处的工作压力；可用于检测干式系统和预作用系统的充水时间。
+
+---
+
+
+
+#### 多选题 17
+
+下列燃烧产物中，（ ）是不完全燃烧产物。
+
+<ul class="question-options">
+<li><strong>A.</strong> 水</li>
+<li class="correct-option"><strong>B.</strong> 一氧化碳 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 氨气 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 二氧化碳</li>
+</ul>
+
+**解析：** 其中完全燃烧产物是指可燃物中的碳被氧化生成二氧化碳气体、氢被氧化生成液态水、硫被氧化生成二氧化硫气体等；而燃烧生成的一氧化碳、氨气、醇类、醛类、醚类等是不完全燃烧产物。
+
+---
+
+
+
+#### 多选题 18
+
+消防工作的长期实践表明，具( )的特点。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 社会性 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 行政性 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 经常性 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 技术性 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 长期性</li>
+</ul>
+
+**解析：** 消防工作的长期实践表明，其具有以下特点：社会性、行政性、经常性、技术性。
+
+---
+
+
+
+#### 多选题 19
+
+段落的格式化是指对段落前后（ ）等属性的设置。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 间距大小 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 行距大小 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 段落的缩进 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 段落的编号</li>
+<li><strong>E.</strong> 项目符号</li>
+</ul>
+
+**解析：** 段落的格式化是指对段落前后间距大小、行距大小、段落的缩进等属性的设置。
+
+---
+
+
+
+#### 多选题 20
+
+中倍泡沫灭火剂一般用于扑灭（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 可燃气体</li>
+<li class="correct-option"><strong>B.</strong> 易燃可燃液体 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 电气设备火灾</li>
+<li class="correct-option"><strong>D.</strong> 固体表面火灾 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 固体深位阴燃火灾 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 中倍泡沫灭火剂一般用于扑灭易燃可燃液体，固体表面火灾，固体深位阴燃火灾。
+
+---
+
+
+
+#### 多选题 21
+
+火灾显示盘具有（ ）功能。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火灾报警显示 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 故障显示 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 自检 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 信息显示与查询 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 电源 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾显示盘具有火灾报警显示、故障显示、自检、信息显示与查询、电源功能。
+
+---
+
+
+
+#### 多选题 22
+
+消防应急灯具按应急供电方式可分为（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 非集中控制型消防应急灯具</li>
+<li><strong>B.</strong> 集中控制型消防应急灯具</li>
+<li><strong>C.</strong> 持续型消防应急灯具</li>
+<li class="correct-option"><strong>D.</strong> 集中电源型消防应急灯具 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 自带电源型消防应急灯具 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防应急灯具按应急供电方式可分为自带电源型消防应急灯具、集中电源型消防应急灯具、子母型消防应急灯具。
+
+---
+
+
+
+#### 多选题 23
+
+《消防给水及消火栓系统技术规范》主要内容包括（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防水源 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 供水设施 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 给水形式 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 消火栓系统 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 系统调试与验收 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 《消防给水及消火栓系统技术规范》(GB 50974-2014 ) 主要内容包括：主要内容包括总则、术语和符号、基本参数、消防水源、供水设施、给水形式、 消火栓系统、管网、消防排水、水力计算、控制与操作、施工、系统调试与验收、 维护管理等。
+
+---
+
+
+
+#### 多选题 24
+
+消防设施操作员职业守则是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 以人为本，生命至上 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 忠于职守，严守规程 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 钻研业务，精益求精 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 临危不乱，科学处置 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防设施操作员职业守则是：（1） 以人为本，生命至上。（2） 忠于职守，严守规程。（3 ）钻研业务，精益求精。（4）临危不乱，科学处置。
+
+---
+
+
+
+#### 多选题 25
+
+下列关于火灾自动报警系统消防联动控制要求的说法中，正确的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防联动控制器应能按设定的控制逻辑向各相关受控设备发出联动控制信号，并接收相关设备的联动反馈信号。 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 消防联动控制器应具有发出联动控制信号强制所有电梯停于首层或电梯转换层的功能。 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 消防联动控制器应具有自动打开涉及疏散的电动栅杆等的功能。 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 消防应急广播系统的联动控制信号应由消防联动控制器发出。当确认火灾后，应向起火楼层及相邻楼层进行广播。</li>
+<li class="correct-option"><strong>E.</strong> 消防联动控制器应具有启动消火栓泵的功能。 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾自动报警系统消防联动控制要求消防应急广播系统的联动控制信号应由消防联动控制器发出。当确认火灾后，应同时向全楼进行广播。结合题意，本题应排除D选项。
+
+---
+
+
+
+#### 多选题 26
+
+下列选项不属于机械排烟系统组件的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 排烟阀</li>
+<li><strong>B.</strong> 排烟风机</li>
+<li class="correct-option"><strong>C.</strong> 防火阀 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 排烟防火阀</li>
+<li class="correct-option"><strong>E.</strong> 补风机 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 防火阀和补风机属于正压送风系统。
+
+---
+
+
+
+#### 多选题 27
+
+消除静电危害的措施主要有（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 接地法 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 泄露法 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 中和法 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 工艺控制法 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 导除法</li>
+</ul>
+
+**解析：** 消除静电危害的措施有接地法、泄漏法、中和法、工艺控制法。
+
+---
+
+
+
+#### 多选题 28
+
+防火卷帘通常可按照（ ）等进行分类。
+
+<ul class="question-options">
+<li><strong>A.</strong> 厚度</li>
+<li class="correct-option"><strong>B.</strong> 材质 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 启闭方式 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 动作温度</li>
+<li class="correct-option"><strong>E.</strong> 帘面数量 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 防火卷帘通常可按照材质、 帘面数量、 启闭方式等进行分类。
+
+---
+
+
+
+#### 多选题 29
+
+关于消防电话各组件的设置要求，说法正确的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 多线制消防电话系统中的每个电话分机应与总机单独连接 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 消防电话分机应固定安装在明显且便于使用的部位 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 设有手动火灾报警按钮或消火栓按钮等处宜设置电话插孔，并宜选择带有电话插孔的手动火灾报警按钮 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 电话插孔在墙上安装时，其底边距地面高度宜为1.1~1.3m</li>
+<li class="correct-option"><strong>E.</strong> 消防控制室应设置消防电话总机 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防电话各组件的设置要求： (2）消防控制室应设置消防电话总机。（3）多线制消防电话系统中的每个电话分机应与总机单独连接。(4）电话分机或电话插孔的设置应符合下列规定：1）消防电话分机应固定安装在明显且便于使用的部位，并应有区别于普通电话的标识。2）设有手动火灾报警按钮或消火栓按钮等处宜设置电话插孔，并宜选择带有电话插孔的手动火灾报警按钮。4）电话插孔在墙上安装时， 其底边距地面高度宜为1.3~1.5m。
+
+---
+
+
+
+#### 多选题 30
+
+室内消火栓给水系统按照用途不同，可分为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 生产、生活、消防合用给水系统 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 生产、消防合用给水系统 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 生活、消防合用给水系统 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 生产、生活合用给水系统</li>
+<li class="correct-option"><strong>E.</strong> 独立消防给水系统 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 室内消火栓给水系统按用途不同可分为生产、生活、消防合用给水系统，生产、 消防合用给水系统，生活、消防合用给水系统，独立消防给水系统四类；
+
+---
+
+
+
+#### 多选题 31
+
+计算机键盘主要功能分区包括（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 主键盘键区 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 功能键区 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 控制键区 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 数字键区 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 状态指示区 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 标准Windows键盘共有104个键，分为主键盘区、功能键区、控制键区、数字键区和状态指示区5个部分。
+
+---
+
+
+
+#### 多选题 32
+
+串联电路的特点是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 流过每个电阻的电流相等 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 总电压（串联电路两端的电压)等于分电压（每个电阻两端的电压）之和 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 总电阻等于分电阻之和 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 各个电阻分得的电压与其阻值成正比 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 各个电阻分得的功率与其阻值成正比 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 电阻串联电路的特点：(1) 流过每个电阻的电流相等。(2) 总电压(串联电路两端的电压)等于分电压(每个电阻两端的电压)之和。(3) 总电阻等于分电阻之和。(4) 各个电阻两端的电压与其阻值成正比。(5) 各个电阻消耗的功率与其阻值成正比。
+
+---
+
+
+
+#### 多选题 33
+
+消防应急广播系统主要由（ ）及扬声器等组成。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防应急广播主机 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 功放机 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 分配盘 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 输出模块 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 音频线路 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防应急广播系统主要由消防应急广播主机、功放机、分配盘、输出模块、音频线路及扬声器等组成。
+
+---
+
+
+
+#### 多选题 34
+
+消防供水设施通常包括（ ），主要用于为自动喷水灭火系统提供水量和水压保证。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防水泵 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 消防水源 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 高位消防水箱 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 增（稳）压设施 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 消防水泵接合器 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防供水设施通常包括消防水源、高位消防水箱、增（稳）压设施、消防水泵和消防水泵接合器，主要用于为自动喷水灭火系统提供水量和水压保证，是自动喷水灭火系统的重要组成部分。
+
+---
+
+
+
+#### 多选题 35
+
+湿式、干式自动喷水灭火系统主要由（ ）等组件，以及管道和供水设施等组成。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 闭式喷头 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 开式喷头</li>
+<li class="correct-option"><strong>C.</strong> 报警阀组 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 水流报警装置 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 火灾探测器</li>
+</ul>
+
+**解析：** 湿式、干式自动喷水灭火系统主要由闭式喷头、报警阀组、水流报警装置（水流指示器或压力开关）等组件，以及管道和供水设施等组成。
+
+---
+
+
+
+#### 多选题 36
+
+集中火灾报警控制器主要包括：（ ）、输入/输出控制板、音响器件、网络接口组件、电源装置（含电池）、外壳等器件。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 显示板（含显示屏） <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 指示灯 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 开关和按钮 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 打印机 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 主板 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 集中火灾报警控制器主要包括：显示板（含显示屏）、指示灯、开关和按钮、打印机、主板、输入/输出控制板、音响器件、网络接口组件、电源装置（含电池）、外壳等器件。
+
+---
+
+
+
+#### 多选题 37
+
+灭火器按结构形式不同，分为 （ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 手提式灭火器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 推车式灭火器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 投掷式灭火器</li>
+<li><strong>D.</strong> 悬挂式灭火器</li>
+<li><strong>E.</strong> 壁挂式灭火器</li>
+</ul>
+
+**解析：** 灭火器分类方法：①按结构形式不同：分为手提式和推车式等。②按充装的灭火剂不同：分为水基型灭火器、干粉型灭火器、二氧化碳灭火器、洁净气体型灭火器等。③按驱动灭火剂的形式：分为贮气瓶式灭火器、贮压式灭火器等。
+
+---
+
+
+
+#### 多选题 38
+
+下列现象属于发生轰燃征兆的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 室内顶棚热烟气层开始出现火焰 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 顶棚处火焰由于空气卷吸，形成似手指的滚动状 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 室内温度突然升高，让人难以忍受 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 空气中烟气降至离地面1m左右 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 轰燃发生前可能出现4种征兆：（1）室内顶棚热烟气层开始出现火焰。（2）顶棚处火焰由于空气卷吸，形成似手指的滚动状。（3）室内温度突然升高，让人难以忍受。（4）空气中烟气降至离地面1m左右。
+
+---
+
+
+
+#### 多选题 39
+
+自动喷水灭火系统是由（ ）等组件以及管道、供水设施等组成，能在发生火灾时喷水的自动灭火系统。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 洒水喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 报警阀组 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 水流报警装置 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 火灾显示器</li>
+<li><strong>E.</strong> 火灾报警控制器</li>
+</ul>
+
+**解析：** 自动喷水灭火系统是由洒水喷头、报警阀组、水流报警装置等组件以及管道、供水设施等组成，能在发生火灾时喷水的自动灭火系统。火灾显示器和火灾报警控制器属于火灾自动报警系统内容。
+
+---
+
+
+
+#### 多选题 40
+
+消防供水设施通常包括（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防水泵 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 消防水泵接合器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 室外消火栓</li>
+<li class="correct-option"><strong>D.</strong> 高位水箱 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 稳压设备 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防供水设施通常包括：消防水泵、高位消防水箱、稳压泵、消防水泵接合器等。稳压泵属于稳压设备。
+
+---
+
+
+
+#### 多选题 41
+
+在接收到火灾报警信号后，消防联动控制器能远程 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 释放防火卷帘 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 关闭常开型防火门 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 启动排烟风机 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 启停消火栓泵</li>
+<li><strong>E.</strong> 停止雨淋消防泵</li>
+</ul>
+
+**解析：** 消防联动控制器的首要功能是联动控制功能，即能按设定的逻辑直接或间接控 制其连接的各类受控消防设备，消防联动控制器可以采用手动和自动两种方式完成 控制功能。比如，在接收到火灾报警信号后，消防联动控制器能在3 s内发岀启动信 号，远程释放防火卷帘、关闭常开式防火门、启动排烟风机等。此外，消防联动控 制器还具备故障报警、自检、屏蔽、信息显示与查询、主电与备电切换等功能。
+
+---
+
+
+
+#### 多选题 42
+
+固定消防炮灭火系统按安装形式可分为 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 固定式消防炮系统 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 移动式消防炮系统 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 半定式消防炮系统</li>
+<li><strong>D.</strong> 远控消防炮系统</li>
+<li><strong>E.</strong> 智能型消防炮灭火系统</li>
+</ul>
+
+**解析：** 固定消防炮灭火系统的3种分类方法：①按喷射介质：分为水炮系统、泡沫炮系统、干粉炮系统。②按控制方式：分为远控消防炮系统、非远控消防炮系统。③按安装形式：固定式消防炮系统、移动式消防炮系统。
+
+---
+
+
+
+#### 多选题 43
+
+下列关于消防车道的说法正确的是 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 道路的净宽度和净空高度应满足消防车安全、快速通行的要求 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 转弯半径应满足消防车转弯的要求 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 路面及其下面的建筑结构、管道、管沟等，应满足承受消防车满载时压力的要求 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 长度大于40m的尽头式消防车道应设置满足消防车回转要求的场地或道路 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 消防车道与建筑消防扑救面之间不应有妨碍消防车操作的障碍物，不应有影响消防车安全作业的架空高压电线 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防车道或兼作消防车道的道路应符合下列规定。(1)道路的净宽度和净空高度应满足消防车安全、快速通行的要求。(2)转弯半径应满足消防车转弯的要求。(3)路面及其下面的建筑结构、管道、管沟等，应满足承受消防车满载时压力的要求。(4)坡度应满足消防车满载时正常通行的要求，且不应大于10%,兼作消防救援场地的消防车道,坡度尚应满足消防车停靠和消防救援作业的要求。(5)消防车道与建筑外墙的水平距离应满足消防车安全通行的要求，位于建筑消防扑救面一侧兼作消防救援场地的消防车道应满足消防救援作业的要求。(6)长度大于40m的尽头式消防车道应设置满足消防车回转要求的场地或道路。(7)消防车道与建筑消防扑救面之间不应有妨碍消防车操作的障碍物，不应有影响消防车安全作业的架空高压电线。
+
+---
+
+
+
+#### 多选题 44
+
+公民道德建设的重点任务有 ()、 ()、 ()、 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 筑牢理想信念之基 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 培育和践行社会主义核心价值观 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 传承中华传统美德 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 弘扬民族精神和时代精神 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 公民道德建设的重点任务有：1.筑牢理想信念之基。2.培育和践行社会主义核心价值观。3.传承中华传统美德。4.弘扬民族精神和时代精神。
+
+---
+
+
+
+#### 多选题 45
+
+水系灭火剂的灭火原理是什么（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 冷却灭火 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 窒息灭火 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 覆盖灭火</li>
+<li class="correct-option"><strong>D.</strong> 稀释灭火 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 对非水溶性可燃液体的乳化 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 水系灭火剂是指由水、渗透剂、阻燃剂以及其他添加剂组成，一般以液滴或以液滴和泡沫混合的形式灭火的液体灭火剂，灭火原理为冷却、室息、稀释、对非水溶性可燃液体的乳化。
+
+---
+
+
+
+#### 多选题 46
+
+下列关于老年人照料设施平面布置的说法，正确的是( )。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 对于一、二级耐火等级建筑， 不应布置在楼地面设计标高大于54m的楼层上 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 对于三级耐火等级建筑，应布置在首层或二层 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 老年人公共活动用房、康复与医疗用房，应布置在地下一层及以上楼层，当布置在半地下或地下一层、 地上四层及以上楼层时，每个房间的建筑面积不应大于200㎡且使用人数不应大于30人 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 居室和休息室不应布置在地下或半地下 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 老年人照料设施应采用防火门、防火窗、耐火极限不低于2.00h的防火隔墙和耐火极限不低于1.00h的楼板与其他区域分隔 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 对于一、二级耐火等级建筑， 不应布置在楼地面设计标高大于54m的楼层上，对于三级耐火等级建筑，应布置在首层或二层，老年人公共活动用房、康复与医疗用房，应布置在地下一层及以上楼层，当布置在半地下或地下一层、 地上四层及以上楼层时，每个房间的建筑面积不应大于200㎡且使用人数不应大于30人，居室和休息室不应布置在地下或半地下， 老年人照料设施应采用防火门、防火窗、耐火极限不低于2.00h的防火隔墙和耐火极限不低于1.00h的楼板与其他区域分隔。
+
+---
+
+
+
+#### 多选题 47
+
+（ ）等开关信号应能直接自动启动消防水泵。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防水泵出水干管上设置的压力开关 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 高位消防水箱出水管上的流量开关 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 湿式报警阀的压力开关 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 干式报警阀组的压力开关 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 信号蝶阀开关</li>
+</ul>
+
+**解析：** 消防水泵出水干管上设置的压力开关、高位消防水箱出水管上的流量开关、湿式报警阀的压力开关和干式报警阀组的压力开关等开关信号应能直接自动启动消防水泵。
+
+---
+
+
+
+#### 多选题 48
+
+下列属于控制面板功能的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 添加硬件 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 添加或删除程序 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 创建快捷方式</li>
+<li><strong>D.</strong> 创建文件夹</li>
+</ul>
+
+**解析：** 添加硬件、添加或删除程序属于控制面板功能。
+
+---
+
+
+
+#### 多选题 49
+
+集中火灾报警控制器、消防联动控制器、消防控制室图形显示装置的保养项目包含（ ）等。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 外壳外观保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 指示灯保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 显示屏保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 开关按键、键盘、鼠标保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 打印机保养 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 集中火灾报警控制器、消防联动控制器、消防控制室图形显示装置的保养项目包含外壳外观保养、指示灯保养、显示屏保养、开关按键、键盘、鼠标保养、打印机保养等。
+
+---
+
+
+
+#### 多选题 50
+
+室内消火栓系统由（ ）等组成
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 供水设施 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 消防给水管网 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 室内消火栓设备 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 报警控制设备 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 系统附件 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 室内消火栓系统由供水设施、消防给水管网、室内消火栓设备、报警控制设备及系统附件等组成。
+
+---
+
+
+
+#### 多选题 51
+
+泡沫灭火系统按系统结构形式分为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 固定式 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 半固定式 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 移动式 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 全淹没系统</li>
+<li><strong>E.</strong> 局部应用系统</li>
+</ul>
+
+**解析：** 泡沫灭火系统按系统结构形式分为固定式、半固定式、移动式。
+
+---
+
+
+
+#### 多选题 52
+
+气体燃烧方式分为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 扩散燃烧 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 预混燃烧 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 分解燃烧</li>
+<li><strong>D.</strong> 蒸发燃烧</li>
+</ul>
+
+**解析：** 根据燃烧前可燃气体与氧气混合情况的不同，其燃烧方式分为扩散燃烧和预混燃烧。
+
+---
+
+
+
+#### 多选题 53
+
+加强公民道德建设有（ ）、（ ）、（ ）、（ ）4个着力点。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 社会公德 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 职业道德 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 中华传统美德</li>
+<li class="correct-option"><strong>D.</strong> 家庭美德 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 个人品德 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 加强公民道德建设有哪4个着力点要把社会公德、职业道德、家庭美德、个人品德建设作为着力点。(1) 推动践行以文明礼貌、助人为乐、爱护公物、保护环境、遵纪守法为主要内容的社会公德，鼓励人们在社会上做一个好公民。(2) 推动践行以爱岗敬业、诚实守信、办事公道、热情服务、奉献社会为主要内容的职业道德，鼓励人们在工作中做一个好建设者。(3) 推动践行以尊老爱幼、男女平等、夫妻和睦、勤俭持家、邻里互助为主要内容的家庭美德，鼓励人们在家庭里做一个好成员。(4) 推动践行以爱国奉献、明礼遵规、勤劳善良、宽厚正直、自强自律为主要内容的个人品德，鼓励人们在日常生活中养成好品行。
+
+---
+
+
+
+#### 多选题 54
+
+下列属于输入设备的有（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 键盘 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 光学标记阅读机 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 鼠标 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 扫描仪 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 常见的输入设备有哪些( 1 )字符输入设备：键盘。( 2 )光学阅读设备：光学标记阅读机、光学字符阅读机。( 3 )图形输入设备：鼠标、操纵杆、光笔。( 4 )图像输入设备：摄像机、扫描仪、传真机。( 5 )模拟输入设备：语言模数转换识别设备。
+
+---
+
+
+
+#### 多选题 55
+
+防火卷帘具有（ ）、现场机械控制和限位控制等几种主要控制方式。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 现场手动电控 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 自动控制 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 消防控制室远程手动控制 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 温控释放控制 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 速放控制 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 防火卷帘具有现场手动电控、自动控制、消防控制室远程手动控制、温控释放控制、速放控制、现场机械控制和限位控制等几种主要控制方式。
+
+---
+
+
+
+#### 多选题 56
+
+下列关于火灾时用于辅助人员疏散的电梯及其设置说法正确的是( )。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 应具有在火灾时仅停靠特定楼层和首层的功能 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 电梯附近的明显位置应设置标示电梯用途的标志和操作说明 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 电梯轿厢内部装修材料的燃烧性能应为A级 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 电梯轿厢内部应设置专用消防对讲电话和视频监控系统的终端设备 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 电梯的载重量不应小于800kg <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾时用于辅助人员疏散的电梯及其设置应符合下列规定。( 1 )应具有在火灾时仅停靠特定楼层和首层的功能。( 2 )电梯附近的明显位置应设置标示电梯用途的标志和操作说明。( 3 )其他要求应符合消防电梯的相关规定。消防电梯应符合下列规定。1)应能在所服务区域每层停靠。2)电梯的载重量不应小于800kg。3)电梯的动力和控制线缆与控制面板的连接处、控制面板的外壳防水性能等级不应低于IPX5。4)在消防电梯的首层入口处，应设置明显的标识和供消防救援人员专用的操作按钮。5)电梯轿厢内部装修材料的燃烧性能应为A级。6)电梯轿厢内部应设置专用消防对讲电话和视频监控系统的终端设备。
+
+---
+
+
+
+#### 多选题 57
+
+下列关于避难层设置要求说法正确的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 第一个避难层的楼面至消防车登高操作场地地面的高度不应大于50m <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 除可布置设备用房外，避难层不应用于其他用途 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 设备管道区、管道井和设备间与避难区或疏散走道连通时，应设置防火隔间，防火隔间的门应为甲级防火门 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 避难层应设置消防电梯出口、消火栓、消防软管卷盘、灭火器、消防专线电话和应急广播 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 在避难层进入楼梯间的入口处和疏散楼梯通向避难层的出口处，均应在明显位置设置标示避难层和楼层位置的灯光指示标识 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 建筑高度大于100 m的工业与民用建筑应设置避难层，且第一个避难层的楼面至消防车登高操作场地地面的高度不应大于50 m。避难层应符合下列规定。（1）避难区的净面积应满足该避难层与上一避难层之间所有楼层的全部使用人 数避难的要求。（2）除可布置设备用房外，避难层不应用于其他用途。设置在避难层内的可 燃液体管道、可燃或助燃气体管道应集中布置，设备管道区应采用耐火极限不低于 3.00 h的防火隔墙与避难区及其他公共区分隔。管道井和设备间应采用耐火极限不低 于2.00 h的防火隔墙与避难区及其他公共区分隔。设备管道区、管道井和设备间与 避难区或疏散走道连通时，应设置防火隔间，防火隔间的门应为甲级防火门。（3）避难层应设置消防电梯岀口、消火栓、消防软管卷盘、灭火器、消防专线 电话和应急广播。（4）在避难层进入楼梯间的入口处和疏散楼梯通向避难层的出口处，均应在明 显位置设置标示避难层和楼层位置的灯光指示标识。（5）避难区应采取防止火灾烟气进入或积聚的措施，并应设置可开启外窗。（6）避难区应至少有一边水平投影位于同一侧的消防车登高操作场地范围内。
+
+---
+
+
+
+#### 多选题 58
+
+下列现象属于发生回燃征兆的是（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 从室外观察着火房间，开口处流出脉动式热烟气 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 有烟气被倒吸入室内的现象 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 身处室内时，听到吸气声或呼啸声 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 室内热烟气层中出现蓝色火焰 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 有烟气飘向室外</li>
+</ul>
+
+**解析：** 回燃发生前通常也可能出现一些征兆。如果身处室外,可能观察到的征兆包括:着火房间开口较少,通风不良,蓄积大量烟气;着火房间的门或窗户上有油状沉积物;门、窗及其把手温度高;开口处流出脉动式热烟气;有烟气被倒吸入室内的现象。如果身处室内,或向室内看去,可能观察到的征兆包括: 室内热烟气层中出现蓝色火焰(表明燃烧缺氧,燃烧产物中含有较多一氧化碳,其燃烧呈蓝色)听到吸气声或呼啸声。但回燃发生前的征兆并不稳定,有时回燃发生前只能观察到一两种征兆
+
+---
+
+
+
+#### 多选题 59
+
+火灾自动报警系统的基本形式可分为（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 独立报警系统</li>
+<li class="correct-option"><strong>B.</strong> 区域报警系统 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 集中报警系统 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 控制中心报警系统 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 城市远程控制系统</li>
+</ul>
+
+**解析：** 火灾自动报警系统有区域报警系统、集中报警系统和控制中心报警系统三种形式，各自有不同的适用范围。
+
+---
+
+
+
+#### 多选题 60
+
+防火门按照启闭状态分为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 常开防火门 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 常闭防火门 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 平开防火门</li>
+<li><strong>D.</strong> 推拉防火门</li>
+<li><strong>E.</strong> 折叠防火门</li>
+</ul>
+
+**解析：** （1）防火门按照启闭状态分为常开防火门和常闭防火门两种。（2）防火门按照耐火性能可分为隔热防火门、部分隔热防火门和非隔热防火门三类。（3）按材质可将防火门分为木质防火门、钢质防火门、钢木质防火门和其他材质防火门。（4）按门扇数量可将防火门分为单扇防火门、双扇防火门和多扇防火门（含有两个以上门扇的防火门）。（5）按结构形式可将防火门分为门扇上带防火玻璃的防火门、无玻璃防火门等。
+
+---
+
+
+
+#### 多选题 61
+
+《中华人民共和国消防法》规定，任何单位和个人都有 ()的义务。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 维护消防安全 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 保护消防设施 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 预防火灾 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 报告火警 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 扑灭火灾</li>
+</ul>
+
+**解析：** 《中华人民共和国消防法》规定，任何单位和个人都有维护消防安全、保护消防设施、预防火灾、报告火警的义务。
+
+---
+
+
+
+#### 多选题 62
+
+下列是可燃气体探测报警系统工作状态的是()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正常监视状态 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 可燃气体报警状态 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 故障状态 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 自检状态</li>
+<li><strong>E.</strong> 屏蔽状态</li>
+</ul>
+
+**解析：** 如何判断可燃气体探测报警系统工作状态1..判断正常监视状态2.判断可燃气体报警状态3.判断故障报警状态
+
+---
+
+
+
+#### 多选题 63
+
+可以通过集中火灾报警控制器、消防联动控制器和消防控制室图形显示装置的()不同，区分判断这三种装置。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 系统组成 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 外观特征 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 控制关系 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 系统架构</li>
+<li><strong>E.</strong> 软件组成</li>
+</ul>
+
+**解析：** 可以通过集中控制器、消防联动控制器和消防控制室图形显示装置的系统组成、 外观特征、控制关系的不同，区分判断这三种装置。
+
+---
+
+
+
+#### 多选题 64
+
+操作火灾自动报警系统总线手动控制单元时，总线手动控制单元包含的指示灯状态有 ()。
+
+<ul class="question-options">
+<li><strong>A.</strong> 联动</li>
+<li class="correct-option"><strong>B.</strong> 启动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 反馈 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 报警</li>
+<li><strong>E.</strong> 故障</li>
+</ul>
+
+**解析：** 总线手动控制单元示，每一个（组）启 动/停止按键对应有一组“启动”和“反馈”指 示灯。
+
+---
+
+
+
+#### 多选题 65
+
+挡烟垂壁能通过 ()方式控制。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火灾自动报警系统联动启动 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 电气控制柜手动启动</li>
+<li class="correct-option"><strong>C.</strong> 现场手动启动 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 温控释放装置启动</li>
+<li><strong>E.</strong> 排烟防火阀联锁启动</li>
+</ul>
+
+**解析：** 挡烟垂壁可以通过火灾自动报警系统自动启动和现场手动启动。
+
+---
+
+
+
+#### 多选题 66
+
+下列属于老年人照料设施的是( )。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 养老院 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 托老所 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 老年人日间照料中心 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 老年人活动中心</li>
+<li><strong>E.</strong> 老年人大学</li>
+</ul>
+
+**解析：** 老年人照料设施是老年人全日照料设施和老年人日间照料设施的统称。其中，老年人全日照料设施是养老院、老人院、福利院、敬老院、老年养护院等的统称。老年人日间照料设施是托老所、日托站、老年人日间照料室、老年人日间照料中心等的统称。其他专供老年人使用的、非集中照料的设施或场所，如老年大学、老年人活动中心等不属于老年人照料设施。
+
+---
+
+
+
+#### 多选题 67
+
+自动喷水灭火系统洒水喷头按安装位置和水的分布可分为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 通用型喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 直立型喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 下垂型喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 边墙型喷头 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 齐平式喷头</li>
+</ul>
+
+**解析：** 自动喷水灭火系统洒水喷头按安装位置和水的分布可分为通用型喷头、直立型喷头、下垂型喷头、边墙型喷头。
+
+---
+
+
+
+#### 多选题 68
+
+消防设备末端配电装置外壳上的明显位置应设置产品铭牌，内容应包括（ ）等。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 产品名称 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 规格型号 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 产品编号 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 额定电压 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 防护等级 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 在消防设备末端配电装置外壳上的明显位置应设置产品铭牌，产品铭牌内容应至少包括：产品名称、规格型号、产品编号、额定电压、额定电流、防护等级、执行标准、制造日期、生产单位名称或商标等。
+
+---
+
+
+
+#### 多选题 69
+
+干粉灭火剂的类型有（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 普通干粉灭火剂 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 多用途干粉灭火剂 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 超细干粉灭火剂 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> D类干粉灭火剂 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> E类干粉灭火剂</li>
+</ul>
+
+**解析：** 干粉灭火剂的类型有：（1）普通干粉灭火剂，又称BC干粉灭火剂。这类灭火剂可扑救B类、C类、E类 火灾。（2）多用途干粉灭火剂，又称ABC干粉灭火剂。这类灭火剂可扑救A类、B类、C类、E类火灾。（3）超细干粉灭火剂。该类灭火剂按其灭火性能分为BC超细干粉灭火剂和ABC超细干粉灭火剂两类。（4）D类干粉灭火剂，即能扑救D类火灾的干粉灭火剂。
+
+---
+
+
+
+#### 多选题 70
+
+消防水泵接合器处应设置永久性铭牌，并应标明（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 供水系统 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 供水方向</li>
+<li class="correct-option"><strong>C.</strong> 供水范围 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 额定压力 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 出厂编号</li>
+</ul>
+
+**解析：** 消防水泵接合器处应设置永久性铭牌，并应标明供水系统、供水范围和额定压力。
+
+---
+
+
+
+#### 多选题 71
+
+消防联动控制器的主要功能有（ ）、电源功能。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 控制功能 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 火灾报警控制功能</li>
+<li class="correct-option"><strong>C.</strong> 故障报警功能 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 自检功能 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 信息显示与查询功能 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防联动控制器的主要功能有控制功能、故障报警功能、自检功能、信息显示与查询功能、电源功能。
+
+---
+
+
+
+#### 多选题 72
+
+消防控制室图形显示装置用于（ ）和记录保护区域内的火灾探测报警与各相关控制系统，以及系统中的各类消防设备（设施）运行的动态信息和消防管理信息。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 传输 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 接收 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 显示 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 发送</li>
+<li><strong>E.</strong> 查询</li>
+</ul>
+
+**解析：** 消防控制室图形显示装置用于传输、接收、显示和记录保护区域内的火灾探测报警与各相关控制系统，以及系统中的各类消防设备（设施）运行的动态信息和消防管理信息。
+
+---
+
+
+
+#### 多选题 73
+
+应急照明控制器的保养项目包含（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 外观检查 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 稳定性检查 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 切换开关检查</li>
+<li class="correct-option"><strong>D.</strong> 接线检查 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 功能检查 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 应急照明控制器的保养项目包含：1.外观检查2.稳定性检查3.接线检査4.功能检查
+
+---
+
+
+
+#### 多选题 74
+
+当控制器内部、控制器与其连接的部件间发生故障时，控制器应能显示（ ）等所有故障信息。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 故障部位 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 故障原因</li>
+<li><strong>C.</strong> 故障程度</li>
+<li class="correct-option"><strong>D.</strong> 故障类型 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 故障次数</li>
+</ul>
+
+**解析：** 当控制器内部、控制器与其连接的部件间发生故障时，控制器应能显示故障部位、故障类型等所有故障信息。
+
+---
+
+
+
+#### 多选题 75
+
+高层民用建筑的耐火等级可为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 一级 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 二级 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 三级</li>
+<li><strong>D.</strong> 四级</li>
+<li><strong>E.</strong> 上述均可以</li>
+</ul>
+
+**解析：** （1）下列民用建筑的耐火等级应为一级：一类高层民用建筑。（2）下列民用建筑的耐火等级不应低于二级：二类高层民用建筑。
+
+---
+
+
+
+#### 多选题 76
+
+多线控制盘操作面板上设有多个手动控制单元，每个单元包括一个操作按钮和（ ）三个状态指示灯。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 启动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 反馈 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 故障 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 停止</li>
+<li><strong>E.</strong> 动作</li>
+</ul>
+
+**解析：** 多线控制盘操作面板上设有多个手动控制单元，每个单元包括一个操作按钮和启 动、反馈、故障三个状态指示灯，每个操作按钮均可控制具体设备的动作。
+
+---
+
+
+
+#### 多选题 77
+
+消防联动控制器主要包括：（ ）、指示灯、音响器件、回路板、接口组件、电源装置（含电池）、外壳等部分。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 主板 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 多线控制盘 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 总线控制盘 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 消防电话</li>
+<li><strong>E.</strong> 消防广播</li>
+</ul>
+
+**解析：** 本题考查考生对消防联动控制器组成知识点的掌握情况。消防联动控制器主要包括：主板、直接手动控制单元（多线控制盘）、总线控制盘、指示灯、音响器件、回路板、接口组件、电源装置（含电池）、外壳等部分。消防电话和应急广播都属于单独的系统，不属于消防联动控制器的组件。
+
+---
+
+
+
+#### 多选题 78
+
+消防设备末端配电装置的保养项目包含（ ）、熔断器保养、断路器保养及柜体保养。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 指示灯保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 操作按钮保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 切换开关保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 自动空气开关保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 母线保养 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防设备末端配电装置的保养项目包含：1.指示灯保养2.操作按钮保养3.切换开关保养 4.自动空气开关保养5.母线保养6.熔断器保养7.断路器保养8.柜体保养
+
+---
+
+
+
+#### 多选题 79
+
+下列建筑耐火等级应为一级的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 建筑高度为26m的门诊楼 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 建筑高度为30m的住宅楼</li>
+<li class="correct-option"><strong>C.</strong> 建筑高度为54m的高层厂房 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 多层丁类厂房</li>
+<li><strong>E.</strong> 丁类物流建筑</li>
+</ul>
+
+**解析：** 下列民用建的筑耐火等级应为一级：1）一类高层民用建筑。2）二层和二层半式、多层式民用机场航站楼。3）A类广播电影电视建筑。4）四级生物安全实验室。下列工业建筑的耐火等级应为一级：1）建筑高度大于 50ｍ的高层厂房。2）建筑高度大于32ｍ的高层丙类仓库，储存可燃液体的多层丙类仓库，每个防火分隔间建筑面积大于 3000㎡的其他多层丙类仓库。3） I类飞机库。建筑高度为26m的门诊楼为一类高层建筑。另，建筑高度为30m的住宅楼为二类高层民用建筑，不应低于二级；多层丁类厂房不应低于三级；丁类物流建筑不应低于二级。
+
+---
+
+
+
+#### 多选题 80
+
+燃烧过程的发生和发展必须同时具备（ ）3个必要条件。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 可燃物 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 助燃物 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 氧气</li>
+<li class="correct-option"><strong>D.</strong> 引火源 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 链式反应自由基</li>
+</ul>
+
+**解析：** 燃烧过程的发生和发展必须同时具备可燃物、助燃物、引火源3个必要条件， 通常称为“燃烧三要素”。但要导致燃烧发生，不仅需要满足三要素条件，而且需要三者达到一定量的要求，并且存在相互作用的过程。因此，燃烧的充分条件可以进 一步表述为：具备足够数量或浓度的可燃物，具备足够数量或浓度的助燃物，具备足够能量的引火源。
+
+---
+
+
+
+#### 多选题 81
+
+集中报警系统中的各控制器电源工作状态及电源故障类型信息可通过本机 ()的完整信息进行查看。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 面板显示器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 指示灯显示 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 音响器件</li>
+<li><strong>D.</strong> 按键</li>
+<li><strong>E.</strong> 开关</li>
+</ul>
+
+**解析：** 各控制器电源工作状态及电源故障类型信息可通过本机面板显示器和指示灯显示的完整信息进行查看。
+
+---
+
+
+
+#### 多选题 82
+
+特殊类型洒水喷头包括哪些类型（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 干式洒水喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 吊顶型洒水喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 带涂层洒水喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 带防水罩洒水喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 自动启闭洒水喷头 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 特殊类型洒水喷头包括干式洒水喷头、吊顶型洒水喷头、带涂层洒水喷头、带防水罩洒水喷头、自动启闭洒水喷头等。
+
+---
+
+
+
+#### 多选题 83
+
+自动喷水灭火系统洒水喷头根据保护面积可以分为哪几种（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 标准覆盖面积洒水喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 扩大覆盖面积洒水喷头 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 直立型洒水喷头</li>
+<li><strong>D.</strong> 下垂型洒水喷头</li>
+<li><strong>E.</strong> 边墙型洒水喷头</li>
+</ul>
+
+**解析：** 洒水喷头根据保护面积不同分为标准覆盖面积洒水喷头、扩大覆盖面积洒水喷头两种。
+
+---
+
+
+
+#### 多选题 84
+
+自动喷水灭火系统洒水喷头的安装位置可以分为哪几种（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 边墙型 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 下垂型 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 直立型 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 屋顶型</li>
+<li><strong>E.</strong> 地面型</li>
+</ul>
+
+**解析：** 洒水喷头根据安装位置不同分为边墙型、下垂型和直立型三种。
+
+---
+
+
+
+#### 多选题 85
+
+闭式洒水喷头根据灵敏度可以分为哪几种（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 快速响应洒水喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 特殊响应洒水喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 标准响应洒水喷头 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 高灵敏度洒水喷头</li>
+<li><strong>E.</strong> 低灵敏度洒水喷头</li>
+</ul>
+
+**解析：** 闭式洒水喷头可根据灵敏度分为快速响应洒水喷头、特殊响应洒水喷头和标准响应洒水喷头三种
+
+---
+
+
+
+#### 多选题 86
+
+以下哪些场所应设置雨淋灭火系统（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火柴厂的氯酸钾压碾车间 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 建筑面积大于100㎡且生产或使用硝化棉、喷漆棉、火胶棉、赛璐珞胶片、硝化纤维的场所 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 乒乓球厂的轧坯、切片、磨球、分球检验部位 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 建筑面积大于60㎡或储存量大于2t的硝化棉、喷漆棉、火胶棉、赛璐珞胶片、硝化纤维库房 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 日装瓶数量大于3000瓶的液化石油气储配站的灌瓶间、实瓶库 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 雨淋灭火系统主要适用于需大面积喷水、快速扑灭火灾的特别危险场所。《建筑防火通用规范》（GB55037—2022）中规定下列建筑或部位应设置雨淋灭火系统。（1）火柴厂的氯酸钾压碾车间。（2）建筑面积大于100㎡且生产或使用硝化棉、喷漆棉、火胶棉、赛璐珞胶片、硝化纤维的场所。（3）乒乓球厂的轧坯、切片、磨球、分球检验部位。（4）建筑面积大于60㎡或储存量大于2t的硝化棉、喷漆棉、火胶棉、赛璐珞胶片、硝化纤维库房。（5）日装瓶数量大于3000瓶的液化石油气储配站的灌瓶间、实瓶库。（6）特等和甲等剧场的舞台葡萄架下部，座位数大于1500个的乙等剧场的舞台葡萄架下部，座位数大于2000个的会堂或礼堂的舞台葡萄架下部。（7）建筑面积大于或等于400㎡的演播室，建筑面积大于或等于500㎡的电影摄影棚。
+
+---
+
+
+
+#### 多选题 87
+
+雨淋灭火系统处于准工作状态时，哪些设备可以维持水源侧管道内充水的压力（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防水箱 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 稳压泵 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 气压给水设备 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 预作用报警阀</li>
+<li><strong>E.</strong> 火灾报警器</li>
+</ul>
+
+**解析：** 雨淋灭火系统处于准工作状态时，由消防水箱或稳压泵、气压给水设备等稳压设施维持水源侧管道内充水的压力。
+
+---
+
+
+
+#### 多选题 88
+
+防火分隔水幕由哪些组成（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 开式洒水喷头或水幕喷头 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 雨淋报警阀组 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 火灾自动报警系统或传动管控制</li>
+<li><strong>D.</strong> 特殊灭火剂、喷雾器等</li>
+<li class="correct-option"><strong>E.</strong> 感温雨淋报警阀 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 水幕系统由开式洒水喷头或水幕喷头、雨淋报警阀组或感温雨淋报警阀等组成
+
+---
+
+
+
+#### 多选题 89
+
+电气火灾监控系统由（ ）等组成。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 电气火灾监控设备 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 剩余电流式电气火灾监控探测器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 测温式电气火灾监控探测器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 故障电弧探测器 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 图形显示装置</li>
+</ul>
+
+**解析：** 电气火灾监控系统由电气火灾监控设备(也称为电气火灾监控器)、剩余电流式电气火灾监控探测器、测温式电气火灾监控探测器、故障电弧探测器等组成，能和消防控制室图形显示装置连接并上传信息。
+
+---
+
+
+
+#### 多选题 90
+
+消防工作的原则是( ) 。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 政府统一领导 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 部门依法监管 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 单位全面负责 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 公民积极参与 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 部门全面负责</li>
+</ul>
+
+**解析：** 消防工作按照政府统一领导、部门依法监管、单位全面负责、公民积极参与的原则，实行消防安全责任制，建立健全社会化的消防工作网络。
+
+---
+
+
+
+#### 多选题 91
+
+组成区域报警系统的组件主要有（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火灾探测器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 手动火灾报警按钮 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 火灾声光警报器 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 消防联动控制器</li>
+<li class="correct-option"><strong>E.</strong> 火灾报警控制器 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 区域报警系统的组件：火灾探测器， 手动火灾报警按钮， 火灾声光警报器， 火灾报警控制器。
+
+---
+
+
+
+#### 多选题 92
+
+城乡消防安全布局不符合消防安全要求的，应当（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 整顿</li>
+<li class="correct-option"><strong>B.</strong> 调整 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 改善</li>
+<li class="correct-option"><strong>D.</strong> 完善 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 改建</li>
+</ul>
+
+**解析：** 城乡消防安全布局不符合消防安全要求的，应当调整、完善。
+
+---
+
+
+
+#### 多选题 93
+
+机械加压送风系统主要由（ ）以及电气控制柜等组成。
+
+<ul class="question-options">
+<li><strong>A.</strong> 净化设备</li>
+<li class="correct-option"><strong>B.</strong> 送风机 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 风道 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 送风口 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 可开启外窗</li>
+</ul>
+
+**解析：** 机械加压送风系统主要由送风机、风道、送风口以及电气控制柜等组成。“净化设备”与机械加压送风系统并无关联，“可开启外窗”属于自然通风系统的组件，而不是机械加压送风系统组成部件。因此，“净化设备”和“可开启外窗”应当排除。结合题意，本题应选“送风机、风道、送风口”3个选项。
+
+---
+
+
+
+#### 多选题 94
+
+字符的格式化是指对文档中字符的（ ）进行选择和设定。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 字体 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 字形 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 字号 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 颜色 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 间距 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 字符格式化就是设置字符的字体、字形、字号、颜色及间距等进行设定和选择。
+
+---
+
+
+
+#### 多选题 95
+
+建筑火灾逃生避难器材按器材结构可分为（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 绳索类 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 滑道类 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 梯类 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 呼吸器类 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 灭火类</li>
+</ul>
+
+**解析：** 建筑火灾逃生避难器材按器材结构可分为绳索类、滑道类、梯类、呼吸器类。
+
+---
+
+
+
+#### 多选题 96
+
+消防控制室图形显示装置具备()等功能。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 显示建筑总平面布局图 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 显示每个保护对象的建筑平面图和系统图 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 火灾报警和联动状态显示 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 通信故障报警 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 信息记录 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防控制室图形显示装置的首要功能是显示建筑总平面布局图、每个保护对象的建筑平面图和系统图等。消防控制室图形显示装置还具备火灾报警和联动状态显示、通信故障报警、信息记录等功能。
+
+---
+
+
+
+#### 多选题 97
+
+通过可燃气体报警控制器报警信息确定报警类别和部位，下列说法正确的是 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 可以通过报警声音对报警类别进行判断 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 可以通过面板专用指示灯对报警类别进行判断 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 可以查看液晶显示屏显示内容确定可燃气体报警部位、报警时间、设备类型相关信息 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 可以通过液晶显示屏显示内容查看故障的时间、类型和位置等信息 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 可以通过查看系统设备编码与保护场所 (房间)对照表资料，确定报警部位 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 当处于正常监视状态的可燃气体报警控制器发生报警时，根据可燃气体报警控制器面板的各报警类型专用指示灯点亮情况和报警声信号形式，判断可燃气体报警控制器报警信号类别，然后进行消音操作。
+
+---
+
+
+
+#### 多选题 98
+
+计算机的安全工作环境包括 ()等方面
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 温度 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 湿度 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 电源 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 灰尘 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 震动和噪音、静电 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 计算机的安全工作环境需要满足哪几个方面的条件：(1)温度；(2)湿度；(3)电源；(4)灰尘；(5)振动和噪声；(6)静电。
+
+---
+
+
+
+#### 多选题 99
+
+下列工具中，可以用于清扫电话机表面和接线端子处的灰尘的有 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 吸尘器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 清洁的干软布 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 钢丝球</li>
+<li><strong>D.</strong> 湿巾</li>
+<li><strong>E.</strong> 清洁剂</li>
+</ul>
+
+**解析：** 用吸尘器、清洁的干软布等清除电话机表面、电话插孔内及所有接线端子处的灰尘。外壳标识不清晰或涂覆层脱落、起泡严重的，应进行涂补或更换外壳组件。
+
+---
+
+
+
+#### 多选题 100
+
+消防增（稳）压设施的保养项目包含（ ）等。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 机房环境检查 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 消防水箱保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 电气控制柜保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 稳压泵组保养 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 气压罐及供水附件保养 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防增（稳）压设施的保养项目包含机房环境检查；消防水箱保养；电气控制柜保养；稳压泵组保养；气压罐及供水附件保养等。结合题意：本题全选。
+
+---
+
+
+
+#### 多选题 101
+
+建筑一般由基础、墙或柱、（ ）、窗等组成。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 楼板 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 地坪 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 楼梯 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 屋面 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 门 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 建筑一般由基础、墙或柱、楼板、地坪、楼梯、屋面、门、窗等组成。
+
+---
+
+
+
+#### 多选题 102
+
+满足下列（ ）条件之一，即可认定为重大火灾。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 造成10人以上30人以下死亡 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 50人以上100人以下重伤 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 5 000万元以上1亿元以下直接财产损失 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 造成3人以上10人以下死亡</li>
+</ul>
+
+**解析：** 重大火灾：造成10人以上30人以下死亡，或者50人以上100人以下重伤，或者5000万元以上１亿元以下直接财产损失的火灾。
+
+---
+
+
+
+#### 多选题 103
+
+电气火灾监控系统主要由（ ）组成。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 电气火灾监控设备 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 剩余电流式电气火灾监控探测器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 测温式电气火灾监控探测器 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 图形显示装置</li>
+<li class="correct-option"><strong>E.</strong> 故障电弧探测器 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 电气火灾监控系统由电气火灾监控设备(也称为电气火灾监控器)、剩余电流式电气火灾监控探测器、测温式电气火灾监控探测器、故障电弧探测器等组成，能和消防控制室图形显示装置连接并上传信息。
+
+---
+
+
+
+#### 多选题 104
+
+消防控制室图形显示装置应具备 ()等功能。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火灾报警 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 联动状态显示 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 联动控制</li>
+<li class="correct-option"><strong>D.</strong> 通信故障报警 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 信息记录 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防控制室图形显示装置的首要功能是显示建筑总平面布局图、每个保护对象 的建筑平面图和系统图等。消防控制室图形显示装置还具备火灾报警和联动状态显示、通信故障报警、信息记录等功能。
+
+---
+
+
+
+#### 多选题 105
+
+下列关于医疗建筑中住院病房平面布置的说法，正确的是 ()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 不应布置在地下或半地下 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 对于三级耐火等级建筑，应布置在首层或二层 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 建筑内相邻护理单元之间应采用耐火极限不低于2.00h的防火隔墙和甲级防火门分隔 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 设置在I级木结构建筑中时，应布置在首层、二层或三层 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 当设置在II级木结构建筑中时，应布置在首层或二层 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 医疗建筑中住院病房的布置和分隔应符合下列规定。(1) 不应布置在地下或半地下。(2) 对于三级耐火等级建筑，应布置在首层或二层。(3 )建筑内相邻应采用耐火极限不低于2.00 h的防火隔墙和甲级 防火门分隔。当医疗建筑中住院病房设置在I级木结构建筑中时，应布置在首层、二层或三 层；当设置在II级木结构建筑中时，应布置在首层或二层。
+
+---
+
+
+
+#### 多选题 106
+
+按装配形式的不同，气体灭火系统分为()。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 管网灭火系统 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 预制灭火系统 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 全淹没灭火系统</li>
+<li><strong>D.</strong> 悬挂灭火系统</li>
+<li><strong>E.</strong> 外储压式灭火系统</li>
+</ul>
+
+**解析：** 气体灭火系统的分类可见，按装配形式不同分为管网灭火系统和预制灭火系统(柜式气体灭火装置)
+
+---
+
+
+
+#### 多选题 107
+
+集中控制器的历史信息包括 ()等。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火警信息 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 故障信息 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 反馈信息 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 操作信息 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 系统故障消息</li>
+</ul>
+
+**解析：** 集中控制器的历史信息包括火警信息、故障信息、反馈信息、操作信息等，最 多能记录999条相关信息，存满后新事件产生时覆盖最早的事件。
+
+---
+
+
+
+#### 多选题 108
+
+集中报警系统主要由火灾探测器、手动火灾报警按钮、火灾声光警报器、 ( )等组成
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防应急广播 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 消防专用电话 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 消防控制室图形显示装置 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 火灾报警控制器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 消防联动控制器 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 集中报警系统应由火灾探测器、手动火灾报警按钮、火灾声光警报器、消防专用电话、消防应急广播、消防控制室图形显示装置、火灾报警控制器、消防联动控制器等组成。
+
+---
+
+
+
+#### 多选题 109
+
+消防水池（水箱）应设置于（ ）的场所。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 便于维护 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 通风良好 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 不结冰 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 不受污染 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 空间较大</li>
+</ul>
+
+**解析：** 消防水池（水箱）应设置于便于维护、通风良好、不结冰、不受污染的场所。
+
+---
+
+
+
+#### 多选题 110
+
+管网气体灭火系统的启动方式有（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 自动控制 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 手动控制 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 机械应急操作 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 电动控制</li>
+<li><strong>E.</strong> 压力控制</li>
+</ul>
+
+**解析：** 气体灭火系统按装配形式的不同，分为管网灭火系统和预制灭火系统（亦称无管网灭火装置）。管网气体灭火系统有自动控制、手动控制和机械应急操作三种启动方式。预制灭火系统具有自动和手动两种控制方式。结合题意，本题应选“自动控制”、“手动控制”、“机械应急操作”3项，其他项均可排除。
+
+---
+
+
+
+#### 多选题 111
+
+发布火警要利用（ ）的方式发布火情信息。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 应急广播系统 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 警铃 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 喊话 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 室内电话 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 逐个通知</li>
+</ul>
+
+**解析：** 利用应急广播系统、警铃、室内电话等设施设备以及通过喊话等方式发布火警信息。
+
+---
+
+
+
+#### 多选题 112
+
+惰性气体灭火剂可以扑救（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 救灭火前可切断气源的气体火灾 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 液体火灾或固体火灾</li>
+<li class="correct-option"><strong>C.</strong> 石蜡、沥青等可熔化的固体火灾 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 成卷装或堆垛类的棉毛、织物、纸张等部分固体深位火灾 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 电气火灾 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 惰性气体灭火剂可以扑救灭火前可切断气源的气体火灾、石蜡、沥青等可熔化的固体火灾、成卷装或堆垛类的棉毛、织物、纸张等部分固体深位火灾以及电气火灾。
+
+---
+
+
+
+#### 多选题 113
+
+根据现场设备功能的不同，工作状态可分为（ ）、反馈等。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正常 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 火警 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 故障 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 启动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 屏蔽 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 根据现场消防设备功能的不同，工作状态可分为正常、火警、故障、启动、屏蔽、 反馈等。
+
+---
+
+
+
+#### 多选题 114
+
+直接手动控制单元主要是解决 ()等重要消防设施设备的手动直接控制。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防水泵 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 防烟风机 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 预作用阀组 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 排烟风机 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 消防电话</li>
+</ul>
+
+**解析：** 直接手动控制单元（也称多线控制盘）主要是解决消防水泵、防烟和排烟风机、预作用阀组等重要消防设施设备的手动直接控制。
+
+---
+
+
+
+#### 多选题 115
+
+集中报警系统中的火灾报警控制器、消防联动控制器和消防联动控制设备具有 ()控制状态。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 手动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 自动 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 联动</li>
+<li><strong>D.</strong> 联锁</li>
+<li><strong>E.</strong> 火警</li>
+</ul>
+
+**解析：** 集中报警系统中的火灾报警控制器、消防联动控制器和消防联动控制设备对各类受控消防设备的控制功能可以通过手动、自动两种方式完成。
+
+---
+
+
+
+#### 多选题 116
+
+水幕系统的适用范围是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 设置防火卷帘或防火幕等简易防火分隔物的上部 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 不能使用防火墙分隔的开口部位 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 相邻建筑物之间的防火间距不能满足要求时，建筑物外墙上的门、窗、洞口处 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 石油化工企业中的防火分区或生产装置、设备之间 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 其他需要进行水幕保护或防火隔断的部位 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 水幕系统的适用范围是：1.设置防火卷帘或防火幕等简易防火分隔物的上部2.不能使用防火墙分隔的开口部位（如舞台口）3.相邻建筑物之间的防火间距不能满足要求 时，建筑物外墙上的门、窗、洞口处4.石油化工企业中的防火分区或生产装置、设备之间5.其他需要进行水幕保护或防火隔断的部位
+
+---
+
+
+
+#### 多选题 117
+
+《公民道德建设实施纲要》明确提出，“（ ）、（ ）、（ ）、（ ）、（ ）” 是从业人员职业道德规范的主要内容。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 爱岗敬业 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 诚实守信 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 办事公道 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 热情服务 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 奉献社会 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 《新时代公民道德建设实施纲要》提出，爱岗敬业、诚实守信、办事公道、热情服务、奉献社会 是从业人员职业道德规范的主要内容。
+
+---
+
+
+
+#### 多选题 118
+
+关于查看可燃气体报警控制器报警信息确定报警部位，下列说法不正确的是 ( )。
+
+<ul class="question-options">
+<li><strong>A.</strong> 识别可燃气体报警控制器当前报警状态类别</li>
+<li><strong>B.</strong> 查看液晶显示器每条信息内容确定报警部位</li>
+<li class="correct-option"><strong>C.</strong> 查看报警信息的分区显示确定报警部位 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 手动操作查询其他未显示信息</li>
+<li class="correct-option"><strong>E.</strong> 查看对应总平面布局图和建筑平面图信息确定报警部位 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 查看可燃气体报警控制器报警信息确定报警部位：1.识别可燃气体报警控制器当前报警状态类别。2.查看液晶显示器每条信息内容，确定当前类别报警信息的数量、 发生报警的时间、设备类型、报警部位相关信息。3.手动操作査询其他未显示信息。
+
+---
+
+
+
+#### 多选题 119
+
+下列哪些物质易发生自燃( )。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 黄磷 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 硝化棉 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 活性炭 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 稻草 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 锯末 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 哪些物质容易发生自燃。其中包括有黄磷、硝化棉、活性炭、稻草、锯末等。
+
+---
+
+
+
+#### 多选题 120
+
+检查消防应急广播设备的主机外壳，确保消防应急广播设备的（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 产品标识清晰明显 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 机壳表面清洁 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 涂覆层脱落和起泡现象</li>
+<li class="correct-option"><strong>D.</strong> 无腐蚀现象 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 产品标识破损或脱落</li>
+</ul>
+
+**解析：** 检查消防应急广播设备的主机外壳，确保消防应急广播设备的产品标识清晰明显，机壳表面清洁，无腐蚀、涂覆层脱落和起泡现象。C选项缺一个“无”字故错误。
+
+---
+
+
+
+#### 多选题 121
+
+初起火灾扑救的基本原则有哪些（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 救人第一 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 先控制、后消灭 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 先重点、后一般 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 先求稳定、后求进攻</li>
+<li><strong>E.</strong> 小火可不管，等到变成大火再处理</li>
+</ul>
+
+**解析：** 初起火灾扑救的基本原则主要包括：救人第一，先控制、后消灭，先重点、后一般等原则。
+
+---
+
+
+
+#### 多选题 122
+
+当有限空间发生火灾时，可釆取哪些方法实现窒息灭火（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 封堵孔洞、门窗等方法 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 向封闭空间内注入惰性气体降低氧气浓度 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 将水喷洒到燃烧物表面降低温度</li>
+<li><strong>D.</strong> 将泡沫等灭火剂喷洒到燃烧物表面形成保护层</li>
+<li><strong>E.</strong> 关注空气流动情况，避免煽动火势</li>
+</ul>
+
+**解析：** 当有限空间发生火灾时，可釆取封堵孔洞、门窗等方法，阻止空气进入燃烧区域，或向封闭空间内注入惰性气体降低氧气浓度，以达到窒息灭火的效果。
+
+---
+
+
+
+#### 多选题 123
+
+下列物质中，( )火灾属于 B 类火灾。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 煤油 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 泡沫塑料制品</li>
+<li class="correct-option"><strong>C.</strong> 石蜡 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 运行中的电子计算机</li>
+<li><strong>E.</strong> 钠</li>
+</ul>
+
+**解析：** B类火灾是指液体或可熔化的固体物质火灾。例如，煤油、柴油、原油、 甲醇、乙醇、沥青、石蜡等物质火灾。扑救B类火灾应选用干粉、泡沫、卤代烷、 二氧化碳等灭火剂，扑救水溶性B类火灾不得选用化学泡沫灭火剂。
+
+---
+
+
+
+#### 多选题 124
+
+下列物质中，( )属于 A 类火灾
+
+<ul class="question-options">
+<li><strong>A.</strong> 石蜡</li>
+<li><strong>B.</strong> 钠</li>
+<li class="correct-option"><strong>C.</strong> 棉 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 沥青</li>
+<li class="correct-option"><strong>E.</strong> 木材 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** A类火灾是指固体物质火灾，这种物质通常具有有机物的性质，一般在燃 烧时能产生灼热的余烬。例如，木材、煤、棉、毛、麻、纸张等物质火灾。扑救 A类火灾应选用水系、泡沫、干粉等灭火剂。
+
+---
+
+
+
+#### 多选题 125
+
+除须建立专职消防队的重点单位外，其他设有消防控制室的重点单位应该采取哪些措施（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 依托单位志愿消防队伍 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 配备必要的消防器材 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 建立微型消防站 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 开展火灾事故调查</li>
+<li class="correct-option"><strong>E.</strong> 以救早、 灭小和3 min到场扑救初起火灾为目标 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 除须建立专职消防队的重点单位外，其他设有消防控制室的重点单位，以救早、灭小和3min到场扑救初起火灾为目标，依托单位志愿消防队伍，配备必要的消防器材，建立重点单位微型消防站，积极开展防火巡查和初起火灾扑救等火灾防控工作。合用消防控制室的重点单位，可联合建立微型消防站。
+
+---
+
+
+
+#### 多选题 126
+
+微型消防站应该配备哪些灭火器材和通信器材（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 灭火器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 水枪 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 水带 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 手持对讲机 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 一次性手套</li>
+</ul>
+
+**解析：** 微型消防站应根据扑救初起火灾需要，配备一定数量的灭火器、水枪、水带等灭火器材，配置外线电话、手持对讲机等通信器材。有条件的站点可选配消防头盔、灭火防护服、防护靴、破拆工具等器材。
+
+---
+
+
+
+#### 多选题 127
+
+微型消防站应该根据本社区扑救初起火灾的需要，配备哪些灭火器材和个人防护装备？
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防摩托车 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 灭火器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 水枪 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 水带 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 小型消防车 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 微型消防站应根据本社区扑救初起火灾的需要，配备消防摩托车和灭火器、水枪、水带等基本的灭火器材和个人防护装备。具备条件的，可选配小型消防车。
+
+---
+
+
+
+#### 多选题 128
+
+计算机具有哪些特性（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 运算速度快 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 计算精度高 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 具备复杂的逻辑判断能力 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 具有自动执行功能 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 具有主观意识和情感</li>
+</ul>
+
+**解析：** 计算机具有哪些特性：(1)运算速度快。(2)计算精度高。(3)具备复杂的逻辑判断能力。(4)具有自动执行功能。
+
+---
+
+
+
+#### 多选题 129
+
+计算机的安全工作环境需要满足哪几个方面的条件（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 温度 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 湿度 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 电源 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 灰尘 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 振动和噪音 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 计算机的安全工作环境需要满足哪几个方面的条件：(1)温度；(2)湿度；(3)电源；(4)灰尘；(5)振动和噪声；(6)静电。
+
+---
+
+
+
+#### 多选题 130
+
+计算机系统常见的输入设备有（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 字符输入设备 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 光学阅读设备 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 图形输入设备 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 图像输入设备 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 模拟输入设备 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 常见的输入设备有哪些：(1)字符输入设备；(2)光学阅读设备；(3)图形输入设备；(4)图像输入设备；(5)模拟输入设备。
+
+---
+
+
+
+#### 多选题 131
+
+在计算机系统中，用鼠标进行哪些操作可以实现对象的选择和编辑（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 定位 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 单击左键 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 单击右键 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 双击左键 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 拖动 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 鼠标有几种类型，(2)鼠标的操作：用鼠标进行定位、单击左键、单击右键、双击左键、拖动等操作，可实现对象的选择和编辑。
+
+---
+
+
+
+#### 多选题 132
+
+对于联动型火灾报警控制器，有时也把（ ）等传递的信号设为监管信号。
+
+<ul class="question-options">
+<li><strong>A.</strong> 水温过高信号</li>
+<li class="correct-option"><strong>B.</strong> 压力开关信号 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 末端试水信号</li>
+<li class="correct-option"><strong>D.</strong> 水流指示器信号 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 信号蝶阀信号 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 监管信号是指火灾报警控制器监视的除火灾报警、故障信号之外的其它输入信号。集中火灾报警控制器能直接或间接地接收来自除火灾报警、故障信号之外的其他输入信号，发出与火灾报警信号有明显区别的监管报警声、光信号。对于联动型火灾报警控制器，有时也把压力开关、水流指示器、信号蝶阀等传递的信号设为监管信号。结合题意，“水温过高信号”和“末端试水信号”项可排除，其他选项正确。
+
+---
+
+
+
+#### 多选题 133
+
+集中火灾报警控制器对火灾探测器等设备可以进行（ ）操作。当屏蔽后，控制器可以指示屏蔽部位。
+
+<ul class="question-options">
+<li><strong>A.</strong> 全回路屏蔽</li>
+<li class="correct-option"><strong>B.</strong> 解除屏蔽 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 取消屏蔽 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 释放 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 单独屏蔽 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 集中火灾报警控制器对火灾探测器等设备可以进行单独屏蔽、解除屏蔽（取消屏蔽、释放）操作。当屏蔽后，控制器可以指示屏蔽部位。结合题意，“全回路屏蔽”项可排除，其他选项正确。
+
+---
+
+
+
+#### 多选题 134
+
+机械加压送风系统主要由（ ）以及电气控制柜等组成。
+
+<ul class="question-options">
+<li><strong>A.</strong> 净化设备</li>
+<li class="correct-option"><strong>B.</strong> 送风机 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 风道 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 送风口 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 可开启外窗</li>
+</ul>
+
+**解析：** 机械加压送风系统主要由送风机、风道、送风口以及电气控制柜等组成。“净化设备”与机械加压送风系统并无关联，“可开启外窗”属于自然通风系统的组件，而不是机械加压送风系统组成部件。因此，“净化设备”和“可开启外窗”应当排除。结合题意，本题应选“送风机、风道、送风口”3个选项。
+
+---
+
+
+
+#### 多选题 135
+
+可燃气体探测报警系统由（ ）等组成。
+
+<ul class="question-options">
+<li><strong>A.</strong> 火焰探测器</li>
+<li class="correct-option"><strong>B.</strong> 可燃气体报警控制器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 图形显示装置</li>
+<li class="correct-option"><strong>D.</strong> 可燃气体探测器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 火灾声光警报器 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 可燃气体探测报警系统由可燃气体报警控制器、可燃气体探测器、火灾声光报警器组成，能够在保护区域内泄漏可燃气体的浓度低于爆炸下限的条件下提前报警，从而预防由于可燃气体泄漏引发的火灾和爆炸事故的发生，能与消防控制室图形显示装置连接并上传信息。老教材包含图形显示装置。
+
+---
+
+
+
+#### 多选题 136
+
+多线制控制盘的操作按钮与消防泵组（喷淋泵组、消火栓泵组）、防烟和排烟风机的控制柜控制按钮直接用（ ）连接，实现对现场设备的手动控制。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 控制线 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 总线制控制盘</li>
+<li><strong>C.</strong> 总线制控制模块</li>
+<li class="correct-option"><strong>D.</strong> 控制电缆 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 输入输出模块</li>
+</ul>
+
+**解析：** 火灾报警控制器（联动型）多线制控制盘也称作多线制手动控制盘或直接手动控制盘。多线控制盘的操作按钮与消防泵组（喷淋泵组、消火栓泵组）、防烟和排烟风机的控制柜控制按钮直接用控制线或控制电缆连接，实现对现场设备的手动控制。结合题意，本体应选“控制线”、“控制电缆”，其他项均可排除。
+
+---
+
+
+
+#### 多选题 137
+
+应急照明控制器是控制并显示（ ）等工作状态的装置。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 集中控制型消防应急灯具 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 应急照明集中电源 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 应急照明配电箱及相关附件 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 消防紧急照明灯具</li>
+<li><strong>E.</strong> 非集中控制型消防应急灯具</li>
+</ul>
+
+**解析：** 应急照明控制器是控制并显示集中控制型消防应急灯具、应急照明集中电源、应急照明配电箱及相关附件等工作状态的装置。结合题意，本题应排除“消防紧急照明灯具”、“非集中控制型消防应急灯具”2项，其他选项均正确。
+
+---
+
+
+
+#### 多选题 138
+
+活动挡烟垂壁可通过以下方式开启：（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火灾自动报警系统自动开启 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 消防控制室手动开启 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 现场手动开启 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 远程机械应急操作开启</li>
+<li><strong>E.</strong> 火灾声光警报器联动开启</li>
+</ul>
+
+**解析：** 为了确保机械排烟系统的有效、及时和可靠，与常闭排烟阀（口）一样，要求活动挡烟垂壁、自动排烟窗设有火灾自动报警系统联动、消防控制室远程和就地手动启动功能，当火灾确认后，为了及时形成储烟仓，要求火灾自动报警系统应在15s内联动相应防烟分区的全部活动挡烟垂壁，同时为保证排烟面积的到位，要求在60s内或小于烟气充满储烟仓的时间内开启完毕自动排烟窗。结合题意，“远程机械应急操作开启”和“火灾声光警报器联动开启”项可排除，其他选项均正确。
+
+---
+
+
+
+#### 多选题 139
+
+机械排烟系统中的常闭排烟阀或排烟口应具有（ ）功能，其开启信号应与排烟风机联动。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 火灾自动报警系统自动开启 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 消防控制室手动开启 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 现场手动开启 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 远程机械应急操作开启</li>
+<li><strong>E.</strong> 火灾声光警报器联动开启</li>
+</ul>
+
+**解析：** 机械排烟系统应与火灾自动报警系统联动，机械排烟系统中的常闭排烟阀（口）应设置火灾自动报警系统联动开启功能和就地开启的手动装置，并与排烟风机联动。结合题意，“远程机械应急操作开启”和“火灾声光警报器联动开启”项可排除，其他选项均正确。
+
+---
+
+
+
+#### 多选题 140
+
+加压送风机可通过（ ） 方式控制。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 现场手动启动 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 机械应急启动</li>
+<li class="correct-option"><strong>C.</strong> 通过火灾自动报警系统自动启动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 消防控制室手动启动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 系统中任一常闭加压送风口开启时，加压风机自动启动 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 本题考查考生对防烟排烟系统组件的操作与控制知识点的掌握情况。加压送风机可通过以下方式控制：①现场手动启动；②通过火灾自动报警系统自动启动；③消防控制室手动启动；④系统中任一常闭加压送风口开启时，加压风机自动启动。结合题意，本题“机械应急启动”1项可排除，其他4项均正确。
+
+---
+
+
+
+#### 多选题 141
+
+发生火灾时，普通照明等非消防电源可能会被切断，为确保人员疏散和正常消防作业，需要设置（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防应急照明 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 备用照明</li>
+<li><strong>C.</strong> 疏散照明</li>
+<li><strong>D.</strong> 安全照明</li>
+<li class="correct-option"><strong>E.</strong> 疏散指示系统 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防应急照明和疏散指示系统是一种辅助人员安全疏散的建筑消防系统，由消防应急照明灯具、消防应急标志灯具及相关装置构成，其主要功能是在火灾等紧急情况下，为人员的安全疏散和灭火救援行动提供必要的照度条件及正确的疏散指示信息。避难间（层）及配电室、消防控制室、消防水泵房、自备发电机房等发生火灾时仍需工作、值守的区域，应同时设置备用照明、疏散照明和疏散指示标志，也就是说备用照明不应代替消防应急照明。结合题意，本题应排除“备用照明”、“疏散照明”和“安全照明”项，其他选项均正确。
+
+---
+
+
+
+#### 多选题 142
+
+火灾显示盘按供电方式分为（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 直流供电型 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 强电供电型</li>
+<li><strong>C.</strong> 弱电供电型</li>
+<li><strong>D.</strong> 无线供电型</li>
+<li class="correct-option"><strong>E.</strong> 交流供电型 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾显示盘按供电方式分为直流供电型和交流供电型两类。直流供电型火灾显示盘通常采用DC24V，由火灾报警控制器或独立的消防应急电源来供电；交流供电型火灾显示盘由交流电源供电，具有主/备电自动转换、备用电源自动充电、电源故障监测和电源工作状态指示等功能。结合题意，“强电供电型”、“弱电供电型”和“无线供电型”项可排除，其他选项正确。
+
+---
+
+
+
+#### 多选题 143
+
+实施电梯紧急迫降操作，可分别设定（ ）等工作情形，观察紧急迫降功能启动后的电梯运行情况。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 电梯非指定层停靠 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 驶离指定层 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 驶向指定层 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 驶向避难层</li>
+<li><strong>E.</strong> 驶离避难层</li>
+</ul>
+
+**解析：** 实施电梯紧急迫降操作，应事先发布通知，并在电梯无人使用的情况下进行。可分别设定电梯非指定层停靠、驶离指定层、驶向指定层等工作情形，观察紧急迫降功能启动后的电梯运行情况。结合题意，本题应选择“电梯非指定层停靠”、“驶离指定层”、“驶向指定层”，其他项均可排除。
+
+---
+
+
+
+#### 多选题 144
+
+火灾报警控制器（联动型）总线控制盘每个操作按钮对应一个控制输出，控制（ ）等消防设备的启动，可根据需要按下目标操作按钮启动对应的消防设备。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 消防广播 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 防火卷帘 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 常闭型防火门</li>
+<li class="correct-option"><strong>D.</strong> 非消防电源 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 消防电梯 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾报警控制器（联动型）总线控制盘每个操作按钮对应一个控制输出，控制火灾声光警报器、消防广播、加压送风口、加压送风机、排烟阀、排烟机、防火卷帘、常开型防火门、非消防电源和电梯等消防设备的启动，可根据需要按下目标操作按钮启动对应的消防设备。结合题意，“常闭型防火门”应为“常开型防火门”项可排除，其他选项正确。
+
+---
+
+
+
+#### 多选题 145
+
+防火卷帘具有现场手动电控、自动控制、（ ）、现场机械控制和限位控制等几种主要控制方式。
+
+<ul class="question-options">
+<li><strong>A.</strong> 人工现场控制</li>
+<li class="correct-option"><strong>B.</strong> 消防控制室远程手动控制 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 速放控制 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 人为破拆控制</li>
+<li class="correct-option"><strong>E.</strong> 温控释放控制 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 防火卷帘具有现场手动电控、自动控制、消防控制室远程手动控制、温控释放控制、速放控制、现场机械控制和限位控制等几种主要控制方式。结合题意，本题应排除“人工现场控制”和“人为破拆控制”项，其他选项均正确。
+
+---
+
+
+
+#### 多选题 146
+
+机械排烟系统中的排烟风机、补风机的控制方式正确的是（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 现场手动启动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 火灾自动报警系统自动启动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 消防控制室手动启动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 系统中任一排烟阀或排烟口开启时，排烟风机、补风机自动启动 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 排烟防火阀在280℃时应自行关闭，并应连锁关闭排烟风机和补风机 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 机械排烟系统应与火灾自动报警系统联动，排烟风机及其补风机的控制方式除就地启动和火灾报警系统联动启动外，还应具有消防控制室内直接控制启动和系统中任一排烟阀（口）开启后联动启动，目的是确保排烟系统不受其他因素的影响，提高系统的可靠性。结合题意，本题应全选。
+
+---
+
+
+
+#### 多选题 147
+
+防火门监控器控制功能应能接收来自火灾自动报警系统的火灾报警信号，并在30s内向（ ）发出启动信号，点亮启动总指示灯。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 电动闭门器 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 电磁释放器 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 顺序器</li>
+<li><strong>D.</strong> 门磁开关</li>
+<li><strong>E.</strong> 防火铰链</li>
+</ul>
+
+**解析：** 防火门监控器应能接收来自火灾自动报警系统的火灾报警信号，并在30s内向电动闭门器或电磁释放器发出启动信号，点亮启动总指示灯。结合题意，本题应排除“顺序器”、“门磁开关”和“防火铰链”，其他选项均正确。
+
+---
+
+
+
+#### 多选题 148
+
+线型光束感烟火灾探测器分为（ ）火灾探测器。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 激光光束 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 线式多点型</li>
+<li class="correct-option"><strong>C.</strong> 红外光束 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 对射型</li>
+<li><strong>E.</strong> 反射型</li>
+</ul>
+
+**解析：** 线型光束感烟火灾探测器分为激光光束线型感烟火灾探测器和红外光束线型感烟火灾探测器两种类型，目前广泛使用的是红外光束线型感烟火灾探测器。红外光束线型感烟火灾探测器又分为对射型和反射型两种。结合题意，“线式多点型” 、“对射型”和“反射型”项可排除，其他选项正确。
+
+---
+
+
+
+#### 多选题 149
+
+应急照明控制器应能（ ）火灾报警控制器的火灾报警输出信号。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 接收 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 存储</li>
+<li><strong>C.</strong> 输入</li>
+<li class="correct-option"><strong>D.</strong> 保持 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 显示 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 应急照明控制器是控制并显示集中控制型消防应急灯具、应急照明集中电源、应急照明配电箱及相关附件等工作状态的装置。具有两种及以上疏散指示方案场所中设置的应急照明控制器还应能接收、显示、保持消防联动控制器发出的火灾报警区域信号或联动控制信号。结合题意，本题应排除“存储”、“输入”项，其他选项均正确。
+
+---
+
+
+
+#### 多选题 150
+
+消防应急广播的基本功能包括：（ ）。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 故障报警功能 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 自检功能 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 应急广播功能 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 电源功能 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 屏蔽功能</li>
+</ul>
+
+**解析：** 消防应急广播的基本功能包括应急广播功能、故障报警功能、自检功能、电源功能。结合题意，“屏蔽功能”项可排除，其他选项均正确。
+
+---
+
+
+
+#### 多选题 151
+
+特级防火卷帘主要包括（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 钢质防火卷帘</li>
+<li><strong>B.</strong> 无机纤维防火卷帘</li>
+<li class="correct-option"><strong>C.</strong> 无机特级防火卷帘 <span class="correct-badge">正确</span></li>
+<li><strong>D.</strong> 普通防火卷帘</li>
+<li class="correct-option"><strong>E.</strong> 水雾式钢质特级防火卷帘 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 特级防火卷帘是指用钢质材料或无机纤维材料做帘面，用钢质材料做导轨、座板、夹板、门楣、箱体等，并配以卷门机和控制箱所组成的能符合耐火完整性、隔热性和防烟性能要求的卷帘。特级防火卷帘可以应用于防火分隔部位，局部代替防火墙或防火隔墙。主要包括无机特级防火卷帘和水雾式（汽雾式）钢质特级防火卷帘。结合题意，本题应排除“无机纤维复合防火卷帘”、“钢质防火卷帘”和“普通防火卷帘”项，其他选项均正确。
+
+---
+
+
+
+#### 多选题 152
+
+适用于干式自动喷水灭火系统的喷头包括（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 通用型</li>
+<li><strong>B.</strong> 下垂型</li>
+<li class="correct-option"><strong>C.</strong> 直立型 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 干式下垂型 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 水幕喷头</li>
+</ul>
+
+**解析：** 为便于系统在灭火或维修后恢复准工作状态之前排尽管道中的积水，同时有利于在系统启动时排气，要求干式、预作用系统的喷头采用直立型喷头或干式下垂型喷头。结合题意，“下垂型”、“通用型”和“水幕喷头”项可排除，其他选项正确。
+
+---
+
+
+
+#### 多选题 153
+
+排烟系统主要有以下种类：（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 自然通风方式</li>
+<li><strong>B.</strong> 机械加压送风方式</li>
+<li class="correct-option"><strong>C.</strong> 自然排烟系统 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 机械排烟系统 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 烟囱排烟方式</li>
+</ul>
+
+**解析：** 排烟系统是指采用自然排烟或机械排烟的方式，将房间、走道等空间的火灾烟气排至建筑物外的系统，分为自然排烟系统和机械排烟系统。自然排烟是指利用火灾热烟气流的浮力和外部风压作用，通过建筑开口将建筑内的烟气直接排至室外的排烟方式。结合题意，“自然通风方式”、“机械加压送风方式”和“烟囱排烟方式”项可排除，其他选项均正确。
+
+---
+
+
+
+#### 多选题 154
+
+我国建筑材料及制品燃烧性能等级划分充分考虑了（）等燃烧特性要素。
+
+<ul class="question-options">
+<li><strong>A.</strong> 人员伤亡率</li>
+<li class="correct-option"><strong>B.</strong> 燃烧的热值 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 火灾发展率 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 烟气产生率 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 重复使用率</li>
+</ul>
+
+**解析：** 我国建筑材料及制品燃烧性能等级划分充分考虑了燃烧的热值、火灾发展率、烟气产生率等燃烧特性要素
+
+---
+
+
+
+#### 多选题 155
+
+下列属于A级材料的是：（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 大理石 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> 玻璃 <span class="correct-badge">正确</span></li>
+<li><strong>C.</strong> 水泥刨花板</li>
+<li><strong>D.</strong> 硬PVC塑料地板</li>
+<li class="correct-option"><strong>E.</strong> 钢材 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** A级不燃材料（制品）在空气中遇明火或高温作用时不起火、不微燃、不炭化，如大理石、玻璃、钢材、混凝土石膏板、铝塑板、金属复合板等。
+
+---
+
+
+
+#### 多选题 156
+
+我国建筑材料及制品燃烧性能分为（）等级
+
+<ul class="question-options">
+<li><strong>B.</strong> A1</li>
+<li class="correct-option"><strong>C.</strong> B1 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> B2 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> B3 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 我国建筑材料及制品燃烧性能分为A、B1、B2、B3四个等级。
+
+---
+
+
+
+#### 多选题 157
+
+下列属于B2级材料的是（）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 难燃胶合板</li>
+<li class="correct-option"><strong>B.</strong> 天然木材 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 胶合板 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 半硬质PVC塑料地板 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 玻璃</li>
+</ul>
+
+**解析：** B2级可燃材料（制品）在空气中遇明火或高温作用时立即起火、微燃或炭化，火源移走后燃烧或微燃仍继续。如天然木材、胶合板、人造革、墙布、半硬质PVC塑料地板等。
+
+---
+
+
+
+#### 多选题 158
+
+下列属于B1级材料的有：（）
+
+<ul class="question-options">
+<li><strong>A.</strong> 铝塑板</li>
+<li><strong>B.</strong> 半硬质PVC塑料地板</li>
+<li class="correct-option"><strong>C.</strong> 水泥刨花板 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 矿棉板 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>E.</strong> 硬PVC塑料地板 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** B1级难燃材料（制品）在空气中遇明火或高温作用时难起火、难微燃、难炭化，火源移走后燃烧或微燃停止。如水泥刨花板、矿棉板、难燃木材、难燃胶合板、难燃聚氯乙烯塑料、硬PVC塑料地板等。
+
+---
+
+
+
+#### 多选题 159
+
+建筑材料按照燃烧性能不同分为( )
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> A级不燃材料 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>B.</strong> B1级难燃材料 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> B2级普通可燃材料 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> B3级易燃材料 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> D非燃材料</li>
+</ul>
+
+**解析：** 建筑材料按照燃烧性能不同分为：A不燃材料、B1难燃材料、B2可燃材料、B3易燃材料
+
+---
+
+
+
+#### 多选题 160
+
+下列不属于A级材料的是（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 玻璃</li>
+<li class="correct-option"><strong>B.</strong> 胶合板 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>C.</strong> 矿棉板 <span class="correct-badge">正确</span></li>
+<li class="correct-option"><strong>D.</strong> 人造革 <span class="correct-badge">正确</span></li>
+<li><strong>E.</strong> 金属复合板</li>
+</ul>
+
+**解析：** A级不燃材料（制品）在空气中遇明火或高温作用时不起火、不微燃、不炭化，如大理石、玻璃、钢材、混凝土石膏板、铝塑板、金属复合板等。
+
+---
+
+## 三、判断题
+
+
+
+#### 判断题 1
+
+火灾探测报警产品的使用或管理单位应根据产品使用场所环境及产品保养要求制订保养计划。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 产品的使用或管理单位应根据产品使用场所环境及产品保养要求制订保养计划。保养计划应包括需保养产品的具体名称、保养内容和周期。
+
+---
+
+
+
+#### 判断题 2
+
+排烟风机处于主电源供电状态时，电气控制柜的主电源指示灯常亮，备用电源指示灯熄灭。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 1.查看电气控制柜的控制状态(1) 检查确认主电源正常检查送风机电气控制柜的供电状态，查看并确认主电源供电状态下主电源指示 灯点亮，通过钥匙打开电气控制柜面板，将双电源转换开关切换至自动控制状态，断开 主电源开关，查看电气控制柜是否由主电源工作状态转换为备用电源工作状态，观 察主电源指示灯是否熄灭，备用电源指示灯是否点亮。在备用电源工作状态下，恢 复主电源供电，查看电气控制柜是否自动转换为主电源工作状态，观察备用电源指 示灯是否熄灭，主电源指示灯是否重新点亮。
+
+---
+
+
+
+#### 判断题 3
+
+目前很多集中控制器与消防专用电话总机、消防应急广播控制装置等消防联动控制设备设计在同一箱体内。 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 目前很多集中控制器还与消防专用 电话总机、消防应急广播控制装置等消防联动控制设备设计在同一箱体内。
+
+---
+
+
+
+#### 判断题 4
+
+接收到监管报警信号后，集中控制器的声信号与火灾报警声信号有区别，通常可独立设置监管声报警类型(一般采用警车警报器音调)，不可选用故障声报警类型。()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 监管报警信号是具有监管功能的集中控制器接收除火灾报警、故障信号、联动 控制信号之外的其他输入信号时，应在100 s内发出的报警声、光信号。监管报警 信号只接入集中控制器的输入信号，但这些信号不是火灾报警系统内部应具有的信 号，如水位监测、防盗探测、压力、温度、空调等各类信号。接收到监管报警信号 后，集中控制器的声信号与火灾报警声信号有区别，通常可独立设置监管声报警类 型（一般采用警车警报器音调），也可选用故障声报警类型。集中控制器应设专用 监管报警状态总指示灯，无论集中控制器处于何种状态，只要有监管报警信号输入, 该监管报警状态总指示灯应点亮。
+
+---
+
+
+
+#### 判断题 5
+
+消防控制室图形显示装置可以对相关控制设备进行复位、系统设定以及联动设备的启动和停止等操作。 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防控制室图形显示装置作为一个信息显示、查 询、管理和传送的装置，不能对相关控制设备进行复位、系统设定以及联动设备的 启动和停止等操作。
+
+---
+
+
+
+#### 判断题 6
+
+当消防控制室设置有消防应急广播控制装置、消防电话总机等消防设备，就可以确认该保护对象设置的火灾报警控制器属于集中火灾报警控制器。（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 目前很多集中控制器还与消防专用电话总机、消防应急广播控制装置等消防联动控制设备设计在同一箱体内。
+
+---
+
+
+
+#### 判断题 7
+
+将拆卸的火灾探测器探头重新安装到底座上，火灾报警控制器和火灾显示盘应恢复正常监视状态。 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 将拆卸的火灾探测器探头重新安装到底座上，火灾报警控制器和火灾显示盘应恢复正常监视状态。
+
+---
+
+
+
+#### 判断题 8
+
+在石油库中，地上固定顶储罐、内浮顶储罐和地上卧式储罐应设低倍数泡沫灭火系统或中倍数泡沫灭火系统。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析(*)：** 题干列举的石油库储罐属于应设置低倍数或中倍数泡沫灭火系统的对象，因此判断为正确。
+
+---
+
+
+
+#### 判断题 9
+
+风机电气控制柜的保养周期是每半年一次。
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 风机电气控制柜的保养周期是每季度一次。
+
+---
+
+
+
+#### 判断题 10
+
+对送风机进行保养前，应先断开主电源。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 1.送风机的保养(1)断开主电源，挂上安全标志牌，检查电动机接地是否良好
+
+---
+
+
+
+#### 判断题 11
+
+挡烟垂壁的保养周期是每季度一次。()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 送风口、排风口、排烟防火阀、挡烟垂壁的保养周期为每半年一次。
+
+---
+
+
+
+#### 判断题 12
+
+通过直接手动控制单元手动停止送风机后，应恢复直接手动控制单元的“手动禁止”操作权限。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 确认送风机电气控制柜处于“自动”运行模式，进入直接手动控制单元（也称多线控制盘）的“手动允许”操作权限，按下送风机启动按钮，送风机启动后，观察反馈信号指示灯是否点亮；再次按下送风机启动按钮，观察送风机是否停止，送风机停止后反馈信号指示灯应熄灭；恢复直接手动控制单元的“手动禁止”操作权限。
+
+---
+
+
+
+#### 判断题 13
+
+当风机电气控制柜的双电源转换开关控制按钮处于“手动”位置时，只能通过人工进行供电状态切换。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 控制柜内设有双电源转换开关，当控制按钮处于“自动”位置时，主电源发生故障后备用电源自动启用，主电源恢复后, 自动切回主电源供电；当控制按钮处于“手动”位置时，只能通过人工进行切换。
+
+---
+
+
+
+#### 判断题 14
+
+当手/自动转换开关处于“手动”位置时，风机可以通过电气控制柜启/停按钮现场控制，消防控制室远程手动控制仍然有效。
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 当手动/自动转换 开关处于“手动”位置时，风机只能通过风机控制柜启动或停止按钮现场控制，消防控制室远程手动和自动联动控制均失效；当开关处于“自动”位置时，则相反。
+
+---
+
+
+
+#### 判断题 15
+
+建筑材料的燃烧性能是指材料燃烧或遇火时所发生的一切化学变化。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 建筑材料的燃烧性能是指材料燃烧或遇火时所发生的一切物理和化学变化，该性能由材料表面的着火性和火焰传播性、发热、发烟、炭化以及毒性生成物的产生等特性来衡量。
+
+---
+
+
+
+#### 判断题 16
+
+疏散出口门应能在关闭后从任何一侧手动开启。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 疏散出口门应能在关闭后从任何一侧手动开启。
+
+---
+
+
+
+#### 判断题 17
+
+建筑高度大于 54 m 但不大于 100 m 的住宅建筑，其公共部位应设置火灾自动报警系统。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 建筑高度大于 54 m 但不大于 100 m 的住宅建筑，其公共部位应设置火灾自动报警系统。
+
+---
+
+
+
+#### 判断题 18
+
+水喷雾灭火系统可用于扑救丙类液体火灾。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 水喷雾灭火系统可用于扑救固体物质火灾、丙类液体火灾、饮料酒火灾和电气火灾，并可用于可燃气体和甲、乙、丙类液体的生产、储存装置或装卸设施的防护冷却。
+
+---
+
+
+
+#### 判断题 19
+
+电气设备发生火灾可以用干粉灭火剂、二氧化碳灭火剂灭火（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 电气设备发生火灾可以用干粉灭火剂、二氧化碳灭火剂灭火。
+
+---
+
+
+
+#### 判断题 20
+
+疏散楼梯间的前室或合用前室应设置疏散照明。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 疏散楼梯间的前室或合用前室应设置疏散照明。
+
+---
+
+
+
+#### 判断题 21
+
+所谓程序，就是为解决某一问题而设计的一系列有序的指令或语句的集合。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 所谓程序，就是为解决某一问题而设计的一系列有序的指令或语句的集合。
+
+---
+
+
+
+#### 判断题 22
+
+触电方式分为：单相触电，双相触电和三相触电。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 触电方式分为：单相触电，双相触电和跨步电压触电。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 23
+
+大数据是指数据量巨大，需要结合新的技术手段，来处理、分析、利用这些数据，挖掘其中的价值。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 大数据是指数据量巨大，需要结合新的技术手段，来处理、分析、利用这些数据，挖掘其中的价值。
+
+---
+
+
+
+#### 判断题 24
+
+当有两个及以上消防控制室时，各分消防控制室内消防设备之间可互相传输、显示状态信息，并能互相控制。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 当有两个及以上消防控制室时，各分消防控制室内消防设备之间可互相传输、显示状态信息，但不能互相控制。
+
+---
+
+
+
+#### 判断题 25
+
+按照燃烧发生瞬间的特点，燃烧可分为起火和爆炸两种类型。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 按照燃烧发生瞬间所具有特点的不同，燃烧可分为起火和爆炸两种类型。
+
+---
+
+
+
+#### 判断题 26
+
+消防工作的中心任务是做好灭火及综合性救援工作。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防工作的中心任务是防范火灾发生,一且发生火灾要做到“灭得了”，最大限度地减少火灾造成的人员伤亡和财产损失，全力保障人民群众安居乐业和经济社会安全发展。
+
+---
+
+
+
+#### 判断题 27
+
+客梯或货梯不可兼作消防电梯。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 客梯或货梯满足要求可以兼作消防电梯。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 28
+
+挡烟垂壁按安装方式可分为固定式挡烟垂壁和活动式挡烟垂壁。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 挡烟垂壁按安装方式可分为固定式挡烟垂壁和活动式挡烟垂壁。
+
+---
+
+
+
+#### 判断题 29
+
+气体可燃物的燃烧速率大于固体和液体。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 可燃气体的燃烧不需像固体、液体那样经过熔化、分解、蒸发等过程，而是在常温常压下就能与氧化剂相互混合扩散，当混合气体达到一定浓度后，遇到引火源即可发生燃烧或爆炸，因此，可燃气体的燃烧速率大于固体和液体的。
+
+---
+
+
+
+#### 判断题 30
+
+总线控制一般采用独立的手动控制单元，每个控制单元通过直接连接的导线和控制模块对应控制一个受控消防设备，属于点对点控制方式。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防联动控制器常用的联动控制方式主要有“自动控制和手动控制”、“直接控制和间接控制”、“总线控制和直线控制”等3种。总线控制是指在总线上配接消防联动模块，当消防联动控制器接收到火灾报警信号并满足预设的逻辑时，发出启动信号，通过总线上所配接的控制模块完成消防联动控制功能。直线控制一般采用多线控制，即采用独立的手动控制单元，每个控制单元通过直接连接的导线和控制模块对应控制一个受控消防设备，属于点对点控制方式。
+
+---
+
+
+
+#### 判断题 31
+
+手动火灾报警按钮是通过自动或手动方式产生火灾报警信号、启动火灾自动报警系统的器件。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 手动火灾报警按钮是通过手动启动器件发出火灾报警信号的装置，结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 32
+
+建筑高度大于250m的民用建筑应接入城市消防远程监控系统。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 建筑高度大于250m的民用建筑应接入城市消防远程监控系统。
+
+---
+
+
+
+#### 判断题 33
+
+垂直式防火卷帘包括卷筒式和提升式。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 垂直式防火卷帘包括卷筒式和提升式。
+
+---
+
+
+
+#### 判断题 34
+
+氟蛋白泡沫灭火剂可用于液下喷射灭火，也可以与干粉灭火剂联用（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 氟蛋白泡沫灭火剂可用于液下喷射灭火，也可以与干粉灭火剂联用。
+
+---
+
+
+
+#### 判断题 35
+
+有大量粉尘、水雾滞留的场所宜选择线型光束感烟火灾探测器。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 1. 线型光束感烟火灾探测器：（1） 无遮挡的大空间或有特殊要求的房间，宜选择线型光束感烟火灾探测器。（2） 符合下列条件之一的场所，不宜选择线型光束感烟火灾探测器：1） 有大量粉尘、水雾滞留的场所。2） 可能产生蒸气和油雾的场所。3） 在正常情况下有烟滞留的场所。4） 固定探测器的建筑结构由于振动等原因会产生较大位移的场所。
+
+---
+
+
+
+#### 判断题 36
+
+报警阀组是使水能够自动单方向流入喷水系统配水管道同时进行报警的阀组。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 报警阀组是湿式、干式自动喷水灭火系统的重要组成部件。报警阀组是使水能够自动单方向流入喷水系统配水管道同时进行报警的阀组。
+
+---
+
+
+
+#### 判断题 37
+
+点型火灾探测器的确认灯应面向便于人员核查的主要入口方向。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 点型火灾探测器的确认灯应面向便于人员核查的主要入口方向。
+
+---
+
+
+
+#### 判断题 38
+
+气体灭火系统适用于扑救电气火灾。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 气体灭火系统适用于扑救电气火灾、固体表面火灾、液体火灾、灭火前能切断气源的气体火灾。
+
+---
+
+
+
+#### 判断题 39
+
+按照火灾事故所造成的灾害损失程度，火灾分为重大火灾、较大火灾和一般火灾3个等级。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 按照火灾事故所造成的灾害损失程度，火灾分为特别重大火灾、重大火灾、较大火灾和一般火灾4个等级。
+
+---
+
+
+
+#### 判断题 40
+
+座板的功能是在防火卷帘下放后封堵洞口，阻止火灾蔓延和控制烟雾扩散。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 帘板（面）的功能是在防火卷帘下放后封堵洞口，阻止火灾蔓延和控制烟雾扩散。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 41
+
+一台集中火灾报警控制器(联动型)可以设置多个总线控制盘。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 一台集中火灾报警控制器(联动型)可以设置多个总线控制盘。
+
+---
+
+
+
+#### 判断题 42
+
+对于一些需要及时操作的受控消防设备，可以通过多线控制盘进行控制。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 对于一些需要及时操作的受控消防设备，可以通过总线控制盘进行控制。
+
+---
+
+
+
+#### 判断题 43
+
+封闭楼梯间应采取防烟措施。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 下列部位应设置防烟措施：（1）封闭楼梯间。（2）防烟楼梯间及其前室。（3）消防电梯的前室或合用前室。（4）避难层、避难间。（5）避难走道的前室 地铁工程中的避难走道。
+
+---
+
+
+
+#### 判断题 44
+
+接通电源后，集中火灾报警控制器根据系统状况可以发出火警、联动、监管、屏蔽和故障报警等信号。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 集中火灾报警控制器接通电源后，集中火灾报警控制器根据系统状况可以发出火警、联动、监管、屏蔽和故障报警等信号。结合题意，本题正确。
+
+---
+
+
+
+#### 判断题 45
+
+导体的电阻是客观存在的，是由本身决定的，与电阻本身的电阻率和尺寸大小有关。 （ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 理想电阻元件是指能够消耗电能的元件，在一定的温度下，其电阻值与材料的长度成正比，与材料的电阻率成正比，与材料的截面积成反比。
+
+---
+
+
+
+#### 判断题 46
+
+自燃点是指在规定的条件下可燃物发生自燃的最低温度，可燃物的自燃点越低，发生火灾的危险性就越小。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 自燃点是指在规定的条件下可燃物发生自燃的最低温度 可燃物的自燃点越低，发生火灾的危险性就越大。
+
+---
+
+
+
+#### 判断题 47
+
+当有两个及以上消防控制室时,主消防控制室应能显示所有火灾报警信号和联动控制状态信号，并应能控制重要的消防设备,并显示其状态信息。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 当有两个及以上消防控制室时,主消防控制室应能显示所有火灾报警信号和联动控制状态信号，并应能控制重要的消防设备,并显示其状态信息。
+
+---
+
+
+
+#### 判断题 48
+
+集中火灾报警控制器的自检功能会影响非自检部位、探测区和控制器本身的火灾报警功能。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 集中火灾报警控制器的自检功能也不能影响非自检部位、探测区和控制器本身的火灾报警功能。
+
+---
+
+
+
+#### 判断题 49
+
+墙壁式消防水泵接合器可以安装在玻璃幕墙下方。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 墙壁式消防水泵接合器的安装应符合设计要求。设计无要求时，其安装高度距地面宜为0.7m。与墙面上的门、窗、孔、洞的净距离不应小于2.0m，且不应安装在玻璃幕墙下方。
+
+---
+
+
+
+#### 判断题 50
+
+集中报警系统适用于不仅需要报警，同时需要联动自动消防设备，且只设置一台具有集中控制功能的火灾报警控制器和消防联动控制器的保护对象。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 火灾自动报警系统有区域报警系统、集中报警系统和控制中心报警系统三种形式，各自有不同的适用范围。（1）区域报警系统适用于仅需要报警、不需要联动自动消防设备的保护对象。（2）集中报警系统适用于不仅需要报警，同时需要联动自动消防设备，且只设置一台具有集中控制功能的火灾报警控制器和消防联动控制器的保护对象。（3）控制中心报警系统适用于设置两个及以上消防控制室的保护对象，也适用于已设置两个及以上集中报警系统的保护对象。
+
+---
+
+
+
+#### 判断题 51
+
+对于一些重要联动设备(如消防泵组、防烟和排烟风机)的控制，除采用联动控制方式外，火灾报警控制器还应采用总线控制盘控制方式，实现直接手动控制。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 本题考查考生多线控制盘的工作原理知识点的掌握情况。多线制控制盘也称作多线制手动控制盘或直接手动控制盘。为确保操作受控消防设备的可靠性，对于一些重要联动设备（如消防泵组、防烟和排烟风机）的控制，除采用联动控制方式外，火灾报警控制器还应采用多线控制盘控制方式，实现直接手动控制。由此可知，题干中的“总线控制盘控制方式”应表述为“多线控制盘控制方式”。
+
+---
+
+
+
+#### 判断题 52
+
+消防联动控制器的电源部分应具有主电源和备用电源转换装置。当主电源断电时，需手动转换到备用电源；当主电源恢复时，能自动转换到主电源。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防联动控制器的电源部分应具有主电源和备用电源转换装置。当 主电源断电时，能自动转换到备用电源；当主电源恢复时，能自动转换到主电源。
+
+---
+
+
+
+#### 判断题 53
+
+固体之间热量可以通过热对流传导。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 热对流只能发生在流体(气体和液体)之中，是指流体中质点发生相对位 移而引起的、由空间的一处向另一处传播热能的现象。
+
+---
+
+
+
+#### 判断题 54
+
+防火门电动闭门器是使常开防火门保持打开状态，在收到指令后释放防火门使其关闭，并将本身的状态信息反馈至防火门监控器的电动装置。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 防火门电动闭门器是能够在收到指令后将处于打开状态的防火门关闭，并将其状态信息反馈至防火门监控器的电动装置。防火门电磁释放器是使常开防火门保持打开状态，在收到指令后释放防火门使其关闭，并将本身的状态信息反馈至防火门监控器的电动装置。
+
+---
+
+
+
+#### 判断题 55
+
+消防工作是一项地方性和专门性很强的行政工作，是政府履行社会管理和公共服务职能的重要内容。（
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防工作是一项地方性和专门性很强的行政工作，是政府履行社会管理和公共服务职能的重要内容。
+
+---
+
+
+
+#### 判断题 56
+
+干式自动喷水灭火系统准工作状态时配接的配水管道内充满用于启动系统的有压水。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 干式自动喷水灭火系统是在准工作状态时配水管道内充满用于启动系统的有压气体的闭式系统。
+
+---
+
+
+
+#### 判断题 57
+
+座位数为900个的半地下电影院应设置自动灭火系统。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 除建筑内的游泳池、浴池、溜冰场可不设置自动灭火系统外，下列民用建 筑、场所和平时使用的人民防空工程应设置自动灭火系统：位于地下或半地下且座位数大于800个的电影院、剧场或礼堂的观众厅。
+
+---
+
+
+
+#### 判断题 58
+
+侧向式防火卷帘、水平式防火卷帘在发生火灾时不能自动关闭，应用受到限制。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 侧向式防火卷帘、水平式防火卷帘由于在发生火灾时不能自动关闭，应用受到限制。
+
+---
+
+
+
+#### 判断题 59
+
+当防火门监控器处于手动控制状态时，常开式防火门不能通过消防联动控制器联动关闭。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 当监控器处于手动控制状态时，常开式防火门不能通过消防联动控制器联动关闭。
+
+---
+
+
+
+#### 判断题 60
+
+一台集中火灾报警控制器（联动型）可以设置多个总线控制盘。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 一台集中火灾报警控制器（联动型）可以设置多个总线控制盘。总线控制盘为启动和停止受 控消防设备提供了一种便捷的手动操作方式，可以代替烦琐的菜单操作。
+
+---
+
+
+
+#### 判断题 61
+
+集中火灾报警控制器或火灾报警控制器，应能显示火灾报警部位信号和控制信号，但不能进行联动控制。 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 集中控制器的首要功能是火灾报警功能，即集中控制器能接收和显示来自火灾 探测器和其他火灾报警触发器件的火灾报警信号，并发出火灾报警声、光信号，指 示火灾发生部位，记录火灾报警时间；其次，集中控制器在火灾报警状态下能向火 灾声和/或光警报器、火灾报警传输设备、消防广播等消防联动设备发出控制信号; 此外，集中控制器还具备故障报警、自检、屏蔽、监管、信息显示与查询、主电与 备电切换、系统兼容、软件控制等功能。消防联动控制器的首要功能是联动控制功能。
+
+---
+
+
+
+#### 判断题 62
+
+听到报警声信号后，注意观察集中控制器面板上的各指示灯信息，发现某一专用的总指示灯点亮，即可判断集中控制器发出了对应类型的报警信号。（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 听到报警声信号后，注意观察集中控制器面板上的各指示灯信息，发现某一专用的总指示灯点亮，即可判断集中控制器发出了对应类型的报警信号。
+
+---
+
+
+
+#### 判断题 63
+
+按安装方式的不同，挡烟垂壁可分为固定式挡烟垂壁和活动式挡烟垂壁。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 挡烟垂壁是釆用不燃材料制成，垂直安装在建筑顶棚、梁或吊顶下，能在火灾 时形成一定蓄烟空间的挡烟分隔设施，按安装方式可分为固定式挡烟垂壁和活动式 挡烟垂壁。
+
+---
+
+
+
+#### 判断题 64
+
+雨淋系统是指由闭式洒水喷头、雨淋报警阀组等组成，发生火灾时由火灾自动报警系统控制，自动开启雨淋报警阀组和启动消防水泵，用于灭火的开式系统。()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 雨淋系统是指由开式洒水喷头、雨淋报警阀组等组成，发生火 灾时由火灾自动报警系统或传动管控制，自动开启雨淋报警阀组和启动消防水泵, 用于灭火的开式系统。
+
+---
+
+
+
+#### 判断题 65
+
+消防水泵控制柜应采取防止被水淹没的措施。 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防泵组电气控制柜工作环境技术要求：（1）工作环境良好，无积灰和蛛网，无杂物堆放(2 )防止被水淹没的措施完好(3)设有自动防潮除湿装置的，其工作状态应正常。
+
+---
+
+
+
+#### 判断题 66
+
+粉尘爆炸压力上升和下降速度都较快。 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 粉尘爆炸压力上升和下降速度都较缓慢，能在较长时间内均保持较高压力, 并释放大量能量，导致爆炸的破坏性较大。
+
+---
+
+
+
+#### 判断题 67
+
+火灾报警控制器/消防联动控制器运行模式处于“自动允许”时，可通过联动控制装置自动启动消防应急广播系统，进行消防应急广播。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 自动控制播放疏散指令火灾报警控制器/消防联动控制器运行模式处于“自动允许”时，可通过联动 控制装置自动启动消防应急广播系统，进行消防应急广播。
+
+---
+
+
+
+#### 判断题 68
+
+消防电话总机能为消防电话分机供电，能与消防电话分机进行半双工通话。
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防电话总机能为消防电话分机和消防电话插孔供电，能与消防电话分机进行全双工通话。
+
+---
+
+
+
+#### 判断题 69
+
+打开机械加压送风系统中任一常闭式加压送风口，可以联锁启动加压送风机。
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 还可以通过以下方式启动加压送风机：（1）通过电气控制柜手动启动； （2）通过消防控制室多线控制盘远程启动；（3）打开系统中任一常闭式加压送风口， 相应的加压送风机应能联动启动。
+
+---
+
+
+
+#### 判断题 70
+
+一旦水灭火系统的电气控制柜出现缺相状况时，电气控制柜面板故障灯应常亮，并发出故障声、光信号。 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 电气控制柜具有过载、短路、过压、缺相、欠压、过热保护等功能。一旦出现 以上状况，电气控制柜故障灯应常亮，并发出故障声、光信号。
+
+---
+
+
+
+#### 判断题 71
+
+消防水池容积越大也会供水可靠性越强。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防水池容积过大也会影响供水的可靠性，所以消防水池的总蓄水有效容积大于500m³时，宜设两格能独立使用的消防水池；当大于1000m³时，应设置两座能独立使用的消防水池。
+
+---
+
+
+
+#### 判断题 72
+
+建筑高度为30m的住宅楼应设置消防电梯。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 建筑高度＞33m的住宅楼应设置消防电梯。
+
+---
+
+
+
+#### 判断题 73
+
+气溶胶灭火剂适用于扑救固体表面火灾，以及通信机房、电子计算机房、电缆隧道（夹层、井）及自备发电机房等防护区火灾。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 气溶胶灭火剂适用于扑救固体表面火灾，以及通信机房、电子计算机房、电缆隧道（夹层、井）及自备发电机房等防护区火灾。
+
+---
+
+
+
+#### 判断题 74
+
+《消防给水及消火栓系统技术规范》适用于新建、扩建、改建的工业、民用、市政等建设工程的消防给水及消火栓系统的设计、施工、验收和维护管理。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 《消防给水及消火栓系统技术规范》适用于新建、扩建、改建的工业、民用、市政等建设工程的消防给水及消火栓系统的设计、施工、验收和维护管理。
+
+---
+
+
+
+#### 判断题 75
+
+易燃、可燃液体在燃烧过程中，并不是液体本身在燃烧。 ( )
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 易燃、可燃液体在燃烧过程中，并不是液体本身在燃烧，而是液体受热时蒸发出来的蒸气被分解、氧化达到燃点而燃烧，即蒸发燃烧。
+
+---
+
+
+
+#### 判断题 76
+
+电气测量仪表按被测电流的性质主要分为直流表和交流表。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 电气测量仪表按被测电流的性质主要分为直流表和交流表。
+
+---
+
+
+
+#### 判断题 77
+
+排烟防火阀一般由阀体、叶片、执行机构和温感器等部件组成。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 排烟防火阀是安装在机械排烟系统的管道上，平时呈开启状态，火灾时当排烟管道内烟气温度达到280℃时关闭，并在一定时间内能满足漏烟量和耐火完整性要求，起隔烟阻火作用的阀门，一般由阀体、叶片、执行机构和温感器等部件组成。
+
+---
+
+
+
+#### 判断题 78
+
+消防电话总机能同时呼叫至少两部消防电话分机。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防电话总机能同时呼叫至少两部消防电话分机。
+
+---
+
+
+
+#### 判断题 79
+
+防火卷帘卷门机上设有手动拉链，可通过人工拉动拉链控制卷帘升降。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 防火卷帘卷门机上设有手动拉链，可通过人工拉动拉链控制卷帘升降。
+
+---
+
+
+
+#### 判断题 80
+
+稳压泵组的主、备泵应采用交替运行方式。投入消防运行状态后，稳压泵组应继续工作。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 本题考查考生消防增（稳）压设施的运行控制知识点的掌握情况。稳压泵组的主、备泵应采用交替运行方式。当达到设计启动压力时，稳压泵应立即启动，当消防主泵启动时，稳压泵应停止运行。所以，投入消防运行状态后，稳压泵组应停止工作，而不是继续工作。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 81
+
+火灾自动报警系统控制器的电源工作状态分为主电工作状态、备电工作状态、主电故障状态及备电故障状态。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 在集中报警系统中的火灾报警控制器、消防联动控制器、火灾报警控制器(联动控制型)等控制器的电源工作状态分为主电工作状态、备电工作状态、主电故障状态、备电故障状态。
+
+---
+
+
+
+#### 判断题 82
+
+设置在商场四层的游艺场所，应采取排烟等烟气控制措施。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 除不适合设置排烟设施的场所、火灾发展缓慢的场所可不设置排烟设施外，工业与民用建筑的下列场所或部位应采取排烟等烟气控制措施。6）设置在地下或半地下、地上第四层及以上楼层的歌舞娱乐放映游艺场所，设置在其他楼层且房间总建筑面积大于 100 m2的歌舞娱乐放映游艺场所。
+
+---
+
+
+
+#### 判断题 83
+
+建筑高度大于32m的丙类高层厂房应设置消防电梯。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 建筑高度大于32m的丙类高层厂房应设置消防电梯。
+
+---
+
+
+
+#### 判断题 84
+
+电气火灾监控器在接收到电气火灾监控探测器的报警信息后，经报警确认判断，将驱动安装在保护区域现场的声光警报装置发出声光警报。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 电气火灾监控器在接收到电气火灾监控探测器的 报警信息后，经报警确认判断，显示电气火灾监控探测器的位置信息，记录电气火 灾监控探测器的报警时间，同时驱动安装在保护区域现场的声光警报装置，发出声光警报。
+
+---
+
+
+
+#### 判断题 85
+
+火灾显示盘按供电方式分为直流供电型和交流供电型。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 火灾显示盘按供电方式分为两类：直流供电型和交流供电型。
+
+---
+
+
+
+#### 判断题 86
+
+应用软件是为满足用户不同领域、不同问题的应用需求而提供的软件。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 应用软件是为满足用户不同领域、不同问题的应用需求而提供的软件。它可以拓宽计算机系统的应用领域，放大硬件的功能，包括用户可以使用的各种程序设计语言，以及用各种程序设计语言编制的应用程序的集合。
+
+---
+
+
+
+#### 判断题 87
+
+可以现场对火灾显示盘进行消音和复位操作。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 更换或复位手动火灾报警按钮的启动零件，然后按下火灾报警控制器复位键，火灾显示盘复位，恢复正常监视状态。火灾显示盘面板上一般只有消音键，可以现场对火灾显示盘进行消音，复位要到火灾报警控制器上操作。
+
+---
+
+
+
+#### 判断题 88
+
+自垂百叶式送风口加压时自行开启，常用于防烟楼梯间。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 送风口分为常开式、常闭式和自垂百叶式。常开式送风口即普通的固定叶片式百叶风口；常闭式送风口采用手动或电动开启，常用于前室或合用前室；自垂百叶式送风口平时靠百叶重力自行关闭，加压时自行开启，常用于防烟楼梯间。结合题意，本题正确。
+
+---
+
+
+
+#### 判断题 89
+
+火灾发生时，湿式喷水灭火系统的报警阀组压力开关应能直接连锁启动喷淋水泵并向消防控制室反馈其动作信号。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 火灾发生时，报警阀组压力开关应能直接联锁启动喷淋水泵并向消防控制室反馈其动作信号。
+
+---
+
+
+
+#### 判断题 90
+
+当系统在消防控制室外设置有区域控制器时，应在消防控制室查看集中控制器是否存在接收和显示来自相关区域控制器的电源故障报警完整信息。（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 当系统在消防控制室外设置有区域控制器时，应在消防控制室查看集中控制器 是否存在接收和显示来自相关区域控制器的电源故障报警完整信息。如果集中控制 器与区域控制器发生连接故障，则应到现场查看区域控制器的电源工作状态。
+
+---
+
+
+
+#### 判断题 91
+
+如防火卷帘的温控释放装置未自动动作，还可以通过人工手动拉动温控释放装置的手动速放装置(拉环)，使温控释放器动作，防火卷帘依靠自重下降。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 使温控释放装置周围温度达到（73±0.5）℃ 查看温控释放装置是否动作，防火卷帘是否靠自重下降至完全关闭状态。还可以通过人工手动拉动温控释放装置的手动速放装置（拉环），使温控释放器动作，防火卷帘依靠自重下降。
+
+---
+
+
+
+#### 判断题 92
+
+常闭式、常开式防火门的开启、关闭动作信号只能反馈至防火门监控器，不能传输至消防联动控制器。()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 使用加烟器触发防火分区内2只独立火灾探测器或1只火灾探测器和1只手动 火灾报警按钮，观察常开式防火门关闭情况、防火门监控器有关信息指示变化情况、消防控制室相关控制和信号反馈情况等。
+
+---
+
+
+
+#### 判断题 93
+
+爆炸是一种物理变化。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 爆炸是一种极为迅速的物理或化学的能量释放过程，是在较短时间和较小空间内，能量从一种形式向另一种或几种形式转化并伴有强烈机械效应的过程。爆炸过程往往释放出大量能量，产生高温，并放出大量气体，在周围介质中造成高压的化学反应或状态变化，破坏性极强。
+
+---
+
+
+
+#### 判断题 94
+
+《气体灭火系统设计规范》主要内容包括总则、术语和符号、设计要求、系统组件、操作与控制、安全要求等。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 《气体灭火系统设计规范》主要内容包括总则、术语和符号、设计要求、系统组件、操作与控制、安全要求等。
+
+---
+
+
+
+#### 判断题 95
+
+接线检查应在消防电话总机通电状态下进行。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 接线检查应在消防电话总机断电状态下进行。
+
+---
+
+
+
+#### 判断题 96
+
+准入类职业资格，其所涉职业(工种)必须关系公共利益或涉及国家安全、公共安全、人身健康、生命财产安全，且只能以法律法规作为依据。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 准入类职业资格，其所涉职业（工种）必须关系公共利益或涉及国家安全、公共安全、人身健康、生命财产安全，且必须有法律法规或国务院决定作为依据，如消防设施操作员。所以，也可以以国务院决定作为依据。
+
+---
+
+
+
+#### 判断题 97
+
+客房床头控制柜内设有服务性的音乐广播扬声器时，应有消防应急广播功能。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 客房床头控制柜内设有服务性的音乐广播扬声器时，应有消防应急广播功能。（ ）
+
+---
+
+
+
+#### 判断题 98
+
+风机长时间运转时，应确保相应区域的送风（排烟）口处于开启状态。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 风机长时间运转时，应确保相应区域的送风（排烟）口处于开启状态。
+
+---
+
+
+
+#### 判断题 99
+
+线型光束感烟火灾探测器分为激光光束线型感烟火灾探测器和红外光束线型感烟火灾探测器两种类型。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 线型光束感烟火灾探测器分为激光光束线型感烟火灾探测器和红外光束线型感烟火灾探测器两种类型。
+
+---
+
+
+
+#### 判断题 100
+
+建筑物内发生火灾时，排烟口、排烟窗或排烟阀开启的动作信号，作为排烟风机启动的联动触发信号。 （ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 建筑物内发生火灾时，排烟口、排烟窗或排烟阀开启的动作信号，作为排烟风机启动的联动触发信号。
+
+---
+
+
+
+#### 判断题 101
+
+预作用自动喷水灭火系统是在准工作状态时配水管道内不充水，发生火灾时由火灾自动报警系统、充气管道上的压力开关联锁控制预作用装置和消防水泵，向配水管道供水的闭式系统。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 预作用自动喷水灭火系统是在准工作状态时配水管道内不充水，发生火灾时由火灾自动报警系统、充气管道上的压力开关联锁控制预作用装置和消防水泵，向配水管道供水的闭式系统。
+
+---
+
+
+
+#### 判断题 102
+
+直接控制是指控制信号通过消防联动控制器本身的输出接点或模块直接作用到连接的消防电动装置,进而实现对受控消防设备的控制。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防联动控制器常用的联动控制方式主要有“自动控制和手动控制”、“直接控制和间接控制”、“总线控制和直线控制”等3种。直接控制是指控制信号通过消防联动控制器本身的输出接点或模块直接作用到连接的消防电动装置，进而实现对受控消防设备的控制。间接控制是指控制信号通过消防电气控制装置间接作用到连接的消防电动装置，进而实现对受控消防设备的控制。结合题意，本题正确。
+
+---
+
+
+
+#### 判断题 103
+
+固定式泡沫灭火系统适用于单罐容量大于1000m³的甲、乙、丙类液体固定顶罐。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 固定式泡沫灭火系统适用于单罐容量大于1000m³的甲、乙、丙类液体固定顶罐。
+
+---
+
+
+
+#### 判断题 104
+
+消防泡沫炮按泡沫液吸入方式分为自吸式消防泡沫炮和非自吸式消防泡沫炮两种。 （ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防泡沫炮按泡沫液吸入方式分为自吸式消防泡沫炮和非自吸式消防泡沫炮两种。
+
+---
+
+
+
+#### 判断题 105
+
+由于人员能够进入水塔内部进行维修工作，故水塔属于建筑物。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 构筑物是指人们不能直接在内部进行生产和生活，为工程技术需要而设置的建 筑，如水塔、烟囱、堤坝等。
+
+---
+
+
+
+#### 判断题 106
+
+干式自动喷水灭火系统是在准工作状态时配水管道内充满用于启动系统的有压水的闭式系统。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 干式自动喷水灭火系统是在准工作状态时配水管道内充满用于启动系统的有压气的闭式系统。
+
+---
+
+
+
+#### 判断题 107
+
+干式自动喷水灭火系统由于在准工作状态时配水管道内充满用于启动系统的有压气体，因此还应设置充气和气压维持装置。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析(*)：** 干式系统配水管道内充有压气体，需要充气和气压维持装置保持系统压力，因此判断为正确。
+
+---
+
+
+
+#### 判断题 108
+
+机关、团体、企业、事业等单位是消防安全的责任主体，消防工作分管领导是本单位、本场所消防安全责任人，对本单位、本场所消防安全全面负责。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 机关、团体、企业、事业等单位是消防安全的责任主体，法定代表人、主要负责人或实际控制人是本单位、本场所消防安全责任人，对本单位、本场所消防安全全面负责。
+
+---
+
+
+
+#### 判断题 109
+
+排烟风机一般设置在排烟系统的最低处，且风机应设置在专用机房内。()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 排烟风机一般设置在机械排烟系统的最高处，且应设置在专用机房内。
+
+---
+
+
+
+#### 判断题 110
+
+线型光束感烟火灾探测外壳外观的清洁保养中，应确认线型光感烟火灾探测器的产品标识是否清晰，表面是否有腐蚀、涂覆层脱落和起泡。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 确认线型光束感烟火灾探测器或线型感温火灾探测器终端盒的产品标识是否清晰, 表面是否有腐蚀、涂覆层脱落和起泡。
+
+---
+
+
+
+#### 判断题 111
+
+火灾探测报警产品实施保养后，应按规定填写“建筑消防设施故障维修记录表”。 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 实施保养后，应按规定填写“建筑消防设施维护保养记录表”。
+
+---
+
+
+
+#### 判断题 112
+
+对应急广播设备进行保养，应用软布擦拭应急广播设备主机外壳和扬声器。 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 对应急广播设备进行保养，应使用吸尘器、清洁的干软布等清除主机外壳 和扬声器表面及所有接线端子处的灰尘。用软布擦拭应急广播设备主机外壳和扬声器。
+
+---
+
+
+
+#### 判断题 113
+
+在消防控制室外增设的区域控制器可采用手动方式控制消防联动设备，且所有信息均应传送至集中控制器。 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 在消防控制室外增设的区域控制器均不应采用手动方式控制消防联动设备，且所有信息均应传送至集中控制器。
+
+---
+
+
+
+#### 判断题 114
+
+火灾报警控制器是消防联动控制系统的核心组件。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防联动控制器是消防联动控制系统的核心组件。
+
+---
+
+
+
+#### 判断题 115
+
+激光光束线型感烟火灾探测器分为对射型和反射型两种。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 红外光束线型感烟火灾探测器又分为对射型和反射型两种。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 116
+
+集中火灾报警控制器不能间接地接收来自火灾探测器及其他火灾报警触发器件的火灾报警信号，发出火灾报警声、光信号，指示火灾发生部位，记录火灾报警时间。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾报警控制器应能直接或间接地接收来自火灾探测器及其他火灾报警触发器件的火灾报警信号，发岀火灾报警声、光信号，指示火灾发生部位，记录火灾报警时间。
+
+---
+
+
+
+#### 判断题 117
+
+建筑高度为30m的住宅楼应设置灯光疏散指示标志。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** （1） 《建筑防火通用规范》（GB 55037—2022）中规定，除筒仓、散装粮食仓库 和火灾发展缓慢的场所外，下列建筑应设置灯光疏散指示标志，疏散指示标志及其设置间距、照度应保证疏散路线指示明确、方向指示正确清晰、视觉连续。1） 甲、乙、丙类厂房，高层丁、戊类厂房。2） 丙类仓库，高层仓库。3） 公共建筑。4） 建筑高度大于27 m的住宅建筑。5） 除室内无车道且无人员停留的汽车库外的其他汽车库和修车库。6） 平时使用的人民防空工程。7） 地铁工程中的车站、换乘通道或连接通道、车辆基地、地下区间内的纵向疏 散平台。8） 城市交通隧道、城市综合管廊。9） 城市的地下人行通道。10） 其他地下或半地下建筑。
+
+---
+
+
+
+#### 判断题 118
+
+建筑高度大于50m的公共建筑、工业建筑和建筑高度大于100m的住宅建筑，其防烟楼梯间、独立前室、共用前室、合用前室及消防电梯前室应采用机械加压送风系统。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 防烟系统可分为自然通风系统和机械加压送风系统。建筑高度大于50 m的公共 建筑、丄业建筑和建筑高度大于的住宅建筑，其防烟楼梯间、独立前室、共 用前室、合用前室及消防电梯前室应采用机械加压送风系统；建筑高度小于或等于 50 m的公共建筑、工业建筑和建筑高度小于或等于100 m的住宅建筑，其防烟楼梯 间、独立前室、共用前室、合用前室（除共用前室与消防电梯前室合用外）及消防电 梯前室应采用自然通风系统；当不能设置自然通风系统时，应采用机械加压送风系统。
+
+---
+
+
+
+#### 判断题 119
+
+泵组式细水雾灭火系统应具有自动、手动和机械应急操作控制方式。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 泵组式细水雾灭火系统应具有自动、手动控制方式。
+
+---
+
+
+
+#### 判断题 120
+
+消防控制室图形显示装置可查看报警信息和确定报警部位。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 可通过以下两种方式查看报警信息和确定报警部位：（1）通过集中控制器查看报警信息和确定报警部位（2）通过消防控制室图形显示装置查看报警信息和确定报警部位 答题卡
+
+---
+
+
+
+#### 判断题 121
+
+建筑面积为800 m2 的电影摄影棚应设置雨淋灭火系统。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 建筑面积为800 m2 的电影摄影棚应设置雨淋灭火系统。
+
+---
+
+
+
+#### 判断题 122
+
+湿式系统适用于环境温度低于4℃或高于70℃的场所。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 湿式系统适用于环境温度不低于4℃且不高于70℃的场所。
+
+---
+
+
+
+#### 判断题 123
+
+如果“故障”指示灯处于黄色常亮状态，表示多线控制盘功能处于正常状态。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 本题考查多线控制盘的操作方法知识点的掌握情况。如果“故障”指示灯处于熄灭状态，表示多线控制盘功能处于正常状态；如果“故障”指示灯处于黄色常亮状态，表示多线控制盘功能处于异常状态，而不是“正常状态”。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 124
+
+地下室是指房间地平面低于室外设计地平面的平均高度大于该房间平均净高1/2的建筑。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 地下室是指房间地平面低于室外设计地平面的平均高度大于该房间平均净高1/2的建筑。
+
+---
+
+
+
+#### 判断题 125
+
+燃烧产物的危害主要有毒性和减光性。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 燃烧产物的危害主要有毒性和减光性。
+
+---
+
+
+
+#### 判断题 126
+
+室内消火栓栓口动压不应大于0.50MPa，当大于0.70MPa时必须设置减压装置。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 室内消火栓栓口动压和消防水枪充实水柱应符合哪些要求室内消火栓栓口动压和消防水枪充实水柱是室内消火栓正常工作的基本保证。室内消火栓栓口动压不应大于0.50MPa;当大于0.70MPa时必须设置减压装置；高层建筑、厂房、库房和室内净空高度超过8m的民用建筑等场所，室内消火栓栓口动压不应小于0.35MPa,且消防水枪充实水柱应按13m计算；其他场所，消火栓栓口动压不应小于0.25MPa,且消防水枪充实水柱应按10m计算。
+
+---
+
+
+
+#### 判断题 127
+
+判断消防供水设施的工作状态，应核查补水设施正常，检查消防控制室远程水位监控系统，确保消防用水不作他用的技术措施完好。 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 1.判断消防供水设施的工作状态核查补水设施正常，检查消防控制室远程水位监控系统、就地水位显示装 置，校核消防水池（箱）有效容积，确保消防用水不作他用的技术措施完好。
+
+---
+
+
+
+#### 判断题 128
+
+可燃气体报警系统处于正常监视状态时，屏蔽指示灯亮。 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 当可燃气体报警控制器无声音发岀，主电工作指示灯亮，报警、故障、自检、 屏蔽等其他指示灯不亮，液晶显示器显示“系统运行正常”等类似提示信息，可判 定可燃气体探测报警系统处于正常监视状态。
+
+---
+
+
+
+#### 判断题 129
+
+消防联动控制器通过接收火灾报警控制器发出的火灾报警信息，按预设逻辑对建筑中设置的自动消防系统（设施）进行联动控制。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防联动控制器通过接收火灾报警控制器发出的火灾报警信息，按预设逻辑对建筑中设置的自动消防系统（设施）进行联动控制。
+
+---
+
+
+
+#### 判断题 130
+
+末端试水装置（试水阀）平时应处于开启状态。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 本题考查考生对湿式、干式自动喷水灭火系统的主要组成知识点的掌握情况。末端试水装置由试水阀、压力表、试水接头等组成，其作用是检验自动喷水灭火系统的可靠性，测试系统能否在开放一只喷头的最不利条件下可靠报警并正常启动，测试水流指示器、报警阀、压力开关、水力警铃的动作是否正常，配水管道是否畅通，以及系统最不利点处的工作压力等，也可以检测干式系统和预作用系统的充水时间。试水阀平时应处于关闭状态，只有在测试时才会开启。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 131
+
+消防设施操作员两个职业方向均分为5个职业技能等级。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防设施操作员职业一共设五个等级，其中，消防设施监控操作职业方向分为五级/初级工、四级/中级工、三级/高级工、二级/技师；消防设施检测维修保养职业方向分为四级/中工、三级/高级工、二级/技师、一级/高级技师。所以，两个职业方向均分为4个职业技能等级
+
+---
+
+
+
+#### 判断题 132
+
+水灭火时覆盖隔离发挥着主要作用（ ）。
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 用水扑灭一般固体物质的火灾，主要是通过冷却作用来实现的。
+
+---
+
+
+
+#### 判断题 133
+
+只要具备可燃物、助燃物、引火源3个条件，必定会发生燃烧。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 燃烧过程的发生和发展必须同时具备可燃物、助燃物、引火源3个必要条件， 通常称为“燃烧三要素”。但要导致燃烧发生，不仅需要满足三要素条件，而且需要 三者达到一定量的要求，并且存在相互作用的过程。
+
+---
+
+
+
+#### 判断题 134
+
+对送风机的末端配电装置保养时，如发现线路接头处有氧化、锈蚀痕迹，应采取镀锡和涂抹凡士林等防潮、防锈措施
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 对送风机的末端配电装置保养时，如发现线路接头处有氧化、锈蚀痕迹，应采取镀锡和涂抹凡士林等防潮、防锈措施
+
+---
+
+
+
+#### 判断题 135
+
+消防电话总机保养时不需要断开相关电源。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 接线检查应在消防电话总机断电状态下进行。
+
+---
+
+
+
+#### 判断题 136
+
+线型光束感烟火灾探测器外壳外观的清洁保养中，应确认线型光束感烟火灾探测器的产品标识是否清晰，表面是否有腐蚀、涂覆层脱落和起泡。 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 确认线型光束感烟火灾探测器或线型感温火灾探测器终端盒的产品标识是否清晰, 表面是否有腐蚀、涂覆层脱落和起泡。
+
+---
+
+
+
+#### 判断题 137
+
+自动喷水灭火系统是由洒水喷头、报警阀组、水流报警装置等组件以及管道、供水设施等组成，能在发生火灾时喷水的自动灭火系统。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 自动喷水灭火系统是由洒水喷头、报警阀组、水流报警装置等组件以及管道、供水设施等组成，能在发生火灾时喷水的自动灭火系统。
+
+---
+
+
+
+#### 判断题 138
+
+老年人照料设施的居室和休息室不应布置在地下或半地下。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 老年人照料设施的居室和休息室不应布置在地下或半地下。
+
+---
+
+
+
+#### 判断题 139
+
+消防水泵有自动停泵的控制功能。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防水泵不设自动停泵的控制功能。只能手动停泵
+
+---
+
+
+
+#### 判断题 140
+
+选择线型定温火灾探测器，应保证其不动作温度符合设置场所的最高环境要求。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 选择线型定温火灾探测器，应保证其不动作温度符合设置场所的最高环境要求。
+
+---
+
+
+
+#### 判断题 141
+
+发生可燃气体泄漏时，由可燃气体探测器做出可燃气体泄漏浓度超限报警判断，将报警信息传输至可燃气体报警控制器。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 发生可燃气体泄漏时，安装在保护区域现场的可燃气体探测器 将泄漏的可燃气体浓度参数信息转变为电信号，经数据处理后传输至可燃气体报警控制器；或直接由可燃气体探测器做出可燃气体泄漏浓度超限报警判断，将报警信息传输至可燃气体报警控制器。
+
+---
+
+
+
+#### 判断题 142
+
+湿式自动喷水灭火系统适用于环境温度低于4℃或高于70℃的场所。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 干式自动喷水灭火系统适用于环境温度低于4℃或高于70℃的场所。
+
+---
+
+
+
+#### 判断题 143
+
+点型可燃气体探测器一般用于通风良好的场所。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 点型可燃气体探测器一般用于民用建筑，如厨房，不适合用于通风良好的场所。
+
+---
+
+
+
+#### 判断题 144
+
+若发现线型光束感烟火灾探测器的发射、接收窗口及反射器表面被灰尘或者油污污染，可以使用水及其他化学药剂除污。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 1. 如果发现线型光束感烟火灾探测器的发射、接收窗口及反射器表面被灰尘或者油污污染，注意不要使用水（水难以清理油污）及其他化学药剂（可能损坏表面材料）除污。2. 具有报脏功能的探测器在报脏时应该及时清洁保养。没有报脏功能的探测器,应按产品说明书的要求进行清洁保养；产品说明书没有明确要求的，应每2年清洁或标定一次。3. 线型光束感烟火灾探测器每半年进行一次报警功能测试。
+
+---
+
+
+
+#### 判断题 145
+
+消防救援口应易于从室内和室外打开或破拆，采用玻璃窗时，应选用易于破碎的玻璃。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防救援口设置应符合哪些要求建筑外墙上便于消防救援人员出入的消防救援口，设置应符合下列规定。(1) 沿外墙的每个防火分区在对应消防救援操作面范围内设置的消防救援口不应少于2个。(2) 无外窗的建筑应每层设置消防救援口，有外窗的建筑应自第三层起每层设置消防救援口。(3) 消防救援口的净高度和净宽度均不应小于1.0m,当利用门时，净宽度不应小于0.8mo(4) 消防救援口应易于从室内和室外打开或破拆，采用玻璃窗时，应选用安全玻璃。(5)消防救援口应设置可在室内和室外识别的永久性明显标志。
+
+---
+
+
+
+#### 判断题 146
+
+干粉灭火系统按安装方式分为组合分配和单元独立两类。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 干粉灭火系统按结构特点分为组合分配干粉灭火系统和单元独立干粉灭火系统。干粉灭火系统按安装方式分为半固定式干粉灭火系统和固定式干粉灭火系统。
+
+---
+
+
+
+#### 判断题 147
+
+干式自动喷水灭火系统报警阀以后的配水管道中（即系统侧）充有一定压力的气体，当出现大量泄漏时，可通过气压维持装置进行补压，以维持管网压力。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 干式自动喷水灭火系统报警阀以后的配水管道中（即系统侧）充有一定压力的气体，当出现少量泄漏时，可通过气压维持装置进行补压，以维持管网压力。
+
+---
+
+
+
+#### 判断题 148
+
+区域报警系统应由火灾探测器、手动火灾报警按钮、火灾声光警报器及火灾报警控制器等组成。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 区域报警系统应由火灾探测器、手动火灾报警按钮、火灾声光警报器及火灾报警控制器等组成，系统中可包括消防控制室图形显示装置和指示楼层的区域显示器。
+
+---
+
+
+
+#### 判断题 149
+
+湿式系统喷头开启后管道先排气后充水再出水灭火，时效性低于干式系统。 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 湿式系统喷头开启后立即出水灭火，干式系统喷头开启后管道先排气后充水再出水灭火，时效性低于湿式系统。
+
+---
+
+
+
+#### 判断题 150
+
+IG541灭火系统属于惰性气体灭火系统。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** IG541灭火系统属于惰性气体灭火系统。
+
+---
+
+
+
+#### 判断题 151
+
+消防用水与其他用水共用的水池，应采取确保消防用水量不作他用的技术措施。 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防增(稳)压设施的保养内容，合用水箱消防用水不作他用的技术措施完好。
+
+---
+
+
+
+#### 判断题 152
+
+建筑高度为30m的住宅，采用临时高压消防给水系统，其高位消防水箱的有效容积不应小于12m3。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 临时高压消防给水系统的高位消防水箱的有效容积应满足初期火灾消防用水量 的要求，并应符合以下6项规定。(1 ) —类高层公共建筑，不应小于36 m3;但当建筑高度大于100 m时，不应小 于50 m3;当建筑高度大于150 m时，不应小于100 m3；多层公共建筑、二类高层公共建筑和一类高层住宅，不应小于18 m3;当一 类高层住宅建筑高度超过100 m时，不应小于36 m3；二类高层住宅，不应小于12 m3；(4 )建筑高度大于21 m的多层住宅,不应小于6 m3；(5 )工业建筑室内消防给水设计流量小于或等于25 L/s时，不应小于12 m3;大 于25L/s时，不应小于18 m3；(6 )总建筑面积大于10 000 m2且小于30 000 m2的商店建筑，不应小于36 m3; 总建筑面积大于30 000 m2的商店，不应小于50m3。如果商店建筑同时又属于一类 高层公共建筑，则商店建筑高位消防水箱的有效容积应结合一类高层公共建筑高位 消防水箱有效容积的要求，按较大值确定。
+
+---
+
+
+
+#### 判断题 153
+
+在保养湿式、干式自动喷水灭火系统时，应检查系统各个控制阀门，发现铅封损坏或者锁链未固定在规定状态的，及时更换铅封，并调整锁链至规定的固定状态。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 保养方法消防设施维护保养人员应根据维护保养计划，在规定的周期内对前述项目分别实施保养。保养应结合外观检查和功能测试进行，通常采用清洁、紧固、调整、润滑的方法。对电气元器件的清洁应使用吸尘器或软毛刷等工具，其他组件可使用不太湿的布进行擦试。对损坏件应及时维修或更换。（1） 阀门1） 检查系统各个控制阀门，发现铅封损坏或者锁链未固定在规定状态的，及时更换铅封，并调整锁链至规定的固定状态。发现阀门有漏水、锈蚀等情形的，更换阀门密封垫，修理或者更换阀门，对锈蚀部位进行除锈处理。启闭不灵活的，进行润滑处理。2） 检查室外阀门井情况，发现阀门井积水、有垃圾或者有杂物的，及时排除积水，清除垃圾、杂物。发现管网中的控制阀门未完全开启或者关闭的，完全启闭到位。发现阀门有漏水等情形，按照前述室内阀门的要求査漏、修复、更换、除锈和润滑。
+
+---
+
+
+
+#### 判断题 154
+
+独立式电气火灾探测报警器自成一个小系统，可带地址编码且能独立使用。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 独立式电气火灾监控探测器是一款具备检测低压配电线路中 剩余电流和线路温度功能且能够独立使用的电气火灾监控探测器，自成一个小系统, 可带地址编码且能独立使用，具有储存功能及较强的显示操作功能，能对剩余电流互 感器和温度传感器进行故障诊断，报警精度高、可靠性强（能够有效防止误报、漏 报），简单实用，安装方便。
+
+---
+
+
+
+#### 判断题 155
+
+设置在消防电梯或疏散楼梯间前室内的非消防电梯，防火性能可略低于消防电梯的防火性能。 ( )
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 设置在消防电梯或疏散楼梯间前室内的非消防电梯，防火性能不应低于消防电梯的防火性能。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 156
+
+进入主菜单界面，选择“查看”菜单，移动光标至“历史事件”，可显示火警报警事件、联动历史事件、全部历史事件等情况。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 进入主菜单界面，选择“査看”菜单，移动光标至“历史事件”，可显示火警 报警事件、联动历史事件、全部历史事件等情况，可通过左右方向键切换不同的信息界面。
+
+---
+
+
+
+#### 判断题 157
+
+政府、部门、单位、公民 4 个方面都是消防工作的主体，只有各司其职、各负其责，才能保证消防工作顺利开展。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 政府、部门、单位、公民 4 个方面都是消防工作的主体，只有各司其职、各负其责，才能保证消防工作顺利开展。
+
+---
+
+
+
+#### 判断题 158
+
+不同生产厂家的火灾自动报警系统组件拆装方法并无差异。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 不同生产厂家的火灾自动报警系统组件拆装方法有所差异。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 159
+
+火灾自动报警系统的工作状态可通过面板指示灯、提示音和文字等方式显示出来。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 火灾自动报警系统的工作状态主要包括：主/备电工作状态，火警指示状态，设备反馈指示状态，设备启动指示状态，消音状态，屏蔽状态，系统故障状态，主/备 电故障状态，通信故障状态等。工作状态可通过面板指示灯、提示音和文字等方式显示出来。根据题意，本题正确。
+
+---
+
+
+
+#### 判断题 160
+
+当通过温控释放装置启动自动排烟窗时，释放温度应大于环境温度30°C且小于100°C。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 自动排烟窗可通过现场操作电气控制柜手动开启，也可以通过与火灾自动报警系统联动或与温控释放装置联动的方式启动。当通过温控释放装置启动时，释放温度大于环境温度30℃且小于100℃。
+
+---
+
+
+
+#### 判断题 161
+
+防烟系统可分为自然通风系统和机械加压送风系统。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 本题考查考生对防烟系统的分类知识点的掌握情况。防烟系统可分为自然通风系统和机械加压送风系统。结合题意，本题正确。
+
+---
+
+
+
+#### 判断题 162
+
+屏幕保护可以防止用户不在时，非授权用户看到屏幕上的内容，屏幕保护密码则是在用户从屏幕保护状态转换到运行状态时，需要输入的账户密码。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 屏幕保护可以防止用户不在时，非授权用户看到屏幕上的内容，屏幕保护密码则是在用户从屏幕保护状态转换到运行状态时，需要输入的账户密码。
+
+---
+
+
+
+#### 判断题 163
+
+线型火灾探测器是指连续探测某一路线周围火灾参数的火灾探测器，主要分为线型感烟火灾探测器和线型感温火灾探测器等类型。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 线型火灾探测器是指连续探测某一路线周围火灾参数的火灾探测器，主要分为线型感烟火灾探测器和线型感温火灾探测器等类型。
+
+---
+
+
+
+#### 判断题 164
+
+蓄电池是指经过放电后，不能用一般的充电方法使其复原而继续使用的电池，也叫一次电池。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 原电池是指经过放电后，不能用一般的充电方法使其复原而继续使用的电池，也称一次电池。(蓄电池是指可以通过充电的方法使两极活性物质复原而可再次放电的电池，也称二次电池。
+
+---
+
+
+
+#### 判断题 165
+
+需要火灾自动报警系统联动控制的消防设备，其联动触发信号应采用两个独立的报警触发装置报警信号的“与”逻辑组合。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 需要火灾自动报警系统联动控制的消防设备，其联动触发信号应采用两个独立的报警触发装置报警信号的“与”逻辑组合。
+
+---
+
+
+
+#### 判断题 166
+
+开机密码是指在开机后，进入操作系统之前要求用户输入的密码，密码正确才可以进行操作系统的启动，该密码可以防止非授权用户开机。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 开机密码是指在开机后，进入操作系统之前要求用户输入的密码，密码正确才可以进行操作系统的启动，该密码可以防止非授权用户开机。
+
+---
+
+
+
+#### 判断题 167
+
+应急照明控制器复位前，应确保火灾报警控制器已复位。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 应急照明控制器复位前，应确保火灾报警控制器已复位。
+
+---
+
+
+
+#### 判断题 168
+
+由于火灾警报装置、模块等为有源器件，对其更换维修时要格外小心，非专业人员不得随意拆卸火灾警报装置。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 由于火灾警报装置、模块等为有源器件，对其更换维修时要格外小心，非专业人员不得随意拆卸火灾警报装置。
+
+---
+
+
+
+#### 判断题 169
+
+洒水喷头根据保护面积分为边墙型、下垂型和直立型三种。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 洒水喷头根据保护面积不同分为标准覆盖面积洒水喷头、扩大覆盖面积洒水喷头两种。
+
+---
+
+
+
+#### 判断题 170
+
+常用的火灾监管设备有压力开关、水流指示器、水力警铃、信号蝶阀等。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 常用火灾监管设备 有压力开关、水流指示器、信号蝶阀等。
+
+---
+
+
+
+#### 判断题 171
+
+电气火灾监控设备可以监测电气火灾探测器的电源供电情况。 ( )
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 电气火灾监控设备是集中处理并显示各传感器监测到的各种状态、监控报警信息、故障报警信息，指示报警部位及类别，存储历史数据、状态与事件等内容，同时对电气火灾监控探测器的状态、电源供电情况、连接线路情况进行监测的控制器。
+
+---
+
+
+
+#### 判断题 172
+
+采用减光率为0.4dB的减光片遮挡光路并尽可能靠近线型光束感烟火灾探测器的接收器，线型光束感烟火灾探测器不应发出火灾报警信号。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 采用减光率为0.4 dB的减光片（注意不是0.9 dB,参考GB 14003—2005《线型光束感烟火灾探测器》相关要求）遮挡光路并尽可能靠近线型光束感烟火灾探测器的接收器，线型光束感烟火灾探测器不应发岀火灾报警信号。
+
+---
+
+
+
+#### 判断题 173
+
+常开式防火门远程关闭后，需要现场手动将防火门恢复至开启状态。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 再次按下启动按钮，设备运行灯应熄灭，在现场手动将关闭的常开式防火门复位至开启状态，防火门复位后再将监控器复位。
+
+---
+
+
+
+#### 判断题 174
+
+撤掉减光片，手动操作火灾报警控制器的复位键后，火灾报警控制器应处于正常监视状态，线型光束感烟火灾探测器的火警确认灯应常亮。()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 撤掉减光片，手动操作火灾报警控制器的复位键后，如无其他触发器件发岀报警信号，火灾报警控制器应处于正常监视状态，线型光束感烟火灾探测器的火警确认灯应熄灭。
+
+---
+
+
+
+#### 判断题 175
+
+手动火灾报警按钮在工业和民用建筑中应用广泛，每个防火分区应至少设置2只手动火灾报警按钮。 ( )
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 防火分区是在建筑内部采用防火墙、楼板及其他防火分隔设施分隔而成，能在一定时间内防止火灾向同一建筑的其余部分蔓延的局部空间。为了确保及时发现初起火灾，充分发挥手动火灾报警按钮的作用，每个防火分区应至少设置一只手动火灾报警按钮。从一个防火分区内的任何位置到最邻近的手动火灾报警按钮的步行距离不应大于30m。
+
+---
+
+
+
+#### 判断题 176
+
+消防水池的通气管、呼吸管和溢流水管等应采取防止虫鼠等进入消防水池的技术措施，确保消防水池内的水不受污染、不堵塞消防给水管道。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防水池的通气管、呼吸管和溢流水管等应采取防止虫鼠等进入消防水池的技术措施，确保消防水池内的水不受污染、不堵塞消防给水管道。
+
+---
+
+
+
+#### 判断题 177
+
+在火灾多发季节或有重大活动保卫任务的单位，应组织全要素综合演练。单位内的有关部门应结合实际适时组织专项演练，宜每月组织开展一次疏散演练（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 在火灾多发季节或有重大活动保卫任务的单位，应组织全要素综合演练。单位内的有关部门应结合实际适时组织专项演练，宜每月组织开展一次疏散演练。
+
+---
+
+
+
+#### 判断题 178
+
+商业服务网点是指设置在住宅建筑的首层或首层及二层，每个分隔单元建筑面积不大于300㎡的商店、邮政所、储蓄所、理发店等小型营业性用房。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 什么是商业服务网点？商业服务网点是指设置在住宅建筑的首层或首层及二层，每个分隔单元建筑面积不大于300平方的商店、邮政所、储蓄所、理发店等小型营业性用房。
+
+---
+
+
+
+#### 判断题 179
+
+正确处理个人、集体和国家三者之间的关系，这既是增强职业责任感的要求， 也是职业道德的要求。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 正确处理个人、集体和国家三者之间的关系，这既是增强职业责任感的要求， 也是职业道德的要求。
+
+---
+
+
+
+#### 判断题 180
+
+建筑之间的防火间距应保证任意一侧建筑外墙受到的相邻建筑火灾辐射热强度均低于其临界引燃辐射热强度。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 建筑之间的防火间距应保证任意一侧建筑外墙受到的相邻建筑火灾辐射热强度均低于其临界引燃辐射热强度。 答题卡
+
+---
+
+
+
+#### 判断题 181
+
+通常采取在防烟楼梯间的前室或合用前室设置全敞开的阳台或凹廊，或者两个及以上不同朝向的符合面积要求的可开启外窗的方式实现自然排烟。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 疏散楼梯间要尽量采用自然通风，以提高排除进入楼梯间内烟气的可靠性，确保楼梯间的安全。楼梯间靠外墙设置，有利于楼梯间直接天然采光和自然通风。不能利用天然采光和自然通风的疏散楼梯间，需设置封闭楼梯间或防烟楼梯间，并采取防烟措施。根据烟气流动规律，在顶层楼梯间设置一定面积的可开启外窗可防止烟气的积聚，以保证楼梯间有较好的疏散和救援条件。题干所述应是“实现自然通风”，而不是“实现自然排烟”。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 182
+
+当自动喷水灭火系统电气控制柜的手/自动转换开关置于“自动”时，消防控制室(盘)可自动启动水泵或远程手动启动水泵，并远程停止水泵。 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 1.消防泵组电气控制柜的功能（4）手动/自动转换功能转换开关在自动状态时，消防控制室(盘)可自动启动水泵或远程手动启动水泵, 并远程停止水泵。在手动状态时，现场通过电气控制柜启停按钮操作水泵启动、停止。
+
+---
+
+
+
+#### 判断题 183
+
+应急照明控制器主电源应设置明显的永久性标识，并与消防电源采用电源插头连接。 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 应急照明控制器主电源应设置明显的永久性标识，并应直接与消防电源连接，严禁使用电源插头；应急照明控制器与其外接备用电源之间应直接连接。
+
+---
+
+
+
+#### 判断题 184
+
+防火门、防火卷帘均属于建筑物设置的防火分隔设施，在火灾发生时，可以在一定时间内起到阻火、隔烟效果。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 防火门、防火卷帘等防火分隔设施将建筑平面在水平方向上分隔出的防火区域，用以阻止火灾在一定时间内向相邻区域水平方向蔓延扩大。
+
+---
+
+
+
+#### 判断题 185
+
+火灾蔓延的主要方式为热传导、热辐射和热对流。 （ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 火灾蔓延通过热传播进行，主要方式为热传导、热辐射和热对流。结合题意，本题正确。
+
+---
+
+
+
+#### 判断题 186
+
+测试火灾自动报警系统联动功能时，火灾报警控制器应处于“手动”状态。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 测试火灾自动报警系统联动功能时，火灾报警控制器应处于“自动”状态。
+
+---
+
+
+
+#### 判断题 187
+
+设置线型感温火灾探测器的场所有联动要求时，宜采用两只不同火灾探测器的报警信号组合。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 设置线型感温火灾探测器的场所有联动要求时，宜采用两只不同火灾探测器的报警信号组合。
+
+---
+
+
+
+#### 判断题 188
+
+应急照明控制器应设置在消防控制室内或有人值班的场所。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 应急照明控制器应设置在消防控制室内或有人值班的场所。
+
+---
+
+
+
+#### 判断题 189
+
+一般来说爆炸下限越低或爆炸极限范围越大，可燃物的火灾爆炸危险性就越大。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 一般来说爆炸下限越低或爆炸极限范围越大，可燃物的火灾爆炸危险性就越大。
+
+---
+
+
+
+#### 判断题 190
+
+消防专用电话网络应为独立的消防通信系统。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防专用电话网络应为独立的消防通信系统。（ ）
+
+---
+
+
+
+#### 判断题 191
+
+消防应急广播系统的联动控制信号由消防联动控制器发出，当确认火灾后，应立即向着火楼层和相邻的上下两层进行广播。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防应急广播系统的联动控制信号应由消防联动控制器发出。当确认火灾后,应同时向全楼进行广播
+
+---
+
+
+
+#### 判断题 192
+
+消防设施操作员是为水平评价类职业资格。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防设施操作员是准入类职业资格。
+
+---
+
+
+
+#### 判断题 193
+
+消防广播能自动检查本机音响器件、面板所有指示灯和显示器的功能。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防应急广播的基本功能包括应急广播功能、故障报警功能、自检功能、电源功能。自检功能中消防应急广播能手动检査本机音响器件、面板所有指示灯和显示器的功能。是手动检查不是自动检查。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 194
+
+防火插销应安装在双扇门或多扇门相对固定一侧的门扇上。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 防火插销应安装在双扇门或多扇门相对固定一侧的门扇上。（ ）
+
+---
+
+
+
+#### 判断题 195
+
+气体灭火系统按其应用方式分为组合分配和单元独立。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 气体灭火系统按应用方式分为：全淹没气体灭火系统和局部应用气体灭火系统。
+
+---
+
+
+
+#### 判断题 196
+
+炸药爆炸是化学爆炸。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 常见的化学爆炸主要有各种炸药的爆炸及气体、液体蒸气、粉尘与空气混合后产生的爆炸。
+
+---
+
+
+
+#### 判断题 197
+
+消防增(稳)压设施按所服务的系统可分为消火栓用、自动喷水灭火系统用和消火栓与自动喷水灭火系统合用等。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防增(稳)压设施按所服务的系统可分为消火栓用、自动喷水灭火系统用和消火栓与自动喷水灭火系统合用等。
+
+---
+
+
+
+#### 判断题 198
+
+建筑高度大于24m的单层体育馆属于高层建筑。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 对于有些单层建筑，如体育馆、高大的单层厂房等，因为具有相对便利的疏散和扑救条件，虽然建筑高度大于24m，但不划分为高层建筑。
+
+---
+
+
+
+#### 判断题 199
+
+集中火灾报警控制器不能间接接收来自火灾探测器及其他火灾报警触发器件的火灾报警信号，发出火灾报警声、光信号，指示火灾发生部位，记录火灾报警时间，并予以保持直至手动复位。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾报警控制器应能直接或间接地接收来自火灾探测器及其他火灾报警触发器件的火灾报警信号，发岀火灾报警声、光信号，指示火灾发生部位，记录火灾报警时间。
+
+---
+
+
+
+#### 判断题 200
+
+劳动法调整的对象是指劳动关系以及与劳动关系有密切联系的其他关系。其中，劳动关系是我国劳动法调整的主要对象。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 劳动法的调整对象是指劳动关系以及与劳动关系密切相关的其他社会关系。其中，劳动关系是我国劳动法调整的主要对象。
+
+---
+
+
+
+#### 判断题 201
+
+疏散走道、人员密集的场所，不应低于3.0lx。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 《建筑防火通用规范》（GB55037-2022）中规定，建筑内疏散照明的地面最低水平照度应符合下列规定。1.疏散楼梯间、疏散楼梯间的前室或合用前室、避难走道及其前室、避难层、避难间、消防专用通道，不应低于10.0Ix。2.疏散走道、人员密集的场所，不应低于3.0lx。3.上述规定场所外的其他场所，不应低于1.0lx。
+
+---
+
+
+
+#### 判断题 202
+
+集中火灾报警控制器应能监视程序运行和其存储器内容，当出错时应发出故障信号。在程序执行出错时，控制器应进入安全状态。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 本题考查考生火灾报警控制器软件控制功能知识点的掌握情况。对于软件实现火灾报警控制器控制功能来说，控制器应能监视程序运行和其存储器内容，当出错时应发出故障信号。在程序执行出错时，控制器应进入安全状态。结合题意，本题正确。
+
+---
+
+
+
+#### 判断题 203
+
+消防联动控制器接通电源后，无火灾报警、故障报警、屏蔽、监管报警、自检等发生时所处的状态，为报警状态。()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 集中控制器、消防联动控制器或消防联动控制设备接通电源后，无火灾报警、 故障报警、屏蔽、监管报警、自检等发生时所处的状态，为正常监视状态。
+
+---
+
+
+
+#### 判断题 204
+
+如保护对象不仅需要报警，还需要联动控制自动消防设备的就可以确认该保护对象设置的火灾报警控制器属集中火灾报警控制器。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 如保护对象仅需火灾报警，则系统设置的属于区域控制器；如保护对象不仅需要报警，还需要联动控制自动消防设备，即系统能通过输入、输出模块对消防联动 设备进行控制、接收反馈，例如消防控制室设置有消防应急广播控制装置、消防电 话总机等消防设备，就可以确认该保护对象设置的火灾报警控制器属于集中控制器。
+
+---
+
+
+
+#### 判断题 205
+
+电气火灾监控系统正常监视状态下备电工作指示灯亮。 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 1.判断正常监视状态当电气火灾监控设备无声音发岀，主电工作指示灯亮，报警、故障等其他指示 灯不亮，液晶显示器显示“系统工作正常”等类似提示信息，可判定电气火灾监控 系统处于正常监视状态。
+
+---
+
+
+
+#### 判断题 206
+
+建筑耐火等级是由组成建筑物的墙、柱、楼板、屋顶承重构件和吊顶等主要构件的燃烧性能和耐火极限决定的，分为一、二、三、四级。()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 建筑耐火等级是由组成建筑物的墙、柱、楼板、屋顶承重构件和吊顶等主要构件的燃烧性能和耐火极限决定的，分为一、二、三、四级。
+
+---
+
+
+
+#### 判断题 207
+
+细水雾灭火系统不适用于可燃固体深位火灾。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 细水雾灭火系统不适用于可燃固体深位火灾。
+
+---
+
+
+
+#### 判断题 208
+
+职业道德具有自我约束、控制的特征。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** （3）自律性。职业道德具有自我约束、控制的特征。
+
+---
+
+
+
+#### 判断题 209
+
+火灾显示盘的信息显示应按火灾报警、故障、监管报警的顺序由高至低排列显示等级。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾显示盘的信息显示应按火灾报警、监管报警、故障的顺序由高至低排列显示等级,高等级的信息应优先显示,低等级的信息显示不应影响高等级信息显示。
+
+---
+
+
+
+#### 判断题 210
+
+在正常情况下有烟滞留的场所宜选择线型光束感烟火灾探测器。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 符合下列条件之一的场所，不宜选择线型光束感烟火灾探测器：1)有大量粉尘、水雾滞留的场所。2)可能产生蒸气和油雾的场所。3)在正常情况下有烟滞留的场所。4)固定探测器的建筑结构由于振动等原因会产生较大位移的场所。
+
+---
+
+
+
+#### 判断题 211
+
+同湿式系统相比，干式系统传输喷头开放信号的介质由有压气体改为有压水，干式系统中干式报警阀组替代了湿式系统中的湿式报警阀组，同时还增设了充气和气压维持装置。()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 同湿式系统相比, 干式系统传输喷头开放信号的介质由有压水改为有压气体，干式系统中干式报警阀组替代了湿式系统中的湿式报警阀组，同时还增设了充气和气压维持装置。
+
+---
+
+
+
+#### 判断题 212
+
+如发现送风机末端配电装置箱内有水渍、受潮现象，应用干抹布擦拭干净，确保配电装置干燥后再通电。（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 送风机末端配电装置的保养（3） 用软布将配电装置壳体、柜内设备和线路清洁干净，确保表面无污渍。如 发现配电柜有水渍、受潮现象，应用干软布擦拭干净，确保配电装置干燥后再通电。
+
+---
+
+
+
+#### 判断题 213
+
+具有多通道的线型感温火灾探测器应可指示出报警通道。（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 具有多通道的线型感温火灾探测器应指示出报警通道，并保持至复位。
+
+---
+
+
+
+#### 判断题 214
+
+当预先录制的播音内容不适应现场需求时，应当及时更换导入适用当前场景的播音内容后进行播音，避免因内容不符导致人员不能及时疏散。 ()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 当预先录制的播音内容不适应现场需求时，应当及时改用话筒进行临机广播。
+
+---
+
+
+
+#### 判断题 215
+
+火灾探测器根据火灾特征参数的不同，可分为点型火灾探测器和线型火灾探测器。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 火灾探测器根据其探测火灾特征参数的不同,可以分为感温、感烟、感光、气体、复合五种基本类型。
+
+---
+
+
+
+#### 判断题 216
+
+为了合理设计火灾自动报警系统，预防和减少火灾危害，保护人身和财产安全，制定《火灾自动报警系统施工及验收标准》。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 为了合理设计火灾自动报警系统，预防和减少火灾危害，保护人身和财产安全，制定《火灾自动报警系统设计规范》(GB50116)。结合题意，本题错误。
+
+---
+
+
+
+#### 判断题 217
+
+与火灾自动报警系统联动的防火卷帘两侧均应安装火灾探测器组和手动按钮盒。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 与火灾自动报警系统联动的防火卷帘两侧均应安装火灾探测器组和手动按钮盒。
+
+---
+
+
+
+#### 判断题 218
+
+防火分区是指在建筑内部采用防火墙、楼板及其他防火分隔设施分隔而成，能在一定时间内防止火灾向同一建筑的其余部分蔓延的局部空间。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 防火分区是指在建筑内部采用防火墙、楼板及其他防火分隔设施分隔而成，能在一定时间内防止火灾向同一建筑的其余部分蔓延的局部空间。
+
+---
+
+
+
+#### 判断题 219
+
+消防控制中心或值班室等地点应设置显示消防水池（水箱）水位的装置，同时应有最高和最低报警水位。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防控制中心或值班室等地点应设置显示消防水池（水箱）水位的装置，同时应有最高和最低报警水位。
+
+---
+
+
+
+#### 判断题 220
+
+区域控制器和集中控制器之间应能相互收、发相关信息和/或指令。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 系统兼容功能。区域控制器和集中控制器之间应能相互收、发相关信息和/或指令。
+
+---
+
+
+
+#### 判断题 221
+
+防火门按耐火性能分为甲级防火门、乙级防火门和丙级防火门。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 防火门按耐火极限分为甲级防火门、乙级防火门和丙级防火门。
+
+---
+
+
+
+#### 判断题 222
+
+集中火灾报警控制器应能检查设备本身的火灾报警功能，且在自检期间，受其控制的外接设备和输出接点均不应动作。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 集中火灾报警控制器应能检查设备本身的火灾报警功能，且在自检期间，受其控制的外接设备和输出接点均不应动作。
+
+---
+
+
+
+#### 判断题 223
+
+消防应急灯具按照工作方式分为集中控制型消防应急灯具和非集中控制型消防应急灯具。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 消防应急灯具按照工作方式分为持续型和非持续型灯具。
+
+---
+
+
+
+#### 判断题 224
+
+接通电源，多线控制盘正常运行，绿色工作指示灯应处于常亮状态。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 接通电源，多线控制盘正常运行，绿色工作指示灯应处于常亮状态。
+
+---
+
+
+
+#### 判断题 225
+
+在供电线路泄漏电流大于500 mA 时，剩余电流式电气火灾监控探测器宜在第一级配电柜(箱)设置。()
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 剩余电流式电气火灾监控探测器是指监测被保护线路中的剩余电流值变化的探测器，一般由剩余电流传感器和信号处理单元组成。剩余电流式电气火灾监控探测器应以设置在低压配电系统首端为基本原则，宜设置在第一级配电柜（箱）的出线端。在供电线路泄漏电流大于 500mA 时，宜在其下一级配电柜（箱）设置。
+
+---
+
+
+
+#### 判断题 226
+
+干式自动喷水灭火系统中的充气和气压维持装置，其作用是向系统侧管网充气和保持系统侧管网内气压。 ()
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 与湿式系统不同，干式系统中还应设置充气和气压维持装置，其作用是向系统 侧管网充气和保持系统侧管网内气压。
+
+---
+
+
+
+#### 判断题 227
+
+歌舞娱乐放映游艺场所布置在地下一层或地上四层及以上楼层时，每个房间的建筑面积不应大于200㎡。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 歌舞娱乐放映游艺场所的布置和分隔应符合下列规定。(1)应布置在地下一层及以上且埋深不大于 10m 的楼层。(2)当布置在地下一层或地上四层及以上楼层时，每个房间的建筑面积不应大200m2。 (3)房间之间应采用耐火极限不低于 2.00h 的防火隔墙分隔。(4)与建筑的其他部位之间应采用防火门、耐火极限不低于 2.00 h 的防火隔墙和耐火极限不低于1.00 的不燃性楼板分隔。当歌舞娱乐放映游艺场所设置在I级木结构建筑中时，应布置在首层、二层或二层。
+
+---
+
+
+
+#### 判断题 228
+
+火灾发生时，干式系统喷头动作后，快速排气装置可以快速排出系统管网中的气体，使干式阀尽快动作，水源快速进入供水管网喷水灭火。（）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 当确认火灾发生时，干式系统喷头动作后，快速排气装置可以快速排出系统管网中的气体，使干式报警阀尽快动作，水源快速进入供水管网喷水灭火。
+
+---
+
+
+
+#### 判断题 229
+
+火灾自动报警系统是以通过火灾早期探测和报警，向各类消防设备发出控制信号并接收设备反馈信号，进而实现预定消防功能为基本任务的一种自动消防设施。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 火灾自动报警系统是以通过火灾早期探测和报警，向各类消防设备发出控制信号并接收设备反馈信号，进而实现预定消防功能为基本任务的一种自动消防设施。
+
+---
+
+
+
+#### 判断题 230
+
+电压不但有大小而且有方向。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 电压不但有大小而且有方向。
+
+---
+
+
+
+#### 判断题 231
+
+消防水池的总蓄水有效容积大于1000m3 时，应设置两座能独立使用的消防水池。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 消防水池容积过大也会影响供水的可靠性，所以消防水池的总蓄水有效容积大于500 m3时，宜设两格能独立使用的消防水池；当大于1000m3时，应设置两座能独立使用的消防水池。
+
+---
+
+
+
+#### 判断题 232
+
+软件的概念要比程序大，软件不仅仅包括与计算机系统操作有关的程序，还包括有关的规程、规则，以及可能有的文件、文档及数据。(）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 软件的概念要比程序大，软件不仅包括与计算机系统操作有关的程序, 还包括有关的规程、规则，以及可能有的文件、文档及数据。
+
+---
+
+
+
+#### 判断题 233
+
+应急照明疏散指示系统在正常监视状态下，断开主电电源开关，故障指示灯点亮，主电工作指示灯熄灭，同时进入应急启动状态 。
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 如何操作应急照明控制器1.主电/备电切换主电测试。在系统正常监控状态下，断开主电电源开关，故障指示灯应点亮，主电工作指示灯熄灭，同时控制器应进入应急启动状态，并显示应急启动和主 电故障信息。备电测试。在系统正常监控状态下，断开备电电源开关，故障指示灯应点亮，备电工作指示灯熄灭，同时控制器应进入应急启动状态，并显示应急启动和备电故障信息。
+
+---
+
+
+
+#### 判断题 234
+
+联动控制不应影响连锁控制的功能。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 联动控制不应影响连锁控制的功能。
+
+---
+
+
+
+#### 判断题 235
+
+火灾自动报警系统控制器不可长时间处于备电工作状态，否则将导致蓄电池亏电损坏。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 火灾自动报警系统控制器不可长时间处于备电工作状态，否则将导致蓄电池亏电损坏。
+
+---
+
+
+
+#### 判断题 236
+
+电路主要是由电源、负载、中间环节（导线和开关等）三个基本部分组成。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 电路主要是由电源、负载、中间环节（导线和开关等）三个基本部分组成。
+
+---
+
+
+
+#### 判断题 237
+
+集中火灾报警控制器主要包括：显示板（含显示屏）、指示灯、开关和按钮、打印机、主板、输入/输出控制板、音响器件、网络接口组件、电源装置（含电池）、外壳等器件。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 集中火灾报警控制器主要包括：显示板（含显示屏）、指示灯、开关和按钮、打印机、主板、输入/输岀控制板、音响器件、网络接口组件、电源装置（含电池）、外壳等器件。根据题意，本题正确。
+
+---
+
+
+
+#### 判断题 238
+
+计算机系统运算和控制核心，信息处理、程序运行的最终执行单元是中央处理器，简称GPU。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 中央处理器（CPU）作为计算机系统的运算和控制核心，是信息处理、程序运行的最终执行单元，主要由控制器和运算器两部分组成。控制器是计算机的指挥中心，主要作用是控制管理计算机系统，它按照程序指令的操作要求向计算机的各个部分发出控制信号，使整个计算机协调一致地工作。运算器可以完成各种运算和处理，如完成各种算术运算和逻辑运算以及移位、比较等操作。
+
+---
+
+
+
+#### 判断题 239
+
+集中火灾报警控制器的电源部分应具有主电源和备用电源转换装置。（ ）
+
+<ul class="question-options">
+<li class="correct-option"><strong>A.</strong> 正确 <span class="correct-badge">正确</span></li>
+<li><strong>B.</strong> 错误</li>
+</ul>
+
+**解析：** 集中火灾报警控制器的电源部分应具有主电源和备用电源转换装置。
+
+---
+
+
+
+#### 判断题 240
+
+疏散楼梯间、疏散楼梯间的前室或合用前室的疏散照明地面最低水平照度不应低于5.0lx。（ ）
+
+<ul class="question-options">
+<li><strong>A.</strong> 正确</li>
+<li class="correct-option"><strong>B.</strong> 错误 <span class="correct-badge">正确</span></li>
+</ul>
+
+**解析：** 疏散楼梯间、疏散楼梯间的前室或合用前室的疏散照明地面最低水平照度不应低于10.0lx。 答题卡
+
+---
+
+## 整理校验
+
+- 单选题：4 套 × 100 题 = 400 题。
+- 多选题：4 套 × 40 题 = 160 题。
+- 判断题：4 套 × 60 题 = 240 题。
+- 合计：800 题。
+- 四份原文的题型、题号和答案字段均通过结构校验。
